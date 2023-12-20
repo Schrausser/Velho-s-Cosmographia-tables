@@ -1,3 +1,20 @@
+Darstellung und Übersetzung der Bezeichnungen.		
+~~~
+Texto em portogues	deutsch		english
+
+TERRA			Erde		Earth
+AR			Luft		Air
+FOGO			Feuer		Fire
+LVNA, LVA		Mond		Moon
+MERCVRIO		Merkur		Mercury
+VENVS			Venus		Venus
+SOL			Sonne		Sun
+MARS			Mars		Mars
+IVPITER			Jupiter		Jupiter
+SATURNO			Saturn		Saturn
+STRELAS			Sterne		Stars
+FIRMAMENTO		Firmament	Firmament
+~~~
 Darstellung des Inhaltes sowie Übersetzung der Sphärenparameter beginnend rechts oben im Uhrzeigersinn.		
 ~~~
 Inhalt						Text	
