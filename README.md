@@ -30,7 +30,7 @@ with b(n) = r(n)-r(n-1)	Sphere width in legues.
 with Radius r = d	Distance from the center of the earth or sphere radius in legues.
 ~~~			
 ![figure.\label{velho01}](velho01.png)
-Übersetzung der Rotationsbeschreibungen unten beginnend.		
+Translation of the rotation descriptions.		
 ~~~
 Texto em portogues		english
 
