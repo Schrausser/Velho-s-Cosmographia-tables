@@ -3,31 +3,31 @@
 
 Display of the content and translation of the sphere parameters starting at the top right in a clockwise direction.		
 ~~~
-Content											Text	
+Content			Text	
 
-1) Arc length BL(1∡°)				Legoas de hu grao : e cada hu globo celeste
+1) Arc length BL(1∡°)	Legoas de hu grao : e cada hu globo celeste
 
-with BL(1∡°) = U/360				Arc length per degree in legues.	
+with BL(1∡°) = U/360	Arc length per degree in legues.	
 
 
-2) Circumfence U						Legoas do mayor circulo de cada hu globo C'eleste.	
+2) Circumference U	Legoas do mayor circulo de cada hu globo C'eleste.	
 				
-with U = πD									Sphere circumfence in legues.	
+with U = πD		Sphere circumference in legues.	
 
 
-3) Diameter D								Legoas do diametro de cada hu globo celeste.	
+3) Diameter D		Legoas do diametro de cada hu globo celeste.	
 
-with D = 2r					Sphere diameter in legues.	
+with D = 2r		Sphere diameter in legues.	
 
 
-4) Width b					Legoas da gro sura de cada hu globo cesleste.	
+4) Width b		Legoas da gro sura de cada hu globo cesleste.	
 
-with b(n) = r(n)-r(n-1)			Sphere width in legues.	
+with b(n) = r(n)-r(n-1)	Sphere width in legues.	
 	
 
-5) Distance d					Legoas ate o centro da terra ‐ de cada hu globo celeste.
+5) Distance d		Legoas ate o centro da terra ‐ de cada hu globo celeste.
 
-with Radius r = d				Distance from the center of the earth or sphere radius in legues.
+with Radius r = d	Distance from the center of the earth or sphere radius in legues.
 ~~~
 				
 ![figure.\label{velho01}](velho01.png)
