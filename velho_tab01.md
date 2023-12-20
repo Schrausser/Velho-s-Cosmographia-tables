@@ -1,3 +1,9 @@
+Darstellung und Übersetzung der Illustration des ptolemäischen geozentrischen Modells des Universums aus Velhos Cosmographia von 1568.			
+~~~
+portugues	FIGURA DOS CORPOS CELESTES		
+deutsch		Darstellung der Himmelskörper.		
+english		Picture of the celestial bodies.
+~~~
 Darstellung und Übersetzung der Bezeichnungen.		
 ~~~
 Texto em portogues	deutsch		english
