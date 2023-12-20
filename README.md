@@ -1,13 +1,13 @@
-# velho01
+# Velho's Cosmographia tables
 *Cosmographia* (Velho, 1568), presented with elaborated and recalculated tables as well as corresponding images of the solar system.
 
-Translation of the text in the illustration () depicting Velho's geocentric model.			
+Translation of the text in the illustration (Velho, 1568, fol. rv) depicting Velho's geocentric model.			
 ~~~
 portugues	FIGURA DOS CORPOS CELESTES			
 english		Picture of the celestial bodies.
 ~~~
 
-Display of content and translation of sphere parameters starting at the top right in a clockwise direction.		
+Display of content and translation of sphere parameters starting at the top right in a clockwise direction (c.f. fig. 1).		
 ~~~
 Content			Text	
 
@@ -61,7 +61,7 @@ MOBILE EM 24 ORAS		mobile in 24 hours.
 CELVM EMPIREVM HABITACVLVM	Heaven of the home of
 DEI ET OMNIVM ELECTORUM		God and all chosen ones.
 ~~~
-Representation of the corresponding sizes of the spheres.  At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the *overall* picture whether you place the Earth or the Sun in the center.
+Representation of the corresponding sizes of the spheres (fig. 2).  At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the *overall* picture whether you place the Earth or the Sun in the center (see tables).
 ![figure.\label{velho02}](velho02.png)
 
 ## References
