@@ -48,7 +48,7 @@ wobei b(n) = r(n)-r(n-1)			Sphärenbreite in Leguas.
 
 wobei Radius r = d				Entfernung vom Erdmittelpunkt bzw. Sphärenradius in Leguas.	
 
-				english:	Disdance from the center of the earth or sphere radius in legues.
+				english:	Distance from the center of the earth or sphere radius in legues.
 ~~~
 
 
