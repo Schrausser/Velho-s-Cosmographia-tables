@@ -20,54 +20,30 @@ Darstellung des Inhaltes sowie Übersetzung der Sphärenparameter beginnend rech
 Inhalt						Text	
 
 1) Bogenlänge BL(1∡°)				Legoas de hu grao : e cada hu globo celeste	
-
 				deutsch:	Leguas im () Grad jedes () Himmelsglobus'.	
-
 bei BL(1∡°) = U/360				Bogenlänge pro Winkelgrad in Leguas.	
-
 				english:	Arc length per degree in legues.	
 
-
-
 2) Umfang U					Legoas do mayor circulo de cada hu globo C'eleste.	
-
 				deutsch:	Leguas vom größten Kreis jedes () Himmelsglobus'.	
-
 bei U = πD					Sphärenumfang in Leguas.	
-
 				english: 	Sphere circumference in legues.	
 
-		
-
 3) Durchmesser D				Legoas do diametro de cada hu globo celeste.	
-
 				deutsch:	Leguas vom Durchmesser jedes () Himmelsglobus'.	
-
 bei D = 2r					Sphärendurchmesser in Leguas.	
-
 				english:	Sphere diameter in legues.	
 
-		
-
 4) Breite b					Legoas da gro sura de cada hu globo cesleste.	
-
 				deutsch:	Leguas von der Dicke jedes () Himmelsgewölbes	
-
 wobei b(n) = r(n)-r(n-1)			Sphärenbreite in Leguas.	
-
 				english:	Sphere width in legues.	
 
-		
-
 5) Entfernung d					Legoas ate o centro da terra ‐ de cada hu globo celeste.	
-
 				deutsch:	Leguas bis zu Zentrum der Erde - jedes () Himmelsglobus'.	
-
 wobei Radius r = d				Entfernung vom Erdmittelpunkt bzw. Sphärenradius in Leguas.	
-
 				english:	Distance from the center of the earth or sphere radius in legues.
 ~~~
-
 
 Sphärenparameter in 'Legoas' L		
 ~~~		
