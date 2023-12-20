@@ -51,7 +51,7 @@ wobei Radius r = d				Entfernung vom Erdmittelpunkt bzw. Sphärenradius in Legua
 				english:	Distance from the center of the earth or sphere radius in legues.
 ~~~
 
-Sphärenparameter in 'Legoas' L		
+Sphärenparameter in 'Legoas' L.		
 ~~~		
 		Bogenlänge BL(1∡°)	Umfang U	Durchmesser D	Breite b	Radius r
 Mathematische 
@@ -95,7 +95,7 @@ Firmamento		562375,000	202455000,000	64417500,000	16339375,000	32208750,000
 ~~~
 *) Unleserlicher Wert D(x) wurde rekonstruiert nach D'(x)=2r(x).
 
-Relationen R der Parameter x zu y als Ry = y/x	
+Relationen R der Parameter y zu Bogenlänge x=BL0 als Ry = y/x.	
 ~~~
 	y=	U0		D0		b0		r0
 x
@@ -111,8 +111,12 @@ Mars		360,000043914	114,545468518	46,248823915	57,272734259
 Jupiter		360,000001639	114,545455067	27,347283721	57,272727533
 Saturno		359,999989689	114,545451265	21,240148908	57,272725632
 Firmamento	360,000000000	114,545454545	29,054234274	57,272727273
-
-Umfang U0	D*		b		r
+~~~
+Relationen RU von Umfang U0=y zu den Parametern x als RU = y/x	
+~~~
+	x=	D*		b		r
+y
+Umfang U0
 Terra		3,142857143	6,285714286
 Ar		3,142857143	6,984088273	6,285714286
 Fogo		3,142857143	9,950018130	6,285714286
