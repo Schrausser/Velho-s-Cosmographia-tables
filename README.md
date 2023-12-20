@@ -1,7 +1,7 @@
 # velho01
 *Cosmographia* (Velho, 1568), presented with elaborated and recalculated tables as well as corresponding images of the solar system.
 
-Display of the content and translation of the sphere parameters starting at the top right in a clockwise direction.		
+Display of content and translation of sphere parameters starting at the top right in a clockwise direction.		
 ~~~
 Content			Text	
 
