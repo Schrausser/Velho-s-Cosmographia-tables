@@ -73,4 +73,4 @@ Furtado, J. F. (2022). Cartography in the Administration of Portuguese America 
 
 Meirinhos, J. F. (2022). Celestial Bodies and Dimension of the Universe in Bartolomeu Velho’s Cosmographia. In *From Wisdom to Data: Philosophical Atlas on Visual Representations of Knowledge*, edited by Higuera, J.G., Romele, A., Rodighiero, D., & Pedro, C. Coleção Transversal. Porto: University of Porto Press. https://books.google.com/books?id=EAEezwEACAAJ
 
-Velho, B. (1568). *Principio da verdadeira cosmographia ... per Bartholomeu Velho portugues/neste anno de 1568*. Paris: Bibliothèque nationale de France. http://catalogue.bnf.fr/ark:/12148/cb416166390.
+Velho, B. (1568). *Principio da verdadeira cosmographia ... per Bartholomeu Velho portugues/neste anno de 1568*. Paris: Bibliothèque nationale de France. http://catalogue.bnf.fr/ark:/12148/cb416166390
