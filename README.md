@@ -3,8 +3,7 @@
 
 Translation of the text in the illustration () depicting Velho's geocentric model.			
 ~~~
-portugues	FIGURA DOS CORPOS CELESTES		
-deutsch		Darstellung der Himmelskörper.		
+portugues	FIGURA DOS CORPOS CELESTES			
 english		Picture of the celestial bodies.
 ~~~
 
