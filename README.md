@@ -1,7 +1,7 @@
 # velho01
 *Cosmographia* (Velho, 1568), presented with elaborated and recalculated tables as well as corresponding images of the solar system.
 
-des ptolemäischen geozentrischen Modells des Universums aus Velhos Cosmographia von 1568.			
+Translation of the text in the illustration () depicting Velho's geocentric model.			
 ~~~
 portugues	FIGURA DOS CORPOS CELESTES		
 deutsch		Darstellung der Himmelskörper.		
