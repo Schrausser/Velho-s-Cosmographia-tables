@@ -1,7 +1,7 @@
 # Velho's Cosmographia tables
 *Cosmographia* (Velho, 1568), presented with elaborated and recalculated tables as well as corresponding images of the solar system.
 
-Translation of the text in the illustration (Velho, 1568, fol. 10) depicting Velho's geocentric model.			
+Translation of the text in the illustration (Velho, 1568, fol. 10) depicting Velho's geocentric model (c.f. Domosh et al., 2020, p. 28).			
 ~~~
 portugues	FIGURA DOS CORPOS CELESTES			
 english		Picture of the celestial bodies.
@@ -65,4 +65,6 @@ Representation of the corresponding sizes of the spheres (fig. 2).  At this poin
 
 ![figure.\label{velho02}](velho02.png)
 ## References
+Domosh, M., Heffernan, M., & Withers, C.W.J. (2020). *The SAGE Handbook of Historical Geography*. Thousand Oaks, California: SAGE Publications. https://books.google.com/books?id=8n7vDwAAQBAJ
+
 Velho, B. (1568). *Principio da verdadeira cosmographia ... per Bartholomeu Velho portugues/neste anno de 1568*. Paris: Bibliothèque nationale de France. http://catalogue.bnf.fr/ark:/12148/cb416166390.
