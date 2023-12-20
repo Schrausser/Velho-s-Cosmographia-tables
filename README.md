@@ -28,9 +28,42 @@ with b(n) = r(n)-r(n-1)	Sphere width in legues.
 5) Distance d		Legoas ate o centro da terra ‐ de cada hu globo celeste.
 
 with Radius r = d	Distance from the center of the earth or sphere radius in legues.
-~~~
-				
+~~~			
 ![figure.\label{velho01}](velho01.png)
+Übersetzung der Rotationsbeschreibungen unten beginnend.		
+~~~
+Texto em portogues		english
+
+R. DA LVA			Orbital period of the Moon
+EN 27 DIAS E 8 ORAS		in 27 days and 8 hours.
+
+R. DE MERCVRIO			Orbital period of Mercury
+EN 70 DIAS E 7 ORAS		in 70 days and 7 hours.
+
+REVOLVCAO DE VENUS		Orbital period of Venus
+EN 273 DIAS E 23 ORAS		in 273 days and 23 hours.
+
+REVOLVCAC DO SOL		Orbital period of the Sun
+EN 365 DIAS E SEIS ORAS		in 365 days and six hours.
+
+REVOLVCAO DE MARS		Orbital period of Mars
+EN DOVS ANNOS			in two years.
+
+REVOLVCAO DO CEO D IVPITER	Orbital period of the Jupiter sky
+EN DOZE ANNOS			in twelve years.
+
+REVOLVCAO DO CEO D SATVRNO	Orbital period of the Saturn sky
+EN TRINTA ANNOS			in thirty years.
+
+REVOLVCAO DO CEO DAS ES TRELAS	Orbital period of the starry sky
+EN 36000 ANOS			in 36000 years.
+
+REVOLVCAO DO PRIMO		Orbital period of the first
+MOBILE EM 24 ORAS		mobile in 24 hours.
+
+CELVM EMPIREVM HABITACVLVM	Heaven of the home of
+DEI ET OMNIVM ELECTORUM		God and all chosen ones.
+~~~
 ![figure.\label{velho02}](velho02.png)
 ![figure.\label{velho03}](velho03.png)
 ![figure.\label{velho04}](velho04.png)
