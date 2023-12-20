@@ -1,7 +1,7 @@
 # Velho's Cosmographia tables
 *Cosmographia* (Velho, 1568), presented with elaborated and recalculated tables as well as corresponding images of the solar system.
 
-Translation of the text in the illustration (Velho, 1568, fol. rv) depicting Velho's geocentric model.			
+Translation of the text in the illustration (Velho, 1568, fol. 10) depicting Velho's geocentric model.			
 ~~~
 portugues	FIGURA DOS CORPOS CELESTES			
 english		Picture of the celestial bodies.
