@@ -1,7 +1,7 @@
 # Velho's Cosmographia tables
-*Cosmographia* (Velho, 1568), presented with elaborated and recalculated tables as well as corresponding images of the solar system.
+*Cosmographia's* illustration (Velho, 1568, fol. 10) depicting his geocentric model (c.f. Domosh et al., 2020, p. 28) with tables elaborated and recalculated as well as presented with corresponding images of the solar system.
 
-Translation of the text in the illustration (Velho, 1568, fol. 10) depicting Velho's geocentric model (c.f. Domosh et al., 2020, p. 28).			
+Translation of the headline text		
 ~~~
 portugues	FIGURA DOS CORPOS CELESTES			
 english		Picture of the celestial bodies.
@@ -24,8 +24,10 @@ with D = 2r		Sphere diameter in legues.
 with b(n) = r(n)-r(n-1)	Sphere width in legues.	
 	
 5) Distance d		Legoas ate o centro da terra ‐ de cada hu globo celeste.
-with Radius r = d	Distance from the center of the earth or sphere radius in legues.
-~~~			
+with Radius r = d	Distance from the center of the earth or sphere radius in legues.  
+~~~
+
+Figure 1. 		
 ![figure.\label{velho01}](velho01.png)
 Translation of the rotation descriptions.		
 ~~~
@@ -61,8 +63,9 @@ MOBILE EM 24 ORAS		mobile in 24 hours.
 CELVM EMPIREVM HABITACVLVM	Heaven of the home of
 DEI ET OMNIVM ELECTORUM		God and all chosen ones.
 ~~~
-Representation of the corresponding sizes of the spheres (fig. 2).  At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the *overall* picture whether you place the Earth or the Sun in the center (see `velho_tab01.md`, `velho_tab02.md` tables).
+Representation of the corresponding sizes of the spheres (fig. 2).  At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the *overall* picture whether you place the Earth or the Sun in the center (see `velho_tab01.md`, `velho_tab02.md` tables).  
 
+Figure 2.
 ![figure.\label{velho02}](velho02.png)
 
 For further readings see c.f. Furtado (2022) or Meirinhos (2022).
