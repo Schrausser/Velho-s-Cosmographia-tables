@@ -1,5 +1,5 @@
 # Velho's Cosmographia tables
-*Cosmographia's* illustration (Velho, 1568, fol. 10) depicting his geocentric model (c.f. Domosh et al., 2020, p. 28) with tables elaborated and recalculated as well as presented with corresponding images of the solar system.
+*Cosmographia's* illustration (Velho, 1568, fol. 9v-10r) depicting his geocentric model (c.f. Domosh et al., 2020, p. 28) with tables elaborated and recalculated as well as presented with corresponding images of the solar system.
 
 Translation of the headline text		
 ~~~
