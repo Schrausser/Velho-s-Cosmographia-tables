@@ -68,7 +68,7 @@ Representation of the corresponding sizes of the spheres (fig. 2).  At this poin
 Figure 2.
 ![figure.\label{velho02}](velho02.png)
 
-For further readings see c.f. Furtado (2022) or Meirinhos (2022).
+For further readings see e.g. Furtado (2022) or Meirinhos (2022).
 ## References
 Domosh, M., Heffernan, M., & Withers, C.W.J. (2020). *The SAGE Handbook of Historical Geography*. Thousand Oaks, California: SAGE Publications. https://books.google.com/books?id=8n7vDwAAQBAJ
 
