@@ -68,7 +68,7 @@ Representation of the corresponding sizes of the spheres (fig. 2).  At this poin
 Figure 2.
 ![figure.\label{velho02}](velho02.png)
 
-For further readings see e.g. Campbell (1978, p. 2), Furtado (2022), Krtalić & McIntosh (2022) or Meirinhos (2022).
+For further readings see e.g. Campbell (1978, p. 105), Furtado (2022), Krtalić & McIntosh (2022) or Meirinhos (2022).
 
 ## References
 
