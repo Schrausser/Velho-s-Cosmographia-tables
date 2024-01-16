@@ -1,5 +1,5 @@
 # Velho's Cosmographia tables
-Bartholomeu Velho's *Cosmographia* illustration (1568, fol. 9v-10r) depicting his geocentric model (c.f. Domosh et al., 2020, p. 28) with tables elaborated and recalculated as well as presented with corresponding images of *his*  solar system.
+Bartholomeu Velho's *Cosmographia* illustration (1568, fol. 9v-10r) depicting his geocentric model (c.f. Domosh et al., 2020, p. 28) with tables elaborated and recalculated as well as presented with corresponding images of *his*  solar system (c.f. Foncin, 1960; Codazzi, 1964 and Cortesão, 1965, 2009, res.)
 
 Translation of the headline text		
 ~~~
@@ -74,7 +74,15 @@ For further readings see e.g. Campbell (1978, p. 105), Furtado (2022), Krtalić 
 
 Campbell, T. (1978). Chronicle. *Imago Mundi 30*: 103–8. http://www.jstor.org/stable/1150712.
 
+Codazzi, A. (1964). The Contribution of Roberto Almagià to the History of Cartography. *Imago Mundi 18*: 78–80. http://www.jstor.org/stable/1150381.
+
+Cortesão, J. (1965). *História do Brasil nos Velhos Mapas*. Vol. 2. História Do Brasil Nos Velhos Mapas. Brasilia: Ministor̄io das Relações Exteriores, Instituto Rio Branco. https://books.google.com/books?id=9TkNAAAAYAAJ.
+
+———. (2009). *História Do Brasil Nos Velhos Mapas - Obras Completas IX*. Portuguese. Vol. 1. Lisbon: INCM – Imprensa Nacional Casa da Moeda. https://www.amazon.com/Hist%C3%B3ria-Brasil-Velhos-Mapas-portugiesisch/dp/9722717952.
+
 Domosh, M., Heffernan, M., & Withers, C.W.J. (2020). *The SAGE Handbook of Historical Geography*. Thousand Oaks, California: SAGE Publications. https://books.google.com/books?id=8n7vDwAAQBAJ
+
+Foncin, M. (1960). Some Manuscript Maps Recently Acquired by the Département Des Cartes Et Plans of the Bibliothèque Nationale, Paris. *Imago Mundi 15*: 40–45. http://www.jstor.org/stable/1150275.
 
 Furtado, J. F. (2022). Cartography in the Administration of Portuguese America from the 16th to 18th Centuries. In *The Oxford Encyclopedia of Brazilian History and Culture*, edited by Palacios, G. Oxford: University Press. https://doi.org/10.1093/acrefore/9780199366439.013.773
 
