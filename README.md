@@ -1,5 +1,5 @@
 # Velho's Cosmographia tables
-Bartholomeu Velho's *Cosmographia* illustration (1568, fol. 9v-10r) depicting his geocentric model (c.f. Domosh et al., 2020, p. 28) with tables elaborated and recalculated as well as presented with corresponding images of *his*  solar system (c.f. Foncin, 1960; Codazzi, 1964 and Cortesão, 1965, 2009, res.)
+Bartholomeu Velho's *Cosmographia* illustration (1568, fol. 9v-10r) depicting his geocentric model (c.f. Domosh et al., 2020, p. 28) with tables elaborated and recalculated as well as presented with corresponding images of *his*  solar system (c.f. Foncin, 1960, p. 43-44; Codazzi, 1964, p. 78; Cortesão, 1965, 2009, res.)
 
 Translation of the headline text		
 ~~~
