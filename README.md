@@ -30,8 +30,17 @@ Parameter		Text
 5) Distance d		Legoas ate o centro da terra ‐ de cada hu globo celeste.
                 	Distance from the center of the earth or sphere radius in legues.  
 ~~~
-Where Arc length per degree $BL_{1∡°}=\frac{U}{360}$ with Circumference $U=\pi D$ and Diameter $D=2r$.
-Width $b$ is calculated by $b_n=r_n-r_{n-1}$, where Radius $r$ equals Distance $d$.
+Where Arc length *BL* per degree $∡°$ is calculated by
+
+$$BL_{∡°}=\frac{U}{360},$$
+
+with Circumference $U=\pi D$ and Diameter $D=2r$.
+
+Width $b$ at given $n$ is calculated by
+
+$$b_n=r_n-r_{(n-1)},$$
+
+where Radius $r$ equals Distance $d$.
 
 Figure 1. 		
 ![figure.\label{velho01}](velho01.png)
