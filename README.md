@@ -13,7 +13,7 @@ english		Picture of the celestial bodies.
 
 Display and translation of sphere parameters starting at the top right in a clockwise direction (c.f. fig. 1).		
 ~~~
-Parameter			Text	
+Parameter		Text	
 
 1) Arc length BL	Legoas de hu grao : e cada hu globo celeste
                 	Arc length per degree in legues.	
@@ -30,8 +30,8 @@ Parameter			Text
 5) Distance d		Legoas ate o centro da terra ‐ de cada hu globo celeste.
                 	Distance from the center of the earth or sphere radius in legues.  
 ~~~
-Where $BL_{1∡°}=\frac{U}{360}$ with $U=\pi D$ and $D=2r$.
-Width $b$ is calculated by $b_n=r_n-r_{n-1}$, where $r=d$.
+Where Arc length per degree $BL_{1∡°}=\frac{U}{360}$ with Circumference $U=\pi D$ and Diameter $D=2r$.
+Width $b$ is calculated by $b_n=r_n-r_{n-1}$, where Radius $r$ equals Distance $d$.
 
 Figure 1. 		
 ![figure.\label{velho01}](velho01.png)
