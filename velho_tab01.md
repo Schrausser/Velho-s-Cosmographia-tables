@@ -30,12 +30,12 @@ Parameter						Text
 with BL(1∡°) = U/360				Bogenlänge pro Winkelgrad in Leguas.	
 				english:	Arc length per degree in legues.	
 
-2) Circumference U					Legoas do mayor circulo de cada hu globo C'eleste.	
+2) Circumference U				Legoas do mayor circulo de cada hu globo C'eleste.	
 				deutsch:	Leguas vom größten Kreis jedes () Himmelsglobus'.	
 with U = πD					Sphärenumfang in Leguas.	
 				english: 	Sphere circumference in legues.	
 
-3) Diameter D				Legoas do diametro de cada hu globo celeste.	
+3) Diameter D	        			Legoas do diametro de cada hu globo celeste.	
 				deutsch:	Leguas vom Durchmesser jedes () Himmelsglobus'.	
 with D = 2r					Sphärendurchmesser in Leguas.	
 				english:	Sphere diameter in legues.	
