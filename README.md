@@ -34,7 +34,7 @@ Where Arc length *BL* per degree $∡°$ is calculated by
 
 $$BL_{∡°}=\frac{U}{360},$$
 
-with Circumference $U=\pi D$ and Diameter $D=2r$.
+with Circumference $U=\pi⋅D$ and Diameter $D=2⋅r$.
 
 Width $b$ at given $n$ is calculated by
 
