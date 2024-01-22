@@ -53,9 +53,9 @@ where Radius r = d				Entfernung vom Erdmittelpunkt bzw. Sphärenradius in Legua
 
 Sphere parameters in 'Legoas' L.		
 ~~~		
-		Arc length  BL(1∡°)	Circumf. U	Diameter D	Width b 	Radius r
-Mathematische 
-Zahl					
+	        	Arc length  BL	Circumf. U	Diameter D	Width b 	Radius r
+
+Fractional number
 Terra			17 1/2		6300		2004 6/11			1002 3/11
 Ar			175		63001 5/7	20046		9020 3/4	10023
 Fogo			476 1/2		171501		54568 1/2	17236 1/4	27284 1/4
@@ -80,7 +80,7 @@ Jupiter			1568917/9	125513930/7	19968125*	9534625/2	19968125/2
 Saturno			831253/3	698252500/7	3173875/10	11770625/2	15869375
 Firmamento		562375		202455/1000	644175/100	16339375	3220875/10
 
-Dezimalzahl					
+Decimal number				
 Terra			17,500		6300,000	2004,545			1002,273
 Ar			175,000		63001,714	20046,000	9020,750	10023,000
 Fogo			476,500		171501,000	54568,500	17236,250	27284,250
@@ -93,13 +93,13 @@ Jupiter			174324,900	62756964,286	19968125,00*	4767312,500	9984062,500
 Saturno			277084,333	99750357,143	31738750,000	5885312,500	15869375,000
 Firmamento		562375,000	202455000,000	64417500,000	16339375,000	32208750,000
 ~~~
-*) Unleserlicher Wert D(x) wurde rekonstruiert nach D'(x)=2r(x).
+*) Illegible value D(x) was reconstructed according to D'(x)=2r(x).
 
-Relationen R der Parameter y zu Bogenlänge x=BL0 als Ry = y/x.	
+Relations R of parameters y to Arc length x=BL0 where Ry = y/x.	
 ~~~
 	y=	U0		D0		b0		r0
 x
-Bogenlänge BL0					
+Arc length BL0					
 Terra		360,000000000	114,545454545	57,272727273
 Ar		360,009795918	114,548571429	51,547142857	57,274285714
 Fogo		359,918153200	114,519412382	36,172612802	57,259706191
@@ -112,11 +112,11 @@ Jupiter		360,000001639	114,545455067	27,347283721	57,272727533
 Saturno		359,999989689	114,545451265	21,240148908	57,272725632
 Firmamento	360,000000000	114,545454545	29,054234274	57,272727273
 ~~~
-Relationen RU von Umfang U0=y zu den Parametern x als RU = y/x	
+Relations RU of Circumference U0=y to parameters x with RU = y/x	
 ~~~
 	x=	D*		b		r
 y
-Umfang U0
+Circumference U0
 Terra		3,142857143	6,285714286
 Ar		3,142857143	6,984088273	6,285714286
 Fogo		3,142857143	9,950018130	6,285714286
@@ -129,11 +129,11 @@ Jupiter		3,142857143	13,164013118	6,285714286
 Saturno		3,142857143	16,949033232	6,285714286
 Firmamento	3,142857143	12,390620816	6,285714286
 ~~~
-*) pi0 aus U0/D0= 3,'142857' bzw. pi0 = 3 1/7 = 22/7.					
+*) pi0 from U0/D0= 3,'142857', pi0 = 3 1/7 = 22/7, res.					
 
-Rückrechnung x' der Parameter x nach x'=Ry y						
+Recalculation x' of parameters x, where x'=Ry y						
 ~~~
-		Umfang U0/360				Bogenlänge BL0 360			
+		Circumference U0/360				Arc length BL0 360			
 		BL'			diff BL'-BL0	U'			diff U'-U0		
 
 Terra		17,500000000		0,000000000	6300,000000		0		0		0
@@ -148,7 +148,7 @@ Jupiter		174324,900793651	0,000793651	62756964,000000		-0,285714	-2/7		-2/7
 Saturno		277084,325396825	-0,007936508	99750360,000000		3,142857	3 1/7		22/7
 Firmamento	562375,000000000	0,000000000	202455000,000000	0		0		0
 
-		Breite b0 				Radius r0			
+		Width b0 				Radius r0			
 		r'			diff r'-r0	b'			diff b'-b0		
 
 Ar		10023,022727273		0,02272727	9020,727272727		-0,02272727	-1/44		-1/44
@@ -162,7 +162,7 @@ Jupiter		9984062,500000000	0,00000000	4767312,500000000	0,00000000	0		0
 Saturno		15869375,000000000	0,00000000	5885312,500000000	0,00000000	0		0
 Firmamento	32208750,000000000	0,00000000	16339375,000000000	0,00000000	0		0
 ~~~
-*) eine mit pi0 zusammenhängende Inkonsistenz wird bei Merkur indiziert.  					
+*) an inconsistency related to $\pi_0$ is indexed at *Mercury*.  					
 
-**) weitere Inkonsistenzen.
+**) further inconsistencies.
 
