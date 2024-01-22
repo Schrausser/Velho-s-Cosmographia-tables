@@ -129,7 +129,7 @@ Jupiter		3,142857143	13,164013118	6,285714286
 Saturno		3,142857143	16,949033232	6,285714286
 Firmamento	3,142857143	12,390620816	6,285714286
 ~~~
-*) $\pi_0$ from $\frac{U_0}{D_0}= 3,'142857'$, $pi_0 = 3 \frac{1}{7}= \frac{22}{7}$, res.					
+*) $\pi_0$ from $\frac{U_0}{D_0}= 3.\overline{142857}$, $pi_0 = 3 \frac{1}{7}= \frac{22}{7}$, res.					
 
 Recalculation $x'$ of parameters $x$, where $x'=R_y⋅y$.						
 ~~~
