@@ -51,7 +51,7 @@ where Radius r = d				Entfernung vom Erdmittelpunkt bzw. Sphärenradius in Legua
 				english:	Distance from the center of the earth or sphere radius in legues.
 ~~~
 
-Sphere parameters in 'Legoas' L.		
+Sphere parameters in *Legoas* $L$.		
 ~~~		
 	        	Arc length  BL	Circumf. U	Diameter D	Width b 	Radius r
 
@@ -93,9 +93,9 @@ Jupiter			174324,900	62756964,286	19968125,00*	4767312,500	9984062,500
 Saturno			277084,333	99750357,143	31738750,000	5885312,500	15869375,000
 Firmamento		562375,000	202455000,000	64417500,000	16339375,000	32208750,000
 ~~~
-*) Illegible value D(x) was reconstructed according to D'(x)=2r(x).
+*) Illegible value $D_x$ was reconstructed with $D'_x=2r_x$.
 
-Relations R of parameters y to Arc length x=BL0 where Ry = y/x.	
+Relations $R$ of parameters $y$ to Arc length $x=BL_0$ where $R_y = \frac{y}{x}$.	
 ~~~
 	y=	U0		D0		b0		r0
 x
@@ -112,7 +112,7 @@ Jupiter		360,000001639	114,545455067	27,347283721	57,272727533
 Saturno		359,999989689	114,545451265	21,240148908	57,272725632
 Firmamento	360,000000000	114,545454545	29,054234274	57,272727273
 ~~~
-Relations RU of Circumference U0=y to parameters x with RU = y/x	
+Relations $RU$ of Circumference $U_0=y$ to parameters $x$ with $RU = \frac{y}{x}$.	
 ~~~
 	x=	D*		b		r
 y
@@ -129,7 +129,7 @@ Jupiter		3,142857143	13,164013118	6,285714286
 Saturno		3,142857143	16,949033232	6,285714286
 Firmamento	3,142857143	12,390620816	6,285714286
 ~~~
-*) pi0 from U0/D0= 3,'142857', pi0 = 3 1/7 = 22/7, res.					
+*) $\pi_0$ from $\frac{U_0}{D_0}= 3,'142857'$, $pi0 = 3 \frac{1}{7}= \frac{22}{7}$, res.					
 
 Recalculation x' of parameters x, where x'=Ry y						
 ~~~
