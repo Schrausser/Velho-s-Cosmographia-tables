@@ -25,9 +25,9 @@ Display and translation of *sphere parameters* starting at the top right in a cl
 ~~~
 Parameter					Text	
 
-1) Arc length  BL(1∡°)				Legoas de hu grao : e cada hu globo celeste	
+1) Arc length  BL(∡°)				Legoas de hu grao : e cada hu globo celeste	
 				deutsch:	Leguas im () Grad jedes () Himmelsglobus'.	
-with BL(1∡°) = U/360				Bogenlänge pro Winkelgrad in Leguas.	
+with BL(∡°) = U/360				Bogenlänge pro Winkelgrad in Leguas.	
 				english:	Arc length per degree in legues.	
 
 2) Circumference U				Legoas do mayor circulo de cada hu globo C'eleste.	
