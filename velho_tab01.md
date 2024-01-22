@@ -25,35 +25,35 @@ Display and translation of sphere parameters starting at the top right in a cloc
 ~~~
 Parameter						Text	
 
-1) Bogenlänge BL(1∡°)				Legoas de hu grao : e cada hu globo celeste	
+1) Arc length  BL(1∡°)				Legoas de hu grao : e cada hu globo celeste	
 				deutsch:	Leguas im () Grad jedes () Himmelsglobus'.	
-bei BL(1∡°) = U/360				Bogenlänge pro Winkelgrad in Leguas.	
+with BL(1∡°) = U/360				Bogenlänge pro Winkelgrad in Leguas.	
 				english:	Arc length per degree in legues.	
 
-2) Umfang U					Legoas do mayor circulo de cada hu globo C'eleste.	
+2) Circumference U					Legoas do mayor circulo de cada hu globo C'eleste.	
 				deutsch:	Leguas vom größten Kreis jedes () Himmelsglobus'.	
-bei U = πD					Sphärenumfang in Leguas.	
+with U = πD					Sphärenumfang in Leguas.	
 				english: 	Sphere circumference in legues.	
 
-3) Durchmesser D				Legoas do diametro de cada hu globo celeste.	
+3) Diameter D				Legoas do diametro de cada hu globo celeste.	
 				deutsch:	Leguas vom Durchmesser jedes () Himmelsglobus'.	
-bei D = 2r					Sphärendurchmesser in Leguas.	
+with D = 2r					Sphärendurchmesser in Leguas.	
 				english:	Sphere diameter in legues.	
 
-4) Breite b					Legoas da gro sura de cada hu globo cesleste.	
+4) Width b					Legoas da gro sura de cada hu globo cesleste.	
 				deutsch:	Leguas von der Dicke jedes () Himmelsgewölbes	
-wobei b(n) = r(n)-r(n-1)			Sphärenbreite in Leguas.	
+where b(n) = r(n)-r(n-1)			Sphärenbreite in Leguas.	
 				english:	Sphere width in legues.	
 
-5) Entfernung d					Legoas ate o centro da terra ‐ de cada hu globo celeste.	
+5) Distance d					Legoas ate o centro da terra ‐ de cada hu globo celeste.	
 				deutsch:	Leguas bis zu Zentrum der Erde - jedes () Himmelsglobus'.	
-wobei Radius r = d				Entfernung vom Erdmittelpunkt bzw. Sphärenradius in Leguas.	
+where Radius r = d				Entfernung vom Erdmittelpunkt bzw. Sphärenradius in Leguas.	
 				english:	Distance from the center of the earth or sphere radius in legues.
 ~~~
 
 Sphere parameters in 'Legoas' L.		
 ~~~		
-		Bogenlänge BL(1∡°)	Umfang U	Durchmesser D	Breite b	Radius r
+		Arc length  BL(1∡°)	Circumf. U	Diameter D	Width b 	Radius r
 Mathematische 
 Zahl					
 Terra			17 1/2		6300		2004 6/11			1002 3/11
