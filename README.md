@@ -39,7 +39,7 @@ $$BL_{∡°}=\frac{U}{360},$$
 
 where Circumference $U=\pi_0⋅D$ and Diameter $D=2⋅r$. The corresponding circular constant $\pi_0$ used by Velho can be derived from given $U_0$ and $D_0$ as
 
-$$\pi_0=\frac{U_0}{D_0}= 3,'142857'$$
+$$\pi_0=\frac{U_0}{D_0}= 3.\overline{142857}$$
 
 or $\pi_0=\frac{22}{7}$, respectively. Width $b$ at given $n$ is calculated by
 
