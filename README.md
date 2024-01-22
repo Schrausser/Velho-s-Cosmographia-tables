@@ -15,7 +15,7 @@ Display and translation of sphere parameters starting at the top right in a cloc
 ~~~
 Parameter			Text	
 
-1) Arc length BL(1∡°)	Legoas de hu grao : e cada hu globo celeste
+1) Arc length BL	Legoas de hu grao : e cada hu globo celeste
                 	Arc length per degree in legues.	
 
 2) Circumference U	Legoas do mayor circulo de cada hu globo C'eleste.				
@@ -31,7 +31,7 @@ Parameter			Text
                 	Distance from the center of the earth or sphere radius in legues.  
 ~~~
 Where $BL_{1∡°}=\frac{U}{360}$ with $U=\pi D$ and $D=2r$.
-Width is calculated by $b_n=r_n-r_{n-1}$, where $r=d$.
+Width $b$ is calculated by $b_n=r_n-r_{n-1}$, where $r=d$.
 
 Figure 1. 		
 ![figure.\label{velho01}](velho01.png)
