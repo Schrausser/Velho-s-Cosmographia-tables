@@ -49,7 +49,7 @@ REVOLVCAO DO CEO DAS ES TRELAS	131491000	13149/1000	13149000,000
 Radius $r$ in $km$ compared to several *conversion factors*.
 ~~~
 					Legua				
-		km actual		Terr. antiga	Belgisch	Antiga		de 25 ao grao	Gallisch
+		km actual		Terr. antiga	Belgian 	Antiga		de 25 ao grao	Gallic
 
 Terra	 	6 378,00 	 	6 615,00 	 6 294,27 	 6 211,08 	 4 454,55 	 2 227,05 
 Ar		12 000,00*	 	66 151,80 	 62 944,44 	 62 112,53 	 44 546,67 	 22 271,11 
