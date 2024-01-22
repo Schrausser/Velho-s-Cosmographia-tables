@@ -11,9 +11,9 @@ portugues	FIGURA DOS CORPOS CELESTES
 english		Picture of the celestial bodies.
 ~~~
 
-Display of content and translation of sphere parameters starting at the top right in a clockwise direction (c.f. fig. 1).		
+Display and translation of sphere parameters starting at the top right in a clockwise direction (c.f. fig. 1).		
 ~~~
-Content			Text	
+Parameter			Text	
 
 1) Arc length BL(1∡°)	Legoas de hu grao : e cada hu globo celeste
 with BL(1∡°) = U/360	Arc length per degree in legues.	
