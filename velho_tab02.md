@@ -33,7 +33,7 @@ CELVM EMPIREVM HABITACVLVM	Der Himmel des Wohnortes	Heaven of the home of
 DEI ET OMNIVM ELECTORUM		Gottes und aller Auserwählten.	God and all chosen ones.
 ~~~
 
-Comparison of *circulation* times in days $d$.			
+Comparison of *rotation times* in days $d$.			
 ~~~		
 				d		Fractional	Decimal		Actual		diff.
 
