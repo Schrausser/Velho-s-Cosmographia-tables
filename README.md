@@ -5,13 +5,13 @@ Bartholomeu Velho's *Cosmographia* illustration (1568, fol. 9v-10r) depicting hi
 
 See also Codazzi (1964, p. 78) and Cortesão (1965, 2009, respectively).
 
-Translation of the headline text.		
+Translation of the *headline* text.		
 ~~~
 portugues	FIGURA DOS CORPOS CELESTES			
 english		Picture of the celestial bodies.
 ~~~
 
-Display and translation of sphere parameters starting at the top right in a clockwise direction (c.f. fig. 1).		
+Display and translation of *sphere parameters* starting at the top right in a clockwise direction (c.f. fig. 1).		
 ~~~
 Parameter		Text	
 
@@ -37,7 +37,7 @@ Arc length *BL* per degree $∡°$ is calculated by
 
 $$BL_{∡°}=\frac{U}{360},$$
 
-where Circumference $U=\pi_0⋅D$ and Diameter $D=2⋅r$. The corresponding circular constant $\pi_0$ used by Velho can be derived from given $U_0$ and $D_0$ as
+where Circumference $U=\pi_0⋅D$ and Diameter $D=2⋅r$. The *corresponding* circular constant $\pi_0$ used by Velho can be derived from given $U_0$ and $D_0$ as
 
 $$\pi_0=\frac{U_0}{D_0}= 3.\overline{142857}$$
 
@@ -47,7 +47,7 @@ $$b_n=r_n-r_{(n-1)},$$
 
 where Radius $r$ equals Distance $d$.
 
-Translation of the rotation descriptions.		
+Translation of the *rotation* descriptions.		
 ~~~
 Texto em portogues		english
 
@@ -81,7 +81,7 @@ MOBILE EM 24 ORAS		mobile in 24 hours.
 CELVM EMPIREVM HABITACVLVM	Heaven of the home of
 DEI ET OMNIVM ELECTORUM		God and all chosen ones.
 ~~~
-Representation of the corresponding sizes of the spheres (fig. 2).  At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the *overall* picture whether you place the Earth or the Sun in the center (see `velho_tab01.md`, `velho_tab02.md` tables).  
+Representation of the corresponding *sizes* of the spheres (fig. 2). At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the *overall* picture whether you place the Earth or the Sun in the center (see `velho_tab01.md`, `velho_tab02.md` tables).  
 
 Figure 2.
 ![figure.\label{velho02}](velho02.png)
