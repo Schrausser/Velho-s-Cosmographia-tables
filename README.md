@@ -5,7 +5,7 @@ Bartholomeu Velho's *Cosmographia* illustration (1568, fol. 9v-10r) depicting hi
 
 See also Codazzi (1964, p. 78) and Cortesão (1965, 2009, respectively).
 
-Translation of the headline text		
+Translation of the headline text.		
 ~~~
 portugues	FIGURA DOS CORPOS CELESTES			
 english		Picture of the celestial bodies.
@@ -30,20 +30,19 @@ Parameter		Text
 5) Distance d		Legoas ate o centro da terra ‐ de cada hu globo celeste.
                 	Distance from the center of the earth or sphere radius in legues.  
 ~~~
-Where Arc length *BL* per degree $∡°$ is calculated by
+Figure 1. 		
+![figure.\label{velho01}](velho01.png)
+
+Arc length *BL* per degree $∡°$ is calculated by
 
 $$BL_{∡°}=\frac{U}{360},$$
 
-with Circumference $U=\pi⋅D$ and Diameter $D=2⋅r$.
-
-Width $b$ at given $n$ is calculated by
+where Circumference $U=\pi⋅D$ and Diameter $D=2⋅r$. Width $b$ at given $n$ is calculated by
 
 $$b_n=r_n-r_{(n-1)},$$
 
 where Radius $r$ equals Distance $d$.
 
-Figure 1. 		
-![figure.\label{velho01}](velho01.png)
 Translation of the rotation descriptions.		
 ~~~
 Texto em portogues		english
