@@ -1,4 +1,4 @@
-Übersetzung der Rotationsbeschreibungen unten beginnend.		
+Translation of the *rotation* descriptions.		
 ~~~
 Texto em portogues		deutsch				english
 
@@ -33,9 +33,9 @@ CELVM EMPIREVM HABITACVLVM	Der Himmel des Wohnortes	Heaven of the home of
 DEI ET OMNIVM ELECTORUM		Gottes und aller Auserwählten.	God and all chosen ones.
 ~~~
 
-Umlaufzeiten in Tagen d im Vergleich.			
+Comparison of *circulation* times in days $d$.			
 ~~~		
-				d		Mathematisch	Dezimal		Aktuell		diff.
+				d		Fractional	Decimal		Actual		diff.
 
 R. DA LVA			27 1/3		82/3		27,333		27,322		0,012
 R. DE MERCVRIO			70 7/24		1687/24		70,292		88,000		-17,708
@@ -46,10 +46,10 @@ REVOLVCAO DO CEO D IVPITER	4383		4383		4383,000||	4346,475	36,525|
 REVOLVCAO DO CEO D SATVRNO	10957 1/2	21915/2		10957,500	10592,250	365,250|
 REVOLVCAO DO CEO DAS ES TRELAS	131491000	13149/1000	13149000,000
 ~~~
-Radius r in Km zu verschiedernen Umrechnungsfaktoren im Vergleich.
+Radius $r$ in $km$ compared to several *conversion factors*.
 ~~~
 					Legua				
-		Km aktuell		Terr. antiga	Belgisch	Antiga		de 25 ao grao	Gallisch
+		km actual		Terr. antiga	Belgisch	Antiga		de 25 ao grao	Gallisch
 
 Terra	 	6 378,00 	 	6 615,00 	 6 294,27 	 6 211,08 	 4 454,55 	 2 227,05 
 Ar		12 000,00*	 	66 151,80 	 62 944,44 	 62 112,53 	 44 546,67 	 22 271,11 
@@ -63,7 +63,7 @@ Jupiter	 	779 000 000,00 	 	65 894 812,50 	 62 699 912,50 	 61 871 235,31 	 44 3
 Saturno	 	1 431 672 000,00 	104 737 875,00 	 99 659 675,00 	 98 342 516,88 	 70 530 555,56 	 35 261 751,25 
 Firmamento				212 577 750,00 	 202 270 950,00	 199 597 623,75  143 150 000,00  71 567 842,50 
 ~~~
-*) Van Allen Gürtel.
+*) Van Allen belt.
 
 
 
