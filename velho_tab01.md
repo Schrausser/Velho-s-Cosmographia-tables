@@ -1,10 +1,10 @@
-Darstellung und Übersetzung der Illustration des ptolemäischen geozentrischen Modells des Universums aus Velhos Cosmographia von 1568.			
+Translation of the heading text for Velho's model of the Universe.			
 ~~~
 portugues	FIGURA DOS CORPOS CELESTES		
 deutsch		Darstellung der Himmelskörper.		
 english		Picture of the celestial bodies.
 ~~~
-Darstellung und Übersetzung der Bezeichnungen.		
+Representation and translation of the names of the celestial bodies.		
 ~~~
 Texto em portogues	deutsch		english
 
@@ -21,7 +21,7 @@ SATURNO			Saturn		Saturn
 STRELAS			Sterne		Stars
 FIRMAMENTO		Firmament	Firmament
 ~~~
-Darstellung des Inhaltes sowie Übersetzung der Sphärenparameter beginnend rechts oben im Uhrzeigersinn.		
+Representation and translation of the sphere parameters starting at the top right in a clockwise direction.		
 ~~~
 Inhalt						Text	
 
@@ -51,7 +51,7 @@ wobei Radius r = d				Entfernung vom Erdmittelpunkt bzw. Sphärenradius in Legua
 				english:	Distance from the center of the earth or sphere radius in legues.
 ~~~
 
-Sphärenparameter in 'Legoas' L.		
+Sphere parameters in 'Legoas' L.		
 ~~~		
 		Bogenlänge BL(1∡°)	Umfang U	Durchmesser D	Breite b	Radius r
 Mathematische 
