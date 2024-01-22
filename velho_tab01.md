@@ -1,10 +1,10 @@
-Translation of the heading text for Velho's model of the Universe.			
+Translation of the *heading text* for Velho's model of the Universe.			
 ~~~
 portugues	FIGURA DOS CORPOS CELESTES		
 deutsch		Darstellung der Himmelskörper.		
 english		Picture of the celestial bodies.
 ~~~
-Display and translation of the names of the celestial bodies.		
+Display and translation of the names of the *celestial bodies*.		
 ~~~
 Texto em portogues	deutsch		english
 
@@ -21,9 +21,9 @@ SATURNO			Saturn		Saturn
 STRELAS			Sterne		Stars
 FIRMAMENTO		Firmament	Firmament
 ~~~
-Display and translation of sphere parameters starting at the top right in a clockwise direction.		
+Display and translation of *sphere parameters* starting at the top right in a clockwise direction.		
 ~~~
-Parameter						Text	
+Parameter					Text	
 
 1) Arc length  BL(1∡°)				Legoas de hu grao : e cada hu globo celeste	
 				deutsch:	Leguas im () Grad jedes () Himmelsglobus'.	
@@ -95,7 +95,7 @@ Firmamento		562375,000	202455000,000	64417500,000	16339375,000	32208750,000
 ~~~
 *) Illegible value $D_x$ was reconstructed with $D'_x=2r_x$.
 
-Relations $R$ of parameters $y$ to Arc length $x=BL_0$ where $R_y = \frac{y}{x}$.	
+Relations $R$ of parameters $y$ to *Arc length* $x=BL_0$ where $R_y = \frac{y}{x}$.	
 ~~~
 	y=	U0		D0		b0		r0
 x
@@ -112,7 +112,7 @@ Jupiter		360,000001639	114,545455067	27,347283721	57,272727533
 Saturno		359,999989689	114,545451265	21,240148908	57,272725632
 Firmamento	360,000000000	114,545454545	29,054234274	57,272727273
 ~~~
-Relations $RU$ of Circumference $U_0=y$ to parameters $x$ with $RU = \frac{y}{x}$.	
+Relations $RU$ of *Circumference* $U_0=y$ to parameters $x$ with $RU = \frac{y}{x}$.	
 ~~~
 	x=	D*		b		r
 y
@@ -133,7 +133,7 @@ Firmamento	3,142857143	12,390620816	6,285714286
 
 Recalculation $x'$ of parameters $x$, where $x'=R_yy$.						
 ~~~
-		Circumference U0/360				Arc length BL0 360			
+		Circumference U0/360			Arc length BL0 360			
 		BL'			diff BL'-BL0	U'			diff U'-U0		
 
 Terra		17,500000000		0,000000000	6300,000000		0		0		0
@@ -162,7 +162,7 @@ Jupiter		9984062,500000000	0,00000000	4767312,500000000	0,00000000	0		0
 Saturno		15869375,000000000	0,00000000	5885312,500000000	0,00000000	0		0
 Firmamento	32208750,000000000	0,00000000	16339375,000000000	0,00000000	0		0
 ~~~
-*) an inconsistency related to $\pi_0$ is indexed at *Mercury*.  					
+*) an inconsistency related to $\pi_0$ is given at *Mercury*.  					
 
 **) further inconsistencies.
 
