@@ -93,9 +93,9 @@ Jupiter			174324,900	62756964,286	19968125,00*	4767312,500	9984062,500
 Saturno			277084,333	99750357,143	31738750,000	5885312,500	15869375,000
 Firmamento		562375,000	202455000,000	64417500,000	16339375,000	32208750,000
 ~~~
-*) Illegible value $D_x$ was reconstructed with $D'_x=2⋅r_x$.
+*) Illegible value $D_x$ was reconstructed, with $D'_x=2⋅r_x$.
 
-Relations $R$ of parameters $y$ to *Arc length* $x=BL_0$ where $R_y = \frac{y}{x}$.	
+Relations $R$ of parameters $y$ to *Arc length* $x=BL_0$, where $R_y = \frac{y}{x}$.	
 ~~~
 	y=	U0		D0		b0		r0
 x
@@ -112,7 +112,7 @@ Jupiter		360,000001639	114,545455067	27,347283721	57,272727533
 Saturno		359,999989689	114,545451265	21,240148908	57,272725632
 Firmamento	360,000000000	114,545454545	29,054234274	57,272727273
 ~~~
-Relations $RU$ of *Circumference* $U_0=y$ to parameters $x$ with $RU = \frac{y}{x}$.	
+Relations $RU$ of *Circumference* $U_0=y$ to parameters $x$, with $RU = \frac{y}{x}$.	
 ~~~
 	x=	D*		b		r
 y
