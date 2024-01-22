@@ -4,7 +4,7 @@ portugues	FIGURA DOS CORPOS CELESTES
 deutsch		Darstellung der Himmelskörper.		
 english		Picture of the celestial bodies.
 ~~~
-Representation and translation of the names of the celestial bodies.		
+Display and translation of the names of the celestial bodies.		
 ~~~
 Texto em portogues	deutsch		english
 
@@ -21,9 +21,9 @@ SATURNO			Saturn		Saturn
 STRELAS			Sterne		Stars
 FIRMAMENTO		Firmament	Firmament
 ~~~
-Representation and translation of the sphere parameters starting at the top right in a clockwise direction.		
+Display and translation of sphere parameters starting at the top right in a clockwise direction.		
 ~~~
-Inhalt						Text	
+Parameter						Text	
 
 1) Bogenlänge BL(1∡°)				Legoas de hu grao : e cada hu globo celeste	
 				deutsch:	Leguas im () Grad jedes () Himmelsglobus'.	
