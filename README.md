@@ -98,7 +98,7 @@ Jupiter	 	65 894 812,50 	 61 871 235,31
 Saturno	 	104 737 875,00 	 98 342 516,88 	 
 Firmamento	212 577 750,00 	 199 597 623,75  
 ~~~
-Veloh's universe up to the *firmament* therefore has a size that roughly extends to the *orbit of Mars* (Semimajor axis $d=227956000km$).
+Veloh's universe up to the *firmament* therefore has a size that roughly extends to the *orbit of Mars* (Semimajor axis $d=227956000km$, Williams, 2024).
 For the corresponding *distances* or *sizes* of the spheres c.f. fig. 2.  
 At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the *overall* picture whether you place the Earth or the Sun in the center (see `velho_tab01.md`, `velho_tab02.md` tables).  
 
@@ -128,3 +128,5 @@ Krtalić, Š., & McIntosh, G. C. (2022). Two Sixteenth-Century Nautical Charts 
 Meirinhos, J. F. (2022). Celestial Bodies and Dimension of the Universe in Bartolomeu Velho’s Cosmographia. In *From Wisdom to Data: Philosophical Atlas on Visual Representations of Knowledge*, edited by Higuera, J.G., Romele, A., Rodighiero, D., & Pedro, C. Coleção Transversal. Porto: University of Porto Press. https://books.google.com/books?id=EAEezwEACAAJ
 
 Velho, B. (1568). *Principio da verdadeira cosmographia ... per Bartholomeu Velho portugues/neste anno de 1568*. Paris: Bibliothèque nationale de France. http://catalogue.bnf.fr/ark:/12148/cb416166390
+
+Williams, D. R. (2024). *Mars Fact Sheet*. NASA Goddard Space Flight Center. https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html
