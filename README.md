@@ -81,7 +81,24 @@ MOBILE EM 24 ORAS		mobile in 24 hours.
 CELVM EMPIREVM HABITACVLVM	Heaven of the home of
 DEI ET OMNIVM ELECTORUM		God and all chosen ones.
 ~~~
-Representation of the corresponding *sizes* of the spheres (fig. 2). At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the *overall* picture whether you place the Earth or the Sun in the center (see `velho_tab01.md`, `velho_tab02.md` tables).  
+Radius Radius *r*, Distances *d*, res., converted into kilometers *km*.
+~~~
+        	Legua				
+        	Terr. antiga	 Antiga		
+
+Terra	 	6 615,00         6 211,08 	
+Ar	 	66 151,80 	 62 112,53 	 
+Fogo		180 076,05 	 169 080,50 	 
+Luna		344 092,65 	 323 082,14 	 
+Mercurio	895 537,50 	 840 855,44 	 
+Venus		4 974 750,00 	 4 670 988,75 	 
+Sol	 	6 627 225,00 	 6 222 562,63 	 
+Mars	 	34 430 550,00 	 32 328 199,75 	 
+Jupiter	 	65 894 812,50 	 61 871 235,31 	 
+Saturno	 	104 737 875,00 	 98 342 516,88 	 
+Firmamento	212 577 750,00 	 199 597 623,75  
+~~~
+Representation of the corresponding *distances* or *sizes* of the spheres (fig. 2). At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the *overall* picture whether you place the Earth or the Sun in the center (see `velho_tab01.md`, `velho_tab02.md` tables).  
 
 Figure 2.
 ![figure.\label{velho02}](velho02.png)
