@@ -98,8 +98,9 @@ Jupiter	 	65 894 812,50 	 61 871 235,31
 Saturno	 	104 737 875,00 	 98 342 516,88 	 
 Firmamento	212 577 750,00 	 199 597 623,75  
 ~~~
-Veloh's universe therefore has a size that roughly extends to the orbit of Mars.
-Representation of the corresponding *distances* or *sizes* of the spheres (fig. 2). At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the *overall* picture whether you place the Earth or the Sun in the center (see `velho_tab01.md`, `velho_tab02.md` tables).  
+Veloh's universe up to the *firmament* therefore has a size that roughly extends to the *orbit of Mars* (Semimajor axis $d=227956000km$).
+For the corresponding *distances* or *sizes* of the spheres c.f. fig. 2.  
+At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the *overall* picture whether you place the Earth or the Sun in the center (see `velho_tab01.md`, `velho_tab02.md` tables).  
 
 Figure 2.
 ![figure.\label{velho02}](velho02.png)
