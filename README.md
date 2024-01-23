@@ -106,6 +106,8 @@ At this point it also becomes clear that, given the distances shown, it hardly m
 Figure 2.
 ![figure.\label{velho02}](velho02.png)
 
+In this context see *Anaxagoras* and his concepts of the *primum mobile* and *nous* (c.f. Ferchius, 1646), Pythagoras‘ doctrine of *musica universalis* (c.f. Davis et al., 1901) and *Plato’s* fifth *etheric* element, the *quintessence* (see e.h. Böckh, 1852):
+
 >„As the eyes, said I, seem formed for studying astronomy, so do the ears seem formed for harmonious motions: and these seem to be twin sciences to one another, as also the Pythagoreans say.", (Davis et al., 1901, p. 252).
 >
 For further readings see e.g. Campbell (1978, p. 105), Furtado (2022), Krtalić & McIntosh (2022) or Meirinhos (2022).
