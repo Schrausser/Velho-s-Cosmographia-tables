@@ -81,7 +81,8 @@ MOBILE EM 24 ORAS		mobile in 24 hours.
 CELVM EMPIREVM HABITACVLVM	Heaven of the home of
 DEI ET OMNIVM ELECTORUM		God and all chosen ones.
 ~~~
-Radius *r*, Distances *d*, res., given in *Legoas* $L$ converted into kilometers *km*, with *Legua terrestre antiga* $L_t=6.600km$ and *Legua antiga* $L_a=6.197km$.
+Radius *r*, Distances *d*, res., given in *Legoas* $L$ converted into kilometers *km*, with *Légua terrestre*[^1] $L_t=6.600km$ and *Légua antiga* $L_a=6.197km$.
+[^1]:Land league in the colonial period of Brazil.
 ~~~
                 km		
         	L(t)             L(a)
