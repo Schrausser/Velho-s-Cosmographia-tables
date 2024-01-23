@@ -81,11 +81,11 @@ MOBILE EM 24 ORAS		mobile in 24 hours.
 CELVM EMPIREVM HABITACVLVM	Heaven of the home of
 DEI ET OMNIVM ELECTORUM		God and all chosen ones.
 ~~~
-Radius *r*, Distances *d*, res., converted into kilometers *km*.
+Radius *r*, Distances *d*, res., given in *Legoas* $L$ converted into kilometers *km*, with *Legua terrestre antiga* $L_t=6.600km$ and *Legua antiga* $L_a=6.197km$.
 ~~~
-        	Legua				
-        	Terr. antiga	 Antiga		
-
+                km		
+        	L(t)             L(a)
+	
 Terra	 	6 615,00         6 211,08 	
 Ar	 	66 151,80 	 62 112,53 	 
 Fogo		180 076,05 	 169 080,50 	 
