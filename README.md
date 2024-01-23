@@ -81,7 +81,7 @@ MOBILE EM 24 ORAS		mobile in 24 hours.
 CELVM EMPIREVM HABITACVLVM	Heaven of the home of
 DEI ET OMNIVM ELECTORUM		God and all chosen ones.
 ~~~
-Radius *r*, Distances *d*, res., given in *Legoas* $L$ converted into kilometers *km*, with *Légua terrestre*[^1] $L_t=6.600km$ and *Légua antiga* $L_a=6.197km$.
+Radius *r*, Distances *d*, res., given in *Legoas* $L$ converted into kilometers *km*, with *Légua terrestre*[^1] $L_t=6.600km$ and *Légua antiga* $L_a=6.197km$ (c.f. Costa, 1994).
 [^1]:Land league in the colonial period of Brazil.
 ~~~
                 km		
@@ -117,6 +117,8 @@ Codazzi, A. (1964). The Contribution of Roberto Almagià to the History of Cart
 Cortesão, J. (1965). *História do Brasil nos Velhos Mapas*. Vol. 2. História Do Brasil Nos Velhos Mapas. Brasilia: Ministor̄io das Relações Exteriores, Instituto Rio Branco. https://books.google.com/books?id=9TkNAAAAYAAJ.
 
 ———. (2009). *História Do Brasil Nos Velhos Mapas - Obras Completas IX*. Portuguese. Vol. 1. Lisbon: INCM – Imprensa Nacional Casa da Moeda. https://www.amazon.com/Hist%C3%B3ria-Brasil-Velhos-Mapas-portugiesisch/dp/9722717952.
+
+Costa, I. (1994). Pesos e medidas no período colonial brasileiro: denominações e relações. *Boletim de História Demográfica 1* (1). http://historia_demografica.tripod.com/bhds/bhd1.htm#pesos
 
 Domosh, M., Heffernan, M., & Withers, C.W.J. (2020). *The SAGE Handbook of Historical Geography*. Thousand Oaks, California: SAGE Publications. https://books.google.com/books?id=8n7vDwAAQBAJ
 
