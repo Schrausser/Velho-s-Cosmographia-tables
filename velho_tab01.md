@@ -164,7 +164,5 @@ Jupiter		9984062,500000000	0,00000000	4767312,500000000	0,00000000	0		0
 Saturno		15869375,000000000	0,00000000	5885312,500000000	0,00000000	0		0
 Firmamento	32208750,000000000	0,00000000	16339375,000000000	0,00000000	0		0
 ~~~
-*) an inconsistency related to $\pi_0$ is given at *Mercury*.  					
-
+*) an inconsistency related to $\pi_0$ is given at *Mercury*.  
 **) further inconsistencies.
-
