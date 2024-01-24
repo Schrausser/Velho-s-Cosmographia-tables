@@ -54,8 +54,8 @@ Radius $r$ in $km$ (Williams, 2024) compared to several *conversion factors* fro
 		actual		        Terrestre L(t)	 Belgian L(B)	 Antiga	L(a)	 de 25 ao grao	 Gallic
 
 Terra	 	6 378,00 	 	6 615,00 	 6 294,27 	 6 211,08 	 4 454,55 	 2 227,05 
-Ar		12 000,00*	 	66 151,80 	 62 944,44 	 62 112,53 	 44 546,67 	 22 271,11 
-Fogo		60 000,00*	 	180 076,05 	 171 345,09 	 169 080,50 	 121 263,33 	 60 625,60 
+Ar		60 000,00*	 	66 151,80 	 62 944,44 	 62 112,53 	 44 546,67 	 22 271,11 
+Fogo		 	        	180 076,05 	 171 345,09 	 169 080,50 	 121 263,33 	 60 625,60 
 Luna		384 400,00 	 	344 092,65 	 327 409,37 	 323 082,14 	 231 712,22 	 115 844,53 
 Mercurio	57 909 000,00 	 	895 537,50 	 852 117,50 	 840 855,44 	 603 055,56 	 301 497,63
 Venus		108 210 000,00 	 	4 974 750,00 	 4 733 550,00 	 4 670 988,75 	 3 350 000,00 	 1 674 832,50 
@@ -65,7 +65,7 @@ Jupiter	 	778 479 000,00 	 	65 894 812,50 	 62 699 912,50 	 61 871 235,31 	 44 3
 Saturno	 	1 432 041 000,00 	104 737 875,00 	 99 659 675,00 	 98 342 516,88 	 70 530 555,56 	 35 261 751,25 
 Firmamento				212 577 750,00 	 202 270 950,00	 199 597 623,75  143 150 000,00  71 567 842,50 
 ~~~
-*) Van Allen belt.
+*) Van Allen radiation belt (c.f. Ganushkina et al., 2011).
 
 Correspondences between the *inner Solar System* (Williams, 2024) and Velho's distance values from *Mars* to *Firmamento*, $r=.984$, $n=4$, $det=96.91$*%*. Adjusted values $L_{t}cor$ were calculated by adding the mean distance differences $AM_{diff}$.
 ~~~
@@ -80,6 +80,20 @@ Mars/Firmamento	 227 956 000,00 	212 577 750,00 	 244 085 753,13 	15 378 250,00
 Sum		 543 673 000,00 	417 640 987,50 	 543 673 000,00 	126 032 012,50 
 AM		 135 918 250,00 	104 410 246,88 	 135 918 250,00 	31 508 003,13 
 ~~~
+Correspondences between the *Earth System* (Ganushkina et al., 2011; Williams, 2024) and Velho's distance values from *Terra* to *Luna*, $r=.999$, $n=3$, $det=99.88$*%*.
+~~~
+			km
+			actual		L(t)		diff
+
+Earth/Terra	 	6 378,00 	6 615,00 	-237,00
+Radiation belt/Ar	60 000,00 	66 151,80 	-6151,80
+(*/Fogo)				(180 076,05)
+Moon/Luna		384 400,00 	344 092,65 	40307,35
+
+Sum			450 778,00 	416 859,45 	33 918,55 
+AM	 		112 694,50 	104 214,86 	8 479,64 
+~~~
+
 ## References
 Williams, D. R. (2024). *Planetary Fact Sheets*. NASA Goddard Space Flight Center. https://nssdc.gsfc.nasa.gov/planetary/planetfact.html.
 
