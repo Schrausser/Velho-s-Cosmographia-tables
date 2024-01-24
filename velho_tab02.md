@@ -1,3 +1,5 @@
+# velho_tab02.md
+
 Translation of the *rotation* descriptions.		
 ~~~
 Texto em portogues		deutsch				english
@@ -33,7 +35,7 @@ CELVM EMPIREVM HABITACVLVM	Der Himmel des Wohnortes	Heaven of the home of
 DEI ET OMNIVM ELECTORUM		Gottes und aller Auserwählten.	God and all chosen ones.
 ~~~
 
-Comparison of *rotation times* with *sidereal orbital periods* in days $d$.			
+Comparison of *rotation times* with *sidereal orbital periods* in days $d$ (see Williams, 2024).			
 ~~~		
 				d		Fractional	Decimal		d actual	diff.
 
@@ -46,7 +48,7 @@ REVOLVCAO DO CEO D IVPITER	4383		4383		4383,000	4332,589	50,411
 REVOLVCAO DO CEO D SATVRNO	10957 1/2	21915/2		10957,500	10759,220	198,280
 REVOLVCAO DO CEO DAS ES TRELAS	131491000	13149/1000	13149000,000
 ~~~
-Radius $r$ in $km$ compared to several *conversion factors* from legues, with $L_t=6.600km$, $L_B=6.280km$, $L_a=6.197km$, *de 25 ao grao* $=4.\overline{4}km$ and *Gallic* $=2.\overline{2}km$.
+Radius $r$ in $km$ (Williams, 2024) compared to several *conversion factors* from legues, with $L_t=6.600km$, $L_B=6.280km$, $L_a=6.197km$, *de 25 ao grao* $=4.\overline{4}km$ and *Gallic* $=2.\overline{2}km$.
 ~~~
 		km							
 		actual		        Terrestre L(t)	 Belgian L(B)	 Antiga	L(a)	 de 25 ao grao	 Gallic
@@ -65,7 +67,7 @@ Firmamento				212 577 750,00 	 202 270 950,00	 199 597 623,75  143 150 000,00  7
 ~~~
 *) Van Allen belt.
 
-Correspondences between the *inner Solar System* and Velho's distance values from *Mars* to *Firmamento*, $r=.984$, $n=4$, $det=96.91%$. Adjusted values $L_{t}cor$ were calculated by adding the mean distance differences $AM_{diff}$.
+Correspondences between the *inner Solar System* (Williams, 2024) and Velho's distance values from *Mars* to *Firmamento*, $r=.984$, $n=4$, $det=96.91%$. Adjusted values $L_{t}cor$ were calculated by adding the mean distance differences $AM_{diff}$.
 ~~~
 		 km
 		 actual			L(t)		 L(t)cor.		diff
@@ -77,7 +79,7 @@ Mars/Firmamento	 227 956 000,00 	212 577 750,00 	 244 085 753,13 	15 378 250,00
 
 Sum		 543 673 000,00 	417 640 987,50 	 543 673 000,00 	126 032 012,50 
 AM		 135 918 250,00 	104 410 246,88 	 135 918 250,00 	31 508 003,13 
-
 ~~~
-
+## References
+Williams, D. R. (2024). *Planetary Fact Sheets*. NASA Goddard Space Flight Center. https://nssdc.gsfc.nasa.gov/planetary/planetfact.html.
 
