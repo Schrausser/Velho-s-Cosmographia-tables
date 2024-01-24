@@ -67,7 +67,7 @@ Firmamento				212 577 750,00 	 202 270 950,00	 199 597 623,75  143 150 000,00  7
 ~~~
 *) Van Allen radiation belt (c.f. Ganushkina et al., 2011).
 
-Correspondences between the *inner Solar System* (Williams, 2024) and Velho's distance values from *Mars* to *Firmamento*, $r=.984$, $n=4$, $det=96.91$*%*. Adjusted values $L_{t}cor$ were calculated by adding the mean distance differences $AM_{diff}$.
+Correspondences between the *inner Solar System* (Williams, 2024) and Velho's distances values from *Mars* to *Firmamento*, $r=.984$, $n=4$, $det=96.91$*%*. Adjusted values $L_{t}cor$ were calculated by adding the mean distance differences $AM_{diff}$.
 ~~~
 		 km
 		 actual			L(t)		 L(t)cor.		diff
@@ -80,7 +80,7 @@ Mars/Firmamento	 227 956 000,00 	212 577 750,00 	 244 085 753,13 	15 378 250,00
 Sum		 543 673 000,00 	417 640 987,50 	 543 673 000,00 	126 032 012,50 
 AM		 135 918 250,00 	104 410 246,88 	 135 918 250,00 	31 508 003,13 
 ~~~
-Correspondences between the *Earth System* (Ganushkina et al., 2011; Williams, 2024) and Velho's distance values from *Terra* to *Luna*, $r=.999$, $n=3$, $det=99.88$*%*.
+Correspondences between the *Earth System* (Ganushkina et al., 2011; Williams, 2024) and Velho's distances values from *Terra* to *Luna*, $r=.999$, $n=3$, $det=99.88$*%*.
 ~~~
 			km
 			actual		L(t)		diff
@@ -95,5 +95,8 @@ AM	 		112 694,50 	104 214,86 	8 479,64
 ~~~
 
 ## References
+
+Ganushkina, N. Y., Dandouras, I., Shprits, Y. Y., & Cao, J. (2011). Locations of Boundaries of Outer and Inner Radiation Belts as Observed by Cluster and Double Star. *Journal of Geophysical Research: Space Physics 116* (A9). https://doi.org/10.1029/2010JA016376.
+
 Williams, D. R. (2024). *Planetary Fact Sheets*. NASA Goddard Space Flight Center. https://nssdc.gsfc.nasa.gov/planetary/planetfact.html.
 
