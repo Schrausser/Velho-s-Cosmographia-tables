@@ -33,17 +33,17 @@ CELVM EMPIREVM HABITACVLVM	Der Himmel des Wohnortes	Heaven of the home of
 DEI ET OMNIVM ELECTORUM		Gottes und aller Auserwählten.	God and all chosen ones.
 ~~~
 
-Comparison of *rotation times* in days $d$.			
+Comparison of *rotation times* with *sidereal orbital periods* in days $d$.			
 ~~~		
-				d		Fractional	Decimal		Actual		diff.
+				d		Fractional	Decimal		d actual	diff.
 
 R. DA LVA			27 1/3		82/3		27,333		27,322		0,012
-R. DE MERCVRIO			70 7/24		1687/24		70,292		88,000		-17,708
-REVOLVCAO DE VENUS		273 23/24	6575/24		273,958		225,000		48,958
-REVOLVCAC DO SOL		365 1/4		1461/4		365,250|	365,250		0,000
-REVOLVCAO DE MARS		730 1/2		1461/2		730,500		686,670		43,830||
-REVOLVCAO DO CEO D IVPITER	4383		4383		4383,000||	4346,475	36,525|
-REVOLVCAO DO CEO D SATVRNO	10957 1/2	21915/2		10957,500	10592,250	365,250|
+R. DE MERCVRIO			70 7/24		1687/24		70,292		87,969		-17,677
+REVOLVCAO DE VENUS		273 23/24	6575/24		273,958		224,701		49,257
+REVOLVCAC DO SOL		365 1/4		1461/4		365,250 	365,256		-0,006
+REVOLVCAO DE MARS		730 1/2		1461/2		730,500		686,980		43,520
+REVOLVCAO DO CEO D IVPITER	4383		4383		4383,000	4332,589	50,411
+REVOLVCAO DO CEO D SATVRNO	10957 1/2	21915/2		10957,500	10759,220	198,280
 REVOLVCAO DO CEO DAS ES TRELAS	131491000	13149/1000	13149000,000
 ~~~
 Radius $r$ in $km$ compared to several *conversion factors* from legues, with $L_t=6.600km$, $L_B=6.280km$, $L_a=6.197km$, *de 25 ao grao* $=4.\overline{4}km$ and *Gallic* $=2.\overline{2}km$.
