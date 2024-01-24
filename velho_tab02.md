@@ -67,7 +67,7 @@ Firmamento				212 577 750,00 	 202 270 950,00	 199 597 623,75  143 150 000,00  7
 ~~~
 *) Van Allen belt.
 
-Correspondences between the *inner Solar System* (Williams, 2024) and Velho's distance values from *Mars* to *Firmamento*, $r=.984$, $n=4$, $det=96.91%$. Adjusted values $L_{t}cor$ were calculated by adding the mean distance differences $AM_{diff}$.
+Correspondences between the *inner Solar System* (Williams, 2024) and Velho's distance values from *Mars* to *Firmamento*, $r=.984$, $n=4$, $det=96.91$%. Adjusted values $L_{t}cor$ were calculated by adding the mean distance differences $AM_{diff}$.
 ~~~
 		 km
 		 actual			L(t)		 L(t)cor.		diff
