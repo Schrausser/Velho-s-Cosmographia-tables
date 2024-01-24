@@ -46,7 +46,7 @@ REVOLVCAO DO CEO D IVPITER	4383		4383		4383,000||	4346,475	36,525|
 REVOLVCAO DO CEO D SATVRNO	10957 1/2	21915/2		10957,500	10592,250	365,250|
 REVOLVCAO DO CEO DAS ES TRELAS	131491000	13149/1000	13149000,000
 ~~~
-Radius $r$ in $km$ compared to several *conversion factors* from Legues.
+Radius $r$ in $km$ compared to several *conversion factors* from legues, with $L_t=6.600km$, $L_B=6.280km$, $L_a=6.197km$, *de 25 ao grao* $=4.\overline{4}km$ and *Gallic* $=2.\overline{2}km$.
 ~~~
 		km							
 		actual		        Terrestre L(t)	 Belgian L(B)	 Antiga	L(a)	 de 25 ao grao	 Gallic
@@ -65,14 +65,14 @@ Firmamento				212 577 750,00 	 202 270 950,00	 199 597 623,75  143 150 000,00  7
 ~~~
 *) Van Allen belt.
 
-Correspondences between the inner Solar System and Velho's distance values, $r=.984$, $n=4$, $det=96.91%$. Adjusted values $L_{t}cor$ were calculated by adding the mean distance differences $AM_{diff}$.
+Correspondences between the *inner Solar System* and Velho's distance values from *Mars* to *Firmamento*, $r=.984$, $n=4$, $det=96.91%$. Adjusted values $L_{t}cor$ were calculated by adding the mean distance differences $AM_{diff}$.
 ~~~
 		 km
 		 actual			L(t)		 L(t)cor.		diff
 
 Mercury/Mars	 57 909 000,00 	 	34 430 550,00 	 65 938 553,13 	 	23 478 450,00 
 Venus/Jupiter	 108 210 000,00 	65 894 812,50 	 97 402 815,63 	 	42 315 187,50 
-Earh/Saturno	 149 598 000,00 	104 737 875,00 	 136 245 878,13 	44 860 125,00 
+Earth/Saturno	 149 598 000,00 	104 737 875,00 	 136 245 878,13 	44 860 125,00 
 Mars/Firmamento	 227 956 000,00 	212 577 750,00 	 244 085 753,13 	15 378 250,00 
 
 Sum		 543 673 000,00 	417 640 987,50 	 543 673 000,00 	126 032 012,50 
