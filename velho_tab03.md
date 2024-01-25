@@ -1,4 +1,6 @@
 # velho_tab03.md
+>"The Ptolemaic System is the name usually given to the world picture, current in the Middle Ages and the Renaissance, according to which the planetary spheres are nested to fill exactly the space between the highest sublunary element, fire, and the fixed stars. There is [...] no trace of it in Ptolemy's Almagest and until now it has not been found in any other of his works [...] The *Planetary Hypotheses* was included by Heiberg in his edition of Ptolemy's minor astronomical works. There one finds an edited Greek text of what Heiberg took to be all of Book I [...] the omitted passage contains what is really of outstanding historical interest: that the Ptolemaic System is indeed the creation of Ptolemy. [...] I soon found [...] a Hebrew manuscript in Paris of the *Planetary Hypotheses* [...] it contained the section on sizes and distances at the end of Book I [...] the Arabic manuscripts confirmed the Hebrew version. The aim of this paper is to present a translation and commentary on the previously unpublished part (which. I shall call part 2) of Book I of Ptolemy's *Planetary Hypotheses*.", (Goldstein, 1967, p. 3).
+
 Correspondences between the *Solar System* (c.f. Williams, 2024) and Ptolemy's distance values ($R_E$) from *Moon* to *Saturn*, $r=.981$, $n=7$, $det=96.33$*%*. Ptolemy's model (see Goldstein, 1967, p. 11) has an extent of $d_P=12756000km$ or $d_P=0.85au$ to the Stars, a size that approximately corresponds to the distance given between *Venus and Earth* ($d=128904000km$ or $d=0.86au$, res.).
 ~~~
 		km
@@ -11,7 +13,7 @@ Sun	 	149 598 000,00 	 	7 717 380,00 		141880620,00		19,38
 Mars		227 956 000,00 	 	32 145 120,00 		195810880,00		7,09
 Jupiter		778 479 000,00 	 	73 372 512,00 		705106488,00		10,61
 Saturn	 	1 432 041 000,00 	108 591 828,00 		1323449172,00		13,19
-Stars M1	127 560 000,00 		
+Stars M1				127 560 000,00 		
 
 Sum	 	2 862 787 400,00 	354 396 759,00 		2527740641,00		157,74
 AM	 	408 969 628,57 	 	44 299 594,88 		361105805,86		22,53
