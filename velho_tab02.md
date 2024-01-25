@@ -101,5 +101,11 @@ Ganushkina, N. Y., Dandouras, I., Shprits, Y. Y., & Cao, J. (2011). Locations o
 
 Kameda, S., Ikezawa, S., Sato, M., Kuwabara, M., Osada, N., Murakami, G., Yoshioka, K., Yoshikawa, I., Taguchi, M., Funase, R., Sugita, S., Miyoshi, Y., & Fujimoto, M. (2017). Ecliptic North-South Symmetry of Hydrogen Geocorona. *Geophysical Research Letters 44* (23): 11706–12. https://doi.org/10.1002/2017GL075915.
 
+Matheson, I., & Malhotra, R. (2023). A Measurement of the Kuiper Belt’s Mean Plane from Objects Classified by Machine Learning. *The Astronomical Journal 165* (6): 241. https://doi.org/10.3847/1538-3881/accffd.
+
+McComas, D.J., Rankin, J. S., Schwadron, N. A., & Swaczyna, P. (2019). Termination Shock Measured by Voyagers and IBEX. *The Astrophysical Journal 884* (2): 145. https://doi.org/10.3847/1538-4357/ab441a.
+
+Trujillo, C. A., & Brown, M. E. (2001). The Radial Distribution of the Kuiper Belt. *The Astrophysical Journal 554* (1): L95. https://doi.org/10.1086/320917.
+
 Williams, D. R. (2024). *Planetary Fact Sheets*. NASA Goddard Space Flight Center. https://nssdc.gsfc.nasa.gov/planetary/planetfact.html.
 
