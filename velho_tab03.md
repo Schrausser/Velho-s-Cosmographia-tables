@@ -1,5 +1,5 @@
 # velho_tab03.md
-Correspondences between the *Solar System* and Ptolemy's distance values ($R_E$) from *Moon* to *Saturn*, $r=.981$, $n=7$, $det=96.33$*%*. Ptolemy's model (see Goldstein, 1967) has an extent of $d_P=12756000km$ or $d_P=0.85au$ to the Stars, a size that approximately corresponds to the distance given between *Venus and Earth* ($d=128904000km$ or $d=0.86au$, res.).
+Correspondences between the *Solar System* and Ptolemy's distance values ($R_E$) from *Moon* to *Saturn*, $r=.981$, $n=7$, $det=96.33$*%*. Ptolemy's model (see Goldstein, 1967, p. 11) has an extent of $d_P=12756000km$ or $d_P=0.85au$ to the Stars, a size that approximately corresponds to the distance given between *Venus and Earth* ($d=128904000km$ or $d=0.86au$, res.).
 ~~~
 		km
 		actual			RE			diff			factor 1/x
