@@ -1,5 +1,5 @@
 # velho_tab03.md
-Correspondences between the *Solar System* and Ptolemy's distance values ($R_E$) from *Moon* to *Saturn*, $r=.981$, $n=7$, $det=96.33$*%*. Ptolemy's model (see Goldstein, 1967, p. 11) has an extent of $d_P=12756000km$ or $d_P=0.85au$ to the Stars, a size that approximately corresponds to the distance given between *Venus and Earth* ($d=128904000km$ or $d=0.86au$, res.).
+Correspondences between the *Solar System* (c.f. Williams, 2024) and Ptolemy's distance values ($R_E$) from *Moon* to *Saturn*, $r=.981$, $n=7$, $det=96.33$*%*. Ptolemy's model (see Goldstein, 1967, p. 11) has an extent of $d_P=12756000km$ or $d_P=0.85au$ to the Stars, a size that approximately corresponds to the distance given between *Venus and Earth* ($d=128904000km$ or $d=0.86au$, res.).
 ~~~
 		km
 		actual			RE			diff			factor 1/x
@@ -16,7 +16,7 @@ Stars M1	127 560 000,00
 Sum	 	2 862 787 400,00 	354 396 759,00 		2527740641,00		157,74
 AM	 	408 969 628,57 	 	44 299 594,88 		361105805,86		22,53
 ~~~
-Correspondences between the *Solar Systems* of *Velho* and *Ptolemy* from *Luna* to *Saturno*, $r=.998$, $n=7$, $det=99.66$*%*. As far as the distance values ​​in the area between *Moon* and *Saturn* are concerned, the two models from Velho and Ptolemy can be considered *equivalent* (mean ratio factor $\overline{r}=\frac{1}{1.06}$), only the *Firmamento* is $n=1.67$ times as far away at Velho. This firmament is incidentally referred to by Ptolemy as *Stars of first magnitude*.
+Correspondences between the *Solar Systems* of *Velho* (1568) and *Ptolemy* from *Luna* to *Saturno*, $r=.998$, $n=7$, $det=99.66$*%*. As far as the distance values ​​in the area between *Moon* and *Saturn* are concerned, the two models from Velho and Ptolemy can be considered *equivalent* (mean ratio factor $\overline{r}=\frac{1}{1.06}$), only the *Firmamento* is $n=1.67$ times as far away at Velho. This firmament is incidentally referred to by Ptolemy as *Stars of first magnitude*.
 ~~~
 		km
 		Velho			Ptolemy			diff			factor 1/x
@@ -37,3 +37,7 @@ AM	 	53 810 324,08 	 	44 299 594,88 		-1275988,05		1,06
 ## References
 
 Goldstein, B. R. (1967). The Arabic Version of Ptolemy’s Planetary Hypotheses. *Transactions of the American Philosophical Society, 57* (4), 3-55. https://doi.org/10.2307/1006040.
+
+Velho, B. (1568). *Principio da verdadeira cosmographia ... per Bartholomeu Velho portugues/neste anno de 1568*. Paris: Bibliothèque nationale de France. http://catalogue.bnf.fr/ark:/12148/cb416166390.
+
+Williams, D. R. (2024). *Planetary Fact Sheets*. NASA Goddard Space Flight Center. https://nssdc.gsfc.nasa.gov/planetary/planetfact.html.
