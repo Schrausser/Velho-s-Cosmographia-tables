@@ -66,7 +66,7 @@ Saturno	 	1 432 041 000,00 	104 737 875,00 	 99 659 675,00 	 98 342 516,88 	 70 
 Firmamento				212 577 750,00 	 202 270 950,00	 199 597 623,75  143 150 000,00  71 567 842,50 
 ~~~
 *) Van Allen radiation belt up to c. $d=7R_E$ (c.f. Ganushkina et al., 2011).  
-**) Hydrogen Geocorona c. $d=16R_E$ (c.f. Kameda et al., 2017).
+**) Hydrogen Geocorona c. $d=16R_E$ (up to $d=50R_E$, c.f. Kameda et al., 2017).
 
 Correspondences between the *inner Solar System* (Williams, 2024) and Velho's distance values from *Mars* to *Firmamento*, $r=.984$, $n=4$, $det=96.91$*%*. Adjusted values $L_{t}cor$ were calculated by adding the mean distance differences $AM_{diff}$.
 ~~~
