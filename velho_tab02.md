@@ -81,7 +81,7 @@ Mars/Firmamento	 227 956 000,00 	212 577 750,00 	 244 085 753,13 	15 378 250,00
 Sum		 543 673 000,00 	417 640 987,50 	 543 673 000,00 	126 032 012,50 
 AM		 135 918 250,00 	104 410 246,88 	 135 918 250,00 	31 508 003,13 
 ~~~
-Correspondences between the *Earth System* (Ganushkina et al., 2011; Kameda et al., 2017; Williams, 2024) and Velho's distance values from *Terra* to *Luna*, $r=.962$, $n=4$, $det=92.62$*%*.
+Correspondences between the *Earth-Moon System* (Ganushkina et al., 2011; Kameda et al., 2017; Williams, 2024) and Velho's distance values from *Terra* to *Luna*, $r=.962$, $n=4$, $det=92.62$*%*.
 ~~~
 			km
 			actual		L(t)		diff
