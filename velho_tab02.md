@@ -94,6 +94,20 @@ Moon/Luna	 	384 400,00 	344 092,65 	40307,35
 Sum			537 472,00 	596 935,50 	-59463,50
 AM		 	134 368,00 	149 233,88 	-14865,88
 ~~~
+Correspondences between the *outer Solar System* and Velho's distance values from *Mercurio* to *Sol*, $r=.0995$, $n=3$, $det=98.91$*%*.
+~~~
+			km
+			actual			L(t)		factor
+Saturn/Mercurio	 	1 432 041 000,00 	895 537,50 	1599,09
+Kuiper Belt/Venus	7 479 900 000,00* 	4 974 750,00 	1503,57
+Heliosphere TS/Sol	11 219 850 000,00** 	6 627 225,00 	1692,99
+
+Sum			20 131 791 000,00 	12 497 512,50 	4795,65
+AM	 		6 710 597 000,00 	4 165 837,50 	1598,55
+~~~
+*) Kuiper Belt up to c. $d=50au$ (c.f. Trujillo & Brown, 2001; Matheson & Malhotra, 2023).  
+**) Termination Shock threshold of the Heliosphere c. $d=75au$ (c.f. McComas et al., 2019).
+
 
 ## References
 
