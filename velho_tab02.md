@@ -94,7 +94,7 @@ Moon/Luna	 	384 400,00 	344 092,65 	40307,35
 Sum			537 472,00 	596 935,50 	-59463,50
 AM		 	134 368,00 	149 233,88 	-14865,88
 ~~~
-Correspondences between the *outer Solar System* and Velho's distance values from *Mercurio* to *Sol*, $r=.0995$, $n=3$, $det=98.91$*%*.
+Correspondences between the *outer Solar System* and Velho's distance values from *Mercurio* to *Sol*, $r=.995$, $n=3$, $det=98.91$*%*.
 ~~~
 			km
 			actual			L(t)		factor
