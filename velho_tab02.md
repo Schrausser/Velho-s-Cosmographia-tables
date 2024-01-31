@@ -71,33 +71,34 @@ Firmamento				212 577 750,00 	 202 270 950,00	 199 597 623,75  143 150 000,00  7
 Correspondences between the *inner Solar System* (Williams, 2024) and Velho's distance values from *Mars* to *Firmamento*, $r=.984$, $n=4$, $det=96.91$*%*. Adjusted values $L_{t}cor$ were calculated by adding the mean distance differences $AM_{diff}$.
 ~~~
 		 km
-		 actual			L(t)		 L(t)cor.		diff
+		 actual			L(t)		 L(t)cor.		diff			factor 1/x
 
-Mercury/Mars	 57 909 000,00 	 	34 430 550,00 	 65 938 553,13 	 	23 478 450,00 
-Venus/Jupiter	 108 210 000,00 	65 894 812,50 	 97 402 815,63 	 	42 315 187,50 
-Earth/Saturno	 149 598 000,00 	104 737 875,00 	 136 245 878,13 	44 860 125,00 
-Mars/Firmamento	 227 956 000,00 	212 577 750,00 	 244 085 753,13 	15 378 250,00 
+Mercury/Mars	 57 909 000,00 	 	34 430 550,00 	 65 938 553,13 	 	23 478 450,00 		0.52
+Venus/Jupiter	 108 210 000,00 	65 894 812,50 	 97 402 815,63 	 	42 315 187,50 		0.68
+Earth/Saturno	 149 598 000,00 	104 737 875,00 	 136 245 878,13 	44 860 125,00 		0.77
+Mars/Firmamento	 227 956 000,00 	212 577 750,00 	 244 085 753,13 	15 378 250,00 		0.87
 
-Sum		 543 673 000,00 	417 640 987,50 	 543 673 000,00 	126 032 012,50 
-AM		 135 918 250,00 	104 410 246,88 	 135 918 250,00 	31 508 003,13 
+Sum		 543 673 000,00 	417 640 987,50 	 543 673 000,00 	126 032 012,50 		2.84
+AM		 135 918 250,00 	104 410 246,88 	 135 918 250,00 	31 508 003,13 		0.71
 ~~~
 Correspondences between the *Earth-Moon System* (Ganushkina et al., 2011; Kameda et al., 2017; Williams, 2024) and Velho's distance values from *Terra* to *Luna*, $r=.962$, $n=4$, $det=92.62$*%*.
 ~~~
 			km
-			actual		L(t)		diff
+			actual		L(t)		diff		factor 1/x
 
-Earth/Terra		6 378,00 	6 615,00 	-237,00
-Radiation Belt/Ar	44 646,00 	66 151,80 	-21505,80
-Geocorona/Fogo	 	102 048,00 	180 076,05 	-78028,05
-Moon/Luna	 	384 400,00 	344 092,65 	40307,35
+Earth/Terra		6 378,00 	6 615,00 	-237,00		0.96
+Radiation Belt/Ar	44 646,00 	66 151,80 	-21505,80	0.67
+Geocorona/Fogo	 	102 048,00 	180 076,05 	-78028,05	0.57
+Moon/Luna	 	384 400,00 	344 092,65 	40307,35	1.12
 
-Sum			537 472,00 	596 935,50 	-59463,50
-AM		 	134 368,00 	149 233,88 	-14865,88
+Sum			537 472,00 	596 935,50 	-59463,50	3.32
+AM		 	134 368,00 	149 233,88 	-14865,88	0.83
 ~~~
 Correspondences between the *outer Solar System* and Velho's distance values from *Mercurio* to *Sol*, $r=.995$, $n=3$, $det=98.91$*%*.
 ~~~
 			km
-			actual			L(t)		factor
+			actual			L(t)		factor 1/x
+
 Saturn/Mercurio	 	1 432 041 000,00 	895 537,50 	1599,09
 Kuiper Belt/Venus	7 479 900 000,00* 	4 974 750,00 	1503,57
 Heliosphere TS/Sol	11 219 850 000,00** 	6 627 225,00 	1692,99
