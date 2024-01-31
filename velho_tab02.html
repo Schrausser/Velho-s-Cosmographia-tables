@@ -42,7 +42,7 @@ MOBILE EM 24 ORAS		Mobile in 24 Stunden.		mobile in 24 hours.
 CELVM EMPIREVM HABITACVLVM	Der Himmel des Wohnortes	Heaven of the home of
 DEI ET OMNIVM ELECTORUM		Gottes und aller Auserwählten.	God and all chosen ones.
 </code></pre>
-<p>Comparison of <em>rotation times</em> with <em>sidereal orbital periods</em> in days d (see Williams, 2024).</p>
+<p>Comparison of <em>rotation times</em> with <em>sidereal orbital periods</em> in days <var>d</var> (see Williams, 2024).</p>
 <pre><code>				d		Fractional	Decimal		d actual	diff.
 
 R. DA LVA			27 1/3		82/3		27,333		27,322		0,012
@@ -54,7 +54,7 @@ REVOLVCAO DO CEO D IVPITER	4383		4383		4383,000	4332,589	50,411
 REVOLVCAO DO CEO D SATVRNO	10957 1/2	21915/2		10957,500	10759,220	198,280
 REVOLVCAO DO CEO DAS ES TRELAS	131491000	13149/1000	13149000,000
 </code></pre>
-<p>Radius r in km (Williams, 2024) compared to several <em>conversion factors</em> from legues, with L_t=6.600km, L_B=6.280km, L_a=6.197km, <em>de 25 ao grao</em> =4.4'km and <em>Gallic</em> =2.2'km.</p>
+<p>Radius <var>r</var> in <var>km</var> (Williams, 2024) compared to several <em>conversion factors</em> from legues, with <var>L_t=6.600km</var>, <var>L_B=6.280km</var>, <var>L_a=6.197km</var>, <em>de 25 ao grao</em> <var>=4.4'km</var> and <em>Gallic</em> <var>=2.2'km</var>.</p>
 <pre><code>		km							
 		actual		        Terrestre L(t)	 Belgian L(B)	 Antiga	L(a)	 de 25 ao grao	 Gallic
 
@@ -70,38 +70,53 @@ Jupiter	 	778 479 000,00 	 	65 894 812,50 	 62 699 912,50 	 61 871 235,31 	 44 3
 Saturno	 	1 432 041 000,00 	104 737 875,00 	 99 659 675,00 	 98 342 516,88 	 70 530 555,56 	 35 261 751,25 
 Firmamento				212 577 750,00 	 202 270 950,00	 199 597 623,75  143 150 000,00  71 567 842,50 
 </code></pre>
-<p>*) Van Allen radiation belt up to c. d=7R_E (c.f. Ganushkina et al., 2011).<br />
-**) Hydrogen Geocorona c. d=16R_E (c.f. Kameda et al., 2017).</p>
-<p>Correspondences between the <em>inner Solar System</em> (Williams, 2024) and Velho's distance values from <em>Mars</em> to <em>Firmamento</em>, r=.984, n=4, det=96.91<em>%</em>. Adjusted values L_{t}cor were calculated by adding the mean distance differences AM_{diff}.</p>
+<p>*) Van Allen radiation belt up to c. <var>d=7R_E</var> (c.f. Ganushkina et al., 2011).<br />
+**) Hydrogen Geocorona c. <var>d=16R_E</var> (up to <var>d=50R_E</var>, c.f. Kameda et al., 2017).</p>
+<p>Correspondences between the <em>inner Solar System</em> (Williams, 2024) and Velho's distance values from <em>Mars</em> to <em>Firmamento</em>, <var>r=.984</var>, <var>n=4</var>, <var>det=96.91</var><em>%</em>, <var>rf=1/0.71</var>. Adjusted values <var>L_(t)cor</var> were calculated by adding the mean distance differences <var>diff<var>.</p>
 <pre><code>		 km
-		 actual			L(t)		 L(t)cor.		diff
+		 actual			L(t)		 L(t)cor.		diff			rf 1/x
 
-Mercury/Mars	 57 909 000,00 	 	34 430 550,00 	 65 938 553,13 	 	23 478 450,00 
-Venus/Jupiter	 108 210 000,00 	65 894 812,50 	 97 402 815,63 	 	42 315 187,50 
-Earth/Saturno	 149 598 000,00 	104 737 875,00 	 136 245 878,13 	44 860 125,00 
-Mars/Firmamento	 227 956 000,00 	212 577 750,00 	 244 085 753,13 	15 378 250,00 
+Mercury/Mars	 57 909 000,00 	 	34 430 550,00 	 65 938 553,13 	 	23 478 450,00 		0.52
+Venus/Jupiter	 108 210 000,00 	65 894 812,50 	 97 402 815,63 	 	42 315 187,50 		0.68
+Earth/Saturno	 149 598 000,00 	104 737 875,00 	 136 245 878,13 	44 860 125,00 		0.77
+Mars/Firmamento	 227 956 000,00 	212 577 750,00 	 244 085 753,13 	15 378 250,00 		0.87
 
-Sum		 543 673 000,00 	417 640 987,50 	 543 673 000,00 	126 032 012,50 
-AM		 135 918 250,00 	104 410 246,88 	 135 918 250,00 	31 508 003,13 
+Sum		 543 673 000,00 	417 640 987,50 	 543 673 000,00 	126 032 012,50 		2.84
+AM		 135 918 250,00 	104 410 246,88 	 135 918 250,00 	31 508 003,13 		0.71
 </code></pre>
-<p>Correspondences between the <em>Earth System</em> (Ganushkina et al., 2011; Kameda et al., 2017; Williams, 2024) and Velho's distance values from <em>Terra</em> to <em>Luna</em>, r=.962, n=4, det=92.62<em>%</em>.</p>
+<p>Correspondences between the <em>Earth-Moon System</em> (Ganushkina et al., 2011; Kameda et al., 2017; Williams, 2024) and Velho's distance values from <em>Terra</em> to <em>Luna</em>, <var>r=.962<var>, <var>n=4<var>, <var>det=92.62<var><em>%</em>, <var>rf=1/0.83<var>.</p>
 <pre><code>			km
-			actual		L(t)		diff
+			actual		L(t)		diff		rf 1/x
 
-Earth/Terra		6 378,00 	6 615,00 	-237,00
-Radiation Belt/Ar	44 646,00 	66 151,80 	-21505,80
-Geocorona/Fogo	 	102 048,00 	180 076,05 	-78028,05
-Moon/Luna	 	384 400,00 	344 092,65 	40307,35
+Earth/Terra		6 378,00 	6 615,00 	-237,00		0.96
+Radiation Belt/Ar	44 646,00 	66 151,80 	-21505,80	0.67
+Geocorona/Fogo	 	102 048,00 	180 076,05 	-78028,05	0.57
+Moon/Luna	 	384 400,00 	344 092,65 	40307,35	1.12
 
-Sum			537 472,00 	596 935,50 	-59463,50
-AM		 	134 368,00 	149 233,88 	-14865,88
+Sum			537 472,00 	596 935,50 	-59463,50	3.32
+AM		 	134 368,00 	149 233,88 	-14865,88	0.83
 </code></pre>
+<p>Correspondences between the <em>outer Solar System</em> and Velho's distance values from <em>Mercurio</em> to <em>Sol</em>, <var>r=.995<var>, <var>n=3<var>, <var>det=98.91<var><em>%</em>, <var>rf=1/1598.55<var>.</p>
+<pre><code>			km
+			actual			L(t)		rf 1/x
+
+Saturn/Mercurio	 	1 432 041 000,00 	895 537,50 	1599,09
+Kuiper Belt/Venus	7 479 900 000,00* 	4 974 750,00 	1503,57
+Heliosphere TS/Sol	11 219 850 000,00** 	6 627 225,00 	1692,99
+
+Sum			20 131 791 000,00 	12 497 512,50 	4795,65
+AM	 		6 710 597 000,00 	4 165 837,50 	1598,55
+</code></pre>
+<p>*) Kuiper Belt up to c. <var>d=50au</var> (c.f. Trujillo &amp; Brown, 2001; Matheson &amp; Malhotra, 2023).<br />
+**) Termination Shock threshold of the Heliosphere c. <var>d=75au</var> (c.f. McComas et al., 2019).</p>
 <h2 id="references">References</h2>
-<p>Ganushkina, N. Y., Dandouras, I., Shprits, Y. Y., &amp; Cao, J. (2011). Locations of Boundaries of Outer and Inner Radiation Belts as Observed by Cluster and Double Star. <em>Journal of Geophysical Research: Space Physics 116</em> (A9). <a href="https://doi.org/10.1029/2010JA016376">https://doi.org/10.1029/2010JA016376</a>.</p>
-<p>Kameda, S., Ikezawa, S., Sato, M., Kuwabara, M., Osada, N., Murakami, G., Yoshioka, K., Yoshikawa, I., Taguchi, M., Funase, R., Sugita, S., Miyoshi, Y., &amp; Fujimoto, M. (2017). Ecliptic North-South Symmetry of Hydrogen Geocorona. <em>Geophysical Research Letters 44</em> (23): 11706–12. <a href="https://doi.org/10.1002/2017GL075915">https://doi.org/10.1002/2017GL075915</a>.</p>
-<p>Williams, D. R. (2024). <em>Planetary Fact Sheets</em>. NASA Goddard Space Flight Center. <a href="https://nssdc.gsfc.nasa.gov/planetary/planetfact.html">https://nssdc.gsfc.nasa.gov/planetary/planetfact.html</a>.</p>
+<p>Ganushkina, N. Y., Dandouras, I., Shprits, Y. Y., &amp; Cao, J. (2011). Locations of Boundaries of Outer and Inner Radiation Belts as Observed by Cluster and Double Star. <em>Journal of Geophysical Research: Space Physics 116</em> (A9). <a href="https://doi.org/10.1029/2010JA016376">https://doi.org/10.1029/2010JA016376</a>.</p>
+<p>Kameda, S., Ikezawa, S., Sato, M., Kuwabara, M., Osada, N., Murakami, G., Yoshioka, K., Yoshikawa, I., Taguchi, M., Funase, R., Sugita, S., Miyoshi, Y., &amp; Fujimoto, M. (2017). Ecliptic North-South Symmetry of Hydrogen Geocorona. <em>Geophysical Research Letters 44</em> (23): 11706–12. <a href="https://doi.org/10.1002/2017GL075915">https://doi.org/10.1002/2017GL075915</a>.</p>
+<p>Matheson, I., &amp; Malhotra, R. (2023). A Measurement of the Kuiper Belt’s Mean Plane from Objects Classified by Machine Learning. <em>The Astronomical Journal 165</em> (6): 241. <a href="https://doi.org/10.3847/1538-3881/accffd">https://doi.org/10.3847/1538-3881/accffd</a>.</p>
+<p>McComas, D.J., Rankin, J. S., Schwadron, N. A., &amp; Swaczyna, P. (2019). Termination Shock Measured by Voyagers and IBEX. <em>The Astrophysical Journal 884</em> (2): 145. <a href="https://doi.org/10.3847/1538-4357/ab441a">https://doi.org/10.3847/1538-4357/ab441a</a>.</p>
+<p>Trujillo, C. A., &amp; Brown, M. E. (2001). The Radial Distribution of the Kuiper Belt. <em>The Astrophysical Journal 554</em> (1): L95. <a href="https://doi.org/10.1086/320917">https://doi.org/10.1086/320917</a>.</p>
+<p>Williams, D. R. (2024). <em>Planetary Fact Sheets</em>. NASA Goddard Space Flight Center. <a href="https://nssdc.gsfc.nasa.gov/planetary/planetfact.html">https://nssdc.gsfc.nasa.gov/planetary/planetfact.html</a>.</p>
 
 
 </body>
 </html>
-    
