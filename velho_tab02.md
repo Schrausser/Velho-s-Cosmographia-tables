@@ -54,8 +54,8 @@ Radius $r$ in $km$ (Williams, 2024) compared to several *conversion factors* fro
 		actual		        Terrestre L(t)	 Belgian L(B)	 Antiga	L(a)	 de 25 ao grao	 Gallic
 
 Terra	 	6 378,00 	 	6 615,00 	 6 294,27 	 6 211,08 	 4 454,55 	 2 227,05 
-Ar		44 646,00*	 	66 151,80 	 62 944,44 	 62 112,53 	 44 546,67 	 22 271,11 
-Fogo		102 048,00**        	180 076,05 	 171 345,09 	 169 080,50 	 121 263,33 	 60 625,60 
+Ar		44 646,00¹	 	66 151,80 	 62 944,44 	 62 112,53 	 44 546,67 	 22 271,11 
+Fogo		102 048,00²        	180 076,05 	 171 345,09 	 169 080,50 	 121 263,33 	 60 625,60 
 Luna		384 400,00 	 	344 092,65 	 327 409,37 	 323 082,14 	 231 712,22 	 115 844,53 
 Mercurio	57 909 000,00 	 	895 537,50 	 852 117,50 	 840 855,44 	 603 055,56 	 301 497,63
 Venus		108 210 000,00 	 	4 974 750,00 	 4 733 550,00 	 4 670 988,75 	 3 350 000,00 	 1 674 832,50 
@@ -65,8 +65,8 @@ Jupiter	 	778 479 000,00 	 	65 894 812,50 	 62 699 912,50 	 61 871 235,31 	 44 3
 Saturno	 	1 432 041 000,00 	104 737 875,00 	 99 659 675,00 	 98 342 516,88 	 70 530 555,56 	 35 261 751,25 
 Firmamento				212 577 750,00 	 202 270 950,00	 199 597 623,75  143 150 000,00  71 567 842,50 
 ~~~
-*) Van Allen radiation belt up to c. $d=7R_E$ (c.f. Ganushkina et al., 2011).  
-**) Hydrogen Geocorona c. $d=16R_E$ (up to $d=50R_E$, c.f. Kameda et al., 2017).
+¹) Van Allen radiation belt up to c. $d=7R_E$ (c.f. Ganushkina et al., 2011).  
+²) Hydrogen Geocorona c. $d=16R_E$ (up to $d=50R_E$, c.f. Kameda et al., 2017).
 
 Correspondences between the *inner Solar System* (Williams, 2024) and Velho's distance values from *Mars* to *Firmamento*, $r=.984$, $n=4$, $det=96.91$*%*, $\overline{rf}=\frac{1}{0.71}$. Adjusted values $L_{t}cor$ were calculated by adding the mean distance differences $\overline{diff}$.
 ~~~
@@ -100,14 +100,14 @@ Correspondences between the *outer Solar System* and Velho's distance values fro
 			actual			L(t)		rf 1/x
 
 Saturn/Mercurio	 	1 432 041 000,00 	895 537,50 	1599,09
-Kuiper Belt/Venus	7 479 900 000,00* 	4 974 750,00 	1503,57
-Heliosphere TS/Sol	11 219 850 000,00** 	6 627 225,00 	1692,99
+Kuiper Belt/Venus	7 479 900 000,00¹ 	4 974 750,00 	1503,57
+Heliosphere TS/Sol	11 219 850 000,00² 	6 627 225,00 	1692,99
 
 Sum			20 131 791 000,00 	12 497 512,50 	4795,65
 AM	 		6 710 597 000,00 	4 165 837,50 	1598,55
 ~~~
-*) Kuiper Belt up to c. $d=50au$ (c.f. Trujillo & Brown, 2001; Matheson & Malhotra, 2023).  
-**) Termination Shock threshold of the Heliosphere c. $d=75au$ (c.f. McComas et al., 2019).
+¹) Kuiper Belt up to c. $d=50au$ (c.f. Trujillo & Brown, 2001; Matheson & Malhotra, 2023).  
+²) Termination Shock threshold of the Heliosphere c. $d=75au$ (c.f. McComas et al., 2019).
 
 
 ## References
