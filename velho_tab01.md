@@ -1,6 +1,6 @@
 # velho_tab01.md
 
-Translation of the *heading text* for Velho's model of the Universe.			
+Translation of the *heading text* for Velho's model of the universe.			
 ~~~
 portugues	FIGURA DOS CORPOS CELESTES		
 deutsch		Darstellung der Himmelskörper.		
@@ -50,7 +50,7 @@ where b(n) = r(n)-r(n-1)			Sphärenbreite in Leguas.
 5) Distance d					Legoas ate o centro da terra ‐ de cada hu globo celeste.	
 				deutsch:	Leguas bis zu Zentrum der Erde - jedes () Himmelsglobus'.	
 where Radius r = d				Entfernung vom Erdmittelpunkt bzw. Sphärenradius in Leguas.	
-				english:	Distance from the center of the earth or sphere radius in legues.
+				english:	Distance from the center of the Earth or sphere radius in legues.
 ~~~
 
 Sphere parameters in *Legoas* $L$.		
@@ -114,7 +114,7 @@ Jupiter		360,000001639	114,545455067	27,347283721	57,272727533
 Saturno		359,999989689	114,545451265	21,240148908	57,272725632
 Firmamento	360,000000000	114,545454545	29,054234274	57,272727273
 ~~~
-Relations $RU$ of *Circumference* $U_0=y$ to parameters $x$, with $RU = \frac{y}{x}$.	
+Relations $RU$ of *circumference* $U_0=y$ to parameters $x$, with $RU = \frac{y}{x}$.	
 ~~~
 	x=	D¹		b		r
 y
