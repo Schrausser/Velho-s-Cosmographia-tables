@@ -97,7 +97,7 @@ Firmamento		562375,000	202455000,000	64417500,000	16339375,000	32208750,000
 ~~~
 ¹) Illegible value $D_x$ was reconstructed, with $D'_x=2⋅r_x$.
 
-Relations $R$ of parameters $y$ to *Arc length* $x=BL_0$, where $R_y = \frac{y}{x}$.	
+Relations $R$ of parameters $y$ to *arc length* $x=BL_0$, where $R_y = \frac{y}{x}$.	
 ~~~
 	y=	U0		D0		b0		r0
 x
