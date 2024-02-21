@@ -18,7 +18,7 @@ Stars M1				127 560 000,00
 Sum	 	2 862 787 400,00 	354 396 759,00 		2527740641,00		157,74
 AM	 	408 969 628,57 	 	44 299 594,88 		361105805,86		22,53
 ~~~
-Correspondences between the *Solar Systems* of *Velho* (1568) and *Ptolemy* from *Luna* to *Saturno*, $r=.998$, $n=7$, $det=99.66$*%*. As far as the distance values ​​in the area between *Moon* and *Saturn* are concerned, the two models from Velho and Ptolemy can be considered *equivalent* (mean ratio factor $\overline{rf}=\frac{1}{1.06}$), only the *Firmamento* is $n=1.67$ times as far away at Velho. Incidentally, this firmament is  referred to by Ptolemy as *Stars of first magnitude*.
+Correspondences between the *Solar Systems* of *Velho* (1568) and *Ptolemy* from *Luna* to *Saturno*, $r=.998$, $n=7$, $det=99.66$*%*. As far as the distance values ​​in the area between *Moon* and *Saturn* are concerned, the two models from Velho and Ptolemy can be considered *equivalent* (mean ratio factor $\overline{rf}=\frac{1}{1.06}$), only the *Firmamento* is $n=1.67$ times as far away at Velho. Incidentally, this firmament is  referred to by Ptolemy as *stars of first magnitude*.
 ~~~
 		km
 		Velho			Ptolemy			diff			rf 1/x
