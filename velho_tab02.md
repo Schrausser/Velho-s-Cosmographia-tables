@@ -66,9 +66,9 @@ Saturno	 	1 432 041 000,00 	104 737 875,00 	 99 659 675,00 	 98 342 516,88 	 70 
 Firmamento				212 577 750,00 	 202 270 950,00	 199 597 623,75  143 150 000,00  71 567 842,50 
 ~~~
 ¹) Van Allen radiation belt up to c. $d=7R_E$ (c.f. Ganushkina et al., 2011).  
-²) Hydrogen Geocorona c. $d=16R_E$ (up to $d=50R_E$, c.f. Kameda et al., 2017).
+²) Hydrogen geocorona c. $d=16R_E$ (up to $d=50R_E$, c.f. Kameda et al., 2017).
 
-Correspondences between the *inner solar system* (Williams, 2024) and Velho's distance values from *Mars* to *Firmamento*, $r=.984$, $n=4$, $det=96.91$*%*, $\overline{rf}=\frac{1}{0.71}$. Adjusted values $L_{t}cor$ were calculated by adding the mean distance difference $\overline{diff}$.
+Correspondences between the *inner Solar System* (Williams, 2024) and Velho's distance values from *Mars* to *Firmamento*, $r=.984$, $n=4$, $det=96.91$*%*, $\overline{rf}=\frac{1}{0.71}$. Adjusted values $L_{t}cor$ were calculated by adding the mean distance difference $\overline{diff}$.
 ~~~
 		 km
 		 actual			L(t)		 L(t)cor.		diff			rf 1/x
@@ -94,7 +94,7 @@ Moon/Luna	 	384 400,00 	344 092,65 	40307,35	1.12
 Sum			537 472,00 	596 935,50 	-59463,50	3.32
 AM		 	134 368,00 	149 233,88 	-14865,88	0.83
 ~~~
-Correspondences between the *outer solar system* and Velho's distance values from *Mercurio* to *Sol*, $r=.995$, $n=3$, $det=98.91$*%*, $\overline{rf}=\frac{1}{1598.55}$.
+Correspondences between the *outer Solar System* and Velho's distance values from *Mercurio* to *Sol*, $r=.995$, $n=3$, $det=98.91$*%*, $\overline{rf}=\frac{1}{1598.55}$.
 ~~~
 			km
 			actual			L(t)		rf 1/x
@@ -106,8 +106,8 @@ Heliosphere TS/Sol	11 219 850 000,00² 	6 627 225,00 	1692,99
 Sum			20 131 791 000,00 	12 497 512,50 	4795,65
 AM	 		6 710 597 000,00 	4 165 837,50 	1598,55
 ~~~
-¹) Kuiper Belt up to c. $d=50au$ (c.f. Trujillo & Brown, 2001; Matheson & Malhotra, 2023).  
-²) Termination Shock threshold of the Heliosphere c. $d=75au$ (c.f. McComas et al., 2019).
+¹) Kuiper belt up to c. $d=50au$ (c.f. Trujillo & Brown, 2001; Matheson & Malhotra, 2023).  
+²) Termination shock threshold of the heliosphere c. $d=75au$ (c.f. McComas et al., 2019).
 
 
 ## References
