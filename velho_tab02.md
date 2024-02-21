@@ -68,7 +68,7 @@ Firmamento				212 577 750,00 	 202 270 950,00	 199 597 623,75  143 150 000,00  7
 ¹) Van Allen radiation belt up to c. $d=7R_E$ (c.f. Ganushkina et al., 2011).  
 ²) Hydrogen Geocorona c. $d=16R_E$ (up to $d=50R_E$, c.f. Kameda et al., 2017).
 
-Correspondences between the *inner Solar System* (Williams, 2024) and Velho's distance values from *Mars* to *Firmamento*, $r=.984$, $n=4$, $det=96.91$*%*, $\overline{rf}=\frac{1}{0.71}$. Adjusted values $L_{t}cor$ were calculated by adding the mean distance differences $\overline{diff}$.
+Correspondences between the *inner solar system* (Williams, 2024) and Velho's distance values from *Mars* to *Firmamento*, $r=.984$, $n=4$, $det=96.91$*%*, $\overline{rf}=\frac{1}{0.71}$. Adjusted values $L_{t}cor$ were calculated by adding the mean distance difference $\overline{diff}$.
 ~~~
 		 km
 		 actual			L(t)		 L(t)cor.		diff			rf 1/x
@@ -81,7 +81,7 @@ Mars/Firmamento	 227 956 000,00 	212 577 750,00 	 244 085 753,13 	15 378 250,00 
 Sum		 543 673 000,00 	417 640 987,50 	 543 673 000,00 	126 032 012,50 		2.84
 AM		 135 918 250,00 	104 410 246,88 	 135 918 250,00 	31 508 003,13 		0.71
 ~~~
-Correspondences between the *Earth-Moon System* (Ganushkina et al., 2011; Kameda et al., 2017; Williams, 2024) and Velho's distance values from *Terra* to *Luna*, $r=.962$, $n=4$, $det=92.62$*%*, $\overline{rf}=\frac{1}{0.83}$.
+Correspondences between the *Earth-Moon system* (Ganushkina et al., 2011; Kameda et al., 2017; Williams, 2024) and Velho's distance values from *Terra* to *Luna*, $r=.962$, $n=4$, $det=92.62$*%*, $\overline{rf}=\frac{1}{0.83}$.
 ~~~
 			km
 			actual		L(t)		diff		rf 1/x
@@ -94,7 +94,7 @@ Moon/Luna	 	384 400,00 	344 092,65 	40307,35	1.12
 Sum			537 472,00 	596 935,50 	-59463,50	3.32
 AM		 	134 368,00 	149 233,88 	-14865,88	0.83
 ~~~
-Correspondences between the *outer Solar System* and Velho's distance values from *Mercurio* to *Sol*, $r=.995$, $n=3$, $det=98.91$*%*, $\overline{rf}=\frac{1}{1598.55}$.
+Correspondences between the *outer solar system* and Velho's distance values from *Mercurio* to *Sol*, $r=.995$, $n=3$, $det=98.91$*%*, $\overline{rf}=\frac{1}{1598.55}$.
 ~~~
 			km
 			actual			L(t)		rf 1/x
