@@ -1,5 +1,5 @@
 # Velho's Cosmographia tables
-Bartholomeu Velho's *Cosmographia* illustration (1568, fol. 9v-10r) depicting his geocentric model (c.f. Domosh et al., 2020, p. 28) with tables elaborated and recalculated as well as presented with corresponding images of *his*  solar system:
+Bartholomeu Velho's *Cosmographia* illustration (1568, fol. 9v-10r) depicting his geocentric model (c.f. Domosh et al., 2020, p. 28) with tables elaborated and recalculated as well as presented with corresponding images of *his*  Solar System:
 
 >„ [...] the Bibliotheque Nationale succeeded in acquiring the manuscript in which the Portuguese Bartolomeu Velho summarised his cosmographic knowledge for the benefit of King Charles IX of France [...] This volume consists of 23 cosmographic tavoadas and figuras illustrated by representations of the terrestrial globe on different projections and allegorical figures of the Moon, Mercury, Venus, the Sun, Jupiter and Saturn  [...] the work, which Velho compiled at the request of Francisco d'Albagno, remained in the latter's possession and was not delivered to the king owing to the author's death [...] Soon after, it passed to Giovanni Andreozzi [...] who in 1576 offered it to the Grand Duke Francis of Tuscany [...]  it was discovered in the library of M. Ferreira das Neves [...] and studied in 1890 [...] The MS. reappeared in the library of Ch. Chadenat, whence it passed into the Bibliotheque Nationale on March 13, 1950 [...] “, (Foncin, 1960, p. 43-44).
 
@@ -37,7 +37,7 @@ Arc length *BL* per degree $∡°$ is calculated by
 
 $$BL_{∡°}=\frac{U}{360},$$
 
-where Circumference $U=\pi_0⋅D$ and Diameter $D=2⋅r$. The *corresponding* circular constant $\pi_0$ used by Velho can be derived from given $U_0$ and $D_0$ as
+where circumference $U=\pi_0⋅D$ and diameter $D=2⋅r$. The *corresponding* circular constant $\pi_0$ used by Velho can be derived from given $U_0$ and $D_0$ as
 
 $$\pi_0=\frac{U_0}{D_0}= 3.\overline{142857}$$
 
@@ -45,7 +45,7 @@ or $\pi_0=\frac{22}{7}$, respectively. Width $b$ at given $n$ is calculated by
 
 $$b_n=r_n-r_{(n-1)},$$
 
-where Radius $r$ equals Distance $d$.
+where radius $r$ equals distance $d$.
 
 Translation of the *rotation* descriptions.		
 ~~~
@@ -81,7 +81,7 @@ MOBILE EM 24 ORAS		mobile in 24 hours.
 CELVM EMPIREVM HABITACVLVM	Heaven of the home of
 DEI ET OMNIVM ELECTORUM		God and all chosen ones.
 ~~~
-Radius *r*, Distances *d*, res., given in *Legoas* $L$ converted into kilometers *km*, with *Légua terrestre*[^1] $L_t=6.600km$ and *Légua antiga* $L_a=6.197km$ (c.f. Costa, 1994).
+Radius *r*, distances *d*, res., given in *Legoas* $L$ converted into kilometers *km*, with *Légua terrestre*[^1] $L_t=6.600km$ and *Légua antiga* $L_a=6.197km$ (c.f. Costa, 1994).
 [^1]:Land league in the colonial period of Brazil.
 ~~~
                 km		
