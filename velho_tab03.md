@@ -1,7 +1,7 @@
 # velho_tab03.md
 >"The Ptolemaic System is the name usually given to the world picture, current in the Middle Ages and the Renaissance, according to which the planetary spheres are nested to fill exactly the space between the highest sublunary element, fire, and the fixed stars. There is [...] no trace of it in Ptolemy's Almagest and until now it has not been found in any other of his works [...] The *Planetary Hypotheses* was included by Heiberg in his edition of Ptolemy's minor astronomical works. There one finds an edited Greek text of what Heiberg took to be all of Book I [...] the omitted passage contains what is really of outstanding historical interest: that the Ptolemaic System is indeed the creation of Ptolemy. [...] I soon found [...] a Hebrew manuscript in Paris of the *Planetary Hypotheses* [...] it contained the section on sizes and distances at the end of Book I [...] the Arabic manuscripts confirmed the Hebrew version. The aim of this paper is to present a translation and commentary on the previously unpublished part (which I shall call part 2) of Book I of Ptolemy's *Planetary Hypotheses*.", (Goldstein, 1967, p. 3).
 
-Correspondences between the *Solar System* (c.f. Williams, 2024) and Ptolemy's distance values $R_E$ (where $km=R_E⋅6378$) from *Moon* to *Saturn*, $r=.981$, $n=7$, $det=96.33\\%$, $\overline{rf}=\frac{1}{22.53}$. Ptolemy's model (see Goldstein, 1967, p. 11) has an extent of $d_P=12756000km$ or $d_P=0.85au$ to the stars, a size that approximately corresponds to the distance given between *Venus and Earth* to the *Sun* ($d=128904000km$ or $d=0.86au$, res.).
+Correspondences between the *Solar System* (c.f. Williams, 2024) and Ptolemy's distance values $R_E$ (where $km=R_E⋅6378$) from *Moon* to *Saturn*, $r=0.981$, $n=7$, $det=96.33\\%$, $\overline{rf}=\frac{1}{22.53}$. Ptolemy's model (see Goldstein, 1967, p. 11) has an extent of $d_P=12756000km$ or $d_P=0.85au$ to the stars, a size that approximately corresponds to the distance given between *Venus and Earth* to the *Sun* ($d=128904000km$ or $d=0.86au$, res.).
 ~~~
 		km
 		actual			RE			diff			rf 1/x
@@ -18,7 +18,7 @@ Stars M1				127 560 000,00
 Sum	 	2 862 787 400,00 	354 396 759,00 		2527740641,00		157,74
 AM	 	408 969 628,57 	 	44 299 594,88 		361105805,86		22,53
 ~~~
-Correspondences between the *Solar Systems* of *Velho* (1568) and *Ptolemy* from *Luna* to *Saturno*, $r=.998$, $n=7$, $det=99.66\\%$. As far as the distance values ​​in the area between *Moon* and *Saturn* are concerned, the two models from Velho and Ptolemy can be considered *equivalent* (mean ratio factor $\overline{rf}=\frac{1}{1.06}$), only the *Firmamento* is $n=1.67$ times as far away at Velho. Incidentally, this firmament is  referred to by Ptolemy as *stars of first magnitude*.
+Correspondences between the *Solar Systems* of *Velho* (1568) and *Ptolemy* from *Luna* to *Saturno*, $r=0.998$, $n=7$, $det=99.66\\%$. As far as the distance values ​​in the area between *Moon* and *Saturn* are concerned, the two models from Velho and Ptolemy can be considered *equivalent* (mean ratio factor $\overline{rf}=\frac{1}{1.06}$), only the *Firmamento* is $n=1.67$ times as far away at Velho. Incidentally, this firmament is  referred to by Ptolemy as *stars of first magnitude*.
 ~~~
 		km
 		Velho			Ptolemy			diff			rf 1/x
