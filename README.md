@@ -41,11 +41,11 @@ where circumference $U=\pi_0⋅D$ and diameter $D=2⋅r$. The *corresponding* ci
 
 $$\pi_0=\frac{U_0}{D_0}= 3.\overline{142857}$$
 
-or $\pi_0=\frac{22}{7}$, respectively. Width $b$ at given $n$ is calculated by
+or $\pi_0=\frac{22}{7}$, respectively. Width $b$ (fol. 6v) at given $n$ is calculated by
 
 $$b_n=r_n-r_{(n-1)},$$
 
-where radius $r$ equals distance $d$.
+where radius $r$ (fol. 6r) equals distance $d$.
 
 Translation of the *rotation* descriptions.		
 ~~~
