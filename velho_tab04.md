@@ -345,7 +345,7 @@ trig		VL		AS		AS'
 
 For $y=VL$, $x=AS$ with $n=4$ resulted a trigonometric regression function (10) in angle $\pi$
 
-$$y'=a⋅sin(bx-c)+d,$$  
+$$y'=a⋅sin(bx+c)+d,$$  
 
 with $\overline{rf}=1.0$, where period $T=707.63225s$, frequency $f=T^{-1}=1.41316×10^{-3}Hz$ and phase shift $\theta=108.25082$,  
 
