@@ -371,7 +371,7 @@ as well as a power regression function (4) with $r=0.991$, $det=99.14\\%$ and $\
 $a=0.95313$,  
 $b=0.99414$.
 
-Further regressions revealed only insufficient accordance.
+Further regressions (1-6) revealed only insufficient accordance. Regressions 7, 8 and 9 showed overall good fits, $r^2\ge0.99$.
 
 ## References
 
