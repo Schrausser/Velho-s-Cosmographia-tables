@@ -101,7 +101,7 @@ Firmamento	212 577 750,00 	 199 597 623,75
 ~~~
 Velho's universe up to the *firmament* therefore has a size that roughly extends to the *orbit of Mars*, with semimajor axis $d=227956000km$ (c.f. Williams, 2024).
 For the corresponding *distances* or *sizes* of the spheres c.f. Fig. 2.  
-At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the *overall* picture whether you place the Earth or the Sun in the center (see `velho_tab01`, `velho_tab02` and `velho_tab03` tables).  
+At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the *overall* picture whether you place the Earth or the Sun in the center (see `velho_tab01`, `velho_tab02`, `velho_tab03` and `velho_tab04` tables).  
 
 Figure 2.
 ![figure.\label{velho02}](velho02.png)
