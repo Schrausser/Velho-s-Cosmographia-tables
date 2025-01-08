@@ -22,7 +22,7 @@ n					d
 ³) Stars of first magnitude or *Firmamento*, respectively.  
 
 
-Correlation $r$ and coefficient of determination $r^2$, *det%*, res. of (1) *linear*- ($y=ax+b$, *lin*), (2) *logarithmic*- ($a×ln(x)+b$, *log*), (3) *exponential*- ($y=b×e^{ax}$, *exp*), (4) *power*- ($b×x^a$, *pow*), (5) *exponent*- ($b×a^x$, *expt*), (6) *inverse*- ($\frac{a}{x}+b$, *inv*), further (7) *quadratic*- ($ax^2+bx+c$, *quad*), (8) *cubic*- ($ax^3+bx^2+cx+d$, *cub*), (9) *quartic*- ($ax^4+...+e$, *quart*) as well as coefficients for (10) *trigonometric* regression *reg* ($a×sin(bx+c)+d$, *trig*) for Solar System object distances $d$ in $10^3km$ of Velho *VL*, Ptolemy *PT* and the actual model *AS* by classification $n=[11, 4, 8]$.
+Correlation $r$ and coefficient of determination $r^2$, *det%*, res. of (1) *linear*- ($y=ax+b$, *lin*), (2) *logarithmic*- ($a⋅ln(x)+b$, *log*), (3) *exponential*- ($y=b⋅e^{ax}$, *exp*), (4) *power*- ($b⋅x^a$, *pow*), (5) *exponent*- ($b⋅a^x$, *expt*), (6) *inverse*- ($\frac{a}{x}+b$, *inv*), further (7) *quadratic*- ($ax^2+bx+c$, *quad*), (8) *cubic*- ($ax^3+bx^2+cx+d$, *cub*), (9) *quartic*- ($ax^4+...+e$, *quart*) as well as coefficients for (10) *trigonometric* regression in $\pi$ *reg* ($a⋅sin(bx+c)+d$, *trig*) for Solar System object distances $d$ in $10^3km$ of Velho *VL*, Ptolemy *PT* and the actual model *AS* by classification $n=[11, 4, 8]$.
 ~~~
 				x		
 reg	n		y	AS	VL	PT
@@ -30,7 +30,7 @@ reg	n		y	AS	VL	PT
 lin	11	r	AS	1,000		
 			VL	0,996	1,000	
 		det%	AS	100,00		
-			VL	99,11|	100,00	
+			VL	99,11	100,00	
 	4	r	AS	1,000		
 			VL	0,962	1,000	
 		det%	AS	100,00		
@@ -39,7 +39,7 @@ lin	11	r	AS	1,000
 			VL	0,995	1,000	
 			PT	0,930	0,943	1,000
 		det%	AS	100,00		
-			VL	98,98|	100,00	
+			VL	98,98	100,00	
 			PT	86,49	88,89	100,00
 log	11	r	AS	-	0,698	
 			VL	0,637	-	
@@ -131,7 +131,7 @@ cub	11	r²	AS	-	0,997
 			VL	99,41	-	
 	4	r²	AS	-	1,000	
 			VL	1,000	-	
-		det%	AS	-	100,00|	
+		det%	AS	-	100,00	
 			VL	100,00	-	
 	8	r²	AS	-	0,998	0,988
 			VL	0,994	-	0,987
@@ -149,20 +149,15 @@ quart	11	r²	AS	-	0,997
 		det%	AS	-	99,78	99,63
 			VL	99,38	-	99,97
 			PT	99,07	99,94	-
-trig	11		AS	-	(1)|	
+trig	11		AS	-	*	
 			VL	n.	-	
 	4		AS	-	n.	
-			VL	(2)|	-	
-	8		AS	-	(3)	n.
+			VL	*|	-	
+	8		AS	-	*	n.
 			VL	n.	-	n.
-			PT	(4)	(5)|	-
+			PT	*	*|	-
 ~~~
 
-(1) $y=AS=1444443.13885sin(1.29848489976ᴇ−5x-1.36269333641)+1443961.52929; x=VL.$  
-(2) $y=VL=237.261495713sin(8.87916751077ᴇ−3x-0.961177164123)+193.136829859; x=AS.$  
-(3) $y=AS=1413470.90567sin(1.36443742765ᴇ−5x-1.4405633364)+1461616.01519; x=VL.$    
-(4) $y=PT=77215.2879306sin(-5.80613350922ᴇ−6x+17.3413521548)+68644.4768704; x=AS.$    
-(5) $y=PT=86528.4687423sin(1.31153068985ᴇ−5x-0.668676004205)+53642.943687; x=VL.$   
 
 Coefficients $a, b, r, r^2, det\\%$ for (a) regressions (1-6) with $r\ge0.99$, $r^2\ge0.98$, res. and coefficients $a, b, c, d$ for (b) accordant trigonometric regressions (10).
 ~~~
@@ -270,7 +265,7 @@ pow		VL		PT		PT'
 	6	65894,813	73372,551	58851,447	-14521,104	0,80
 	7	104737,880	108591,830	93288,906	-15302,924	0,86
 	8	212577,750	127560,000	188556,727	60996,727	1,48
-										1,02
+										1,02|
 										0,21
 		PT		VL		VL'		
 	1	306,144		344,093		342,744		-1,349		1,00
@@ -281,7 +276,7 @@ pow		VL		PT		PT'
 	6	73372,551	65894,813	80931,577	15036,764	1,23
 	7	108591,830	104737,880	119651,828	14913,948	1,14
 	8	127560,000	212577,750	140490,481	-72087,269	0,66
-										1,02
+										1,02|
 										0,19
 trig		VL		AS		AS'		
 	1	6,615		6,378		30708,460	30702,082	4814,75
@@ -317,7 +312,7 @@ trig		VL		AS		AS'
 	6	65894,813	73372,551	70456,350	-2916,201	0,96
 	7	104737,880	108591,830	109715,886	1124,056	1,01
 	8	212577,750	127560,000	127476,083	-83,917		1,00
-										1,01
+										1,01|
 										0,10
 		AS		PT		PT'		
 	1	384,400		306,144		-8430,190	-8736,334	27,54
@@ -335,13 +330,13 @@ trig		VL		AS		AS'
 	2	44,646		66,152		66,15180	0,00000		1,00000
 	3	102,048		180,076		180,07605	0,00000		1,00000
 	4	384,400		344,093		344,09265	0,00000		1,00000
-										1,00
+										1,00|
 										0,00
 ~~~
 
 For $y=VL$, $x=AS$ with $n=4$ resulted a trigonometric regression function (10) in angle $\pi$
 
-$$y'=a×sin(bx-c)+d,$$  
+$$y'=a⋅sin(bx-c)+d,$$  
 
 with $\overline{rf}=1.0$, where period $T=707.63225s$, frequency $f=T^{-1}=1.41316×10^{-3}Hz$ and phase shift $\theta=108.25082$,  
 
@@ -352,7 +347,7 @@ displacement $d=193.13683$.
 
 For $y=VL$, $x=PT$ with $n=8$ resulted a power regression function (4)
 
-$$y'=b×x^a,$$
+$$y'=b⋅x^a,$$
 
 with $r=0.991$, $det=99.14\\%$ and $\overline{rf}=1.02$, where
 
@@ -371,7 +366,7 @@ as well as a power regression function (4) with $r=0.991$, $det=99.14\\%$ and $\
 $a=0.95313$,  
 $b=0.99414$.
 
-Further regressions (1-6, 10) revealed only insufficient accordance, regressions 7, 8 and 9 showed overall good fits, $r^2\ge0.99$.
+Further regressions (1-6, 10) revealed only insufficient accordance; regressions 7, 8 and 9 showed overall good fits with $r^2\ge0.99$.
 
 ## References
 
