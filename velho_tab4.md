@@ -178,12 +178,12 @@ pow	PT	VL	a	-		0,994		-
 			b	-		0,953		-
 			r	-		0,996		-
 			r²	-		0,991		-
-			det%	-		99,14		-
+			det%	-		99,14|		-
 	VL	PT	a	-		0,997		-
 			b	-		1,137		-
 			r	-		0,996		-
 			r²	-		0,991		-
-			det%	-		99,14		-
+			det%	-		99,14|		-
 trig	AS	VL	a	1444443,139	1413470,906	-
 			b	1,298E-05	1,364E-05	-
 			c	-1,363		-1,441		-
@@ -349,7 +349,7 @@ For $y=VL$, $x=PT$ with $n=8$ resulted a power regression function (4)
 
 $$y'=b⋅x^a,$$
 
-with $r=0.991$, $det=99.14\\%$ and $\overline{rf}=1.02$, where
+with $r=0.996$, $det=99.14\\%$ and $\overline{rf}=1.02$, where
 
 $a=1.13708$,  
 $b=0.99729$.
@@ -361,7 +361,7 @@ $b=1.31153×10^{-5}$,
 $c=-0.66868$,  
 displacement $d=53642.94369$,
 
-as well as a power regression function (4) with $r=0.991$, $det=99.14\\%$ and $\overline{rf}=1.02$, where
+as well as a power regression function (4) with $r=0.996$, $det=99.14\\%$ and $\overline{rf}=1.02$, where
 
 $a=0.95313$,  
 $b=0.99414$.
