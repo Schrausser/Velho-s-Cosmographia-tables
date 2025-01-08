@@ -164,9 +164,47 @@ trig	11		AS	-	(1)|
 (4) $y=PT=77215.2879306sin(-5.80613350922ᴇ−6x+17.3413521548)+68644.4768704; x=AS.$    
 (5) $y=PT=86528.4687423sin(1.31153068985ᴇ−5x-0.668676004205)+53642.943687; x=VL.$   
 
-Coefficients $a, b$ for (a) regressions (1-6) with $r\ge0.99$, $r^2\ge0.98$, res. and coefficients $a, b, c, d$ for (b) accordant trigonometric regressions (10).
+Coefficients $a, b, r, r^2, det%$ for (a) regressions (1-6) with $r\ge0.99$, $r^2\ge0.98$, res. and coefficients $a, b, c, d$ for (b) accordant trigonometric regressions (10).
 ~~~
+				n		
+reg	y	x	coef	11		8		4
 
+lin	AS	VL	a	13,367		13,414		-
+			b	-12357,865	-19124,543	-
+			r	0,996		0,995		-
+			r²	0,991		0,990		-
+			det%	99,11		98,98		-
+	VL	AS	a	7,414E-02	7,379E-02	-
+			b	1264,732	1958,852	-
+			r	0,996		0,995		-
+			r²	0,991		0,990		-
+			det%	99,11		98,98		-
+pow	PT	VL	a	-		0,659		-
+			b	-		8837,198	-
+			r	-		0,996		-
+			r²	-		0,991		-
+			det%	-		99,14		-
+	VL	PT	a	-		1,349		-
+			b	-		-5938,653	-
+			r	-		0,996		-
+			r²	-		0,991		-
+			det%	-		99,14		-
+trig	AS	VL	a	1444443,139	1413470,906	-
+			b	1,298E-05	1,364E-05	-
+			c	-1,363		-1,441		-
+			d	1443961,529	1461616,015	-
+	PT	VL	a	-		86528,469	-
+			b	-		1,312E-05	-
+			c	-		-0,669		-
+			d	-		53642,944	-
+	PT	AS	a	-		77215,288	-
+			b	-		-5,806E-06	-
+			c	-		17,341		-
+			d	-		68644,477	-
+	VL	AS	a	-		-		237,261
+			b	-		-		0,009
+			c	-		-		-0,961
+			d	-		-		193,137
 ~~~
 
 ## References
