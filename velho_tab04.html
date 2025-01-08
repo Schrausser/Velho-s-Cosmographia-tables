@@ -1,0 +1,383 @@
+<html> 
+<head>
+<meta charset="utf-8">
+ 
+<title></title>
+
+</head> 
+<body>
+
+<style></style>
+<h1 id="velho_tab04md">velho_tab04.md</h1>
+<p>Distance values $d$ in $10^3km$ for Solar System objects of Velho <em>VL</em> (Velho, 1568), Ptolemy <em>PT</em> (Goldstein, 1967) and the actual model <em>AS</em> (Williams, 2024) by classification $n=[11, 4, 8]$.</p>
+<pre><code>n					d	
+11	4	8	object		AS		VL		PT
+
+1	1	.	Earth		6,378		6,615		-
+2	2	.	Air¹		44,646		66,152		-
+3	3	.	Fire²		102,048		180,076		-
+4	4	1	Moon		384,400		344,093		306,144
+5	.	2	Mercury		57909,000	895,538		733,470
+6	.	3	Venus		108210,000	4974,750	3970,305
+7	.	4	Earth		149598,000	6627,225	7717,380
+8	.	5	Mars		227956,000	34430,550	32145,120
+9	.	6	Jupiter		778479,000	65894,813	73372,551
+10	.	7	Saturn		1432041,000	104737,880	108591,830
+11	.	8	Uranus³		2867043,000	212577,750	127560,000
+</code></pre>
+<p>¹) Van Allen radiation belt (c.f. Ganushkina et al., 2011).<br />
+²) Hydrogen geocorona ( c.f. Kameda et al., 2017).<br />
+³) Stars of first magnitude or <em>Firmamento</em>, respectively.</p>
+<p>Correlation $r$ and coefficient of determination $r^2$, <em>det%</em>, res. of (1) <em>linear</em>- ($y=ax+b$, <em>lin</em>), (2) <em>logarithmic</em>- ($a⋅ln(x)+b$, <em>log</em>), (3) <em>exponential</em>- ($y=b⋅e^{ax}$, <em>exp</em>), (4) <em>power</em>- ($b⋅x^a$, <em>pow</em>), (5) <em>exponent</em>- ($b⋅a^x$, <em>expt</em>), (6) <em>inverse</em>- ($\frac{a}{x}+b$, <em>inv</em>), further (7) <em>quadratic</em>- ($ax^2+bx+c$, <em>quad</em>), (8) <em>cubic</em>- ($ax^3+bx^2+cx+d$, <em>cub</em>), (9) <em>quartic</em>- ($ax^4+...+e$, <em>quart</em>) as well as coefficients for (10) <em>trigonometric</em> regression in $\pi$ <em>reg</em> ($a⋅sin(bx+c)+d$, <em>trig</em>) for Solar System object distances $d$ in $10^3km$ of Velho <em>VL</em>, Ptolemy <em>PT</em> and the actual model <em>AS</em> by classification $n=[11, 4, 8]$.</p>
+<pre><code>					x		
+reg	n		y		AS		VL		PT
+
+lin	11	r	AS		1,000		-		.
+			VL		0,996		1,000		.
+		det%	AS		100,00		-		.
+			VL		99,11		100,00		.
+	4	r	AS		1,000		-		.
+			VL		0,962		1,000		.
+		det%	AS		100,00		-		.
+			VL		92,62		100,00		.
+	8	r	AS		1,000		-		-
+			VL		0,995		1,000		-
+			PT		0,930		0,943		1,000
+		det%	AS		100,00		-		-
+			VL		98,98		100,00		-
+			PT		86,49		88,89		100,00
+
+log	11	r	AS		-		0,698		.
+			VL		0,637		-		.
+		det%	AS		-		48,79		.
+			VL		40,52		-		.
+	4	r	AS		-		0,758		.
+			VL		0,945		-		.
+		det%	AS		-		57,51		.
+			VL		89,28		-		.
+	8	r	AS		-		0,768		0,721
+			VL		0,684		-		0,757
+			PT		0,749		0,883		-
+		det%	AS		-		59,00		52,03
+			VL		46,75		-		57,38
+			PT		56,08		77,95		-
+
+exp	11	r	AS		-		0,637		.
+			VL		0,698		-		.
+		det%	AS		-		40,52		.
+			VL		48,79		-		.
+	4	r	AS		-		0,945		.
+			VL		0,758		-		.
+		det%	AS		-		89,28		.
+			VL		57,51		-		.
+	8	r	AS		-		0,684		0,749
+			VL		0,768		-		0,883
+			PT		0,721		0,757		-
+		det%	AS		-		46,75		56,08
+			VL		59,00		-		77,95
+			PT		52,03		57,38		-
+
+pow	11	r	AS		1,000		-		.
+			VL		0,964		1,000		.
+		det%	AS		100,00		-		.
+			VL		92,99		100,00		.
+	4	r	AS		1,000		-		.
+			VL		0,984		1,000		.
+		det%	AS		100,00		-		.
+			VL		96,74		100,00		.
+	8	r	AS		1,000		-		-
+			VL		0,908		1,000		-
+			PT		0,902		0,996		1,000
+		det%	AS		100,00		-		-
+			VL		82,46		100,00		-
+			PT		81,45		99,14|		100,00
+
+expt	11	r	AS		-		0,637		.
+			VL		0,698		-		.
+		det%	AS		-		40,52		.
+			VL		48,79		-		.
+	4	r	AS		-		0,945		.
+			VL		0,758		-		.
+		det%	AS		-		89,28		.
+			VL		57,51		-		.
+	8	r	AS		-		0,684		0,749
+			VL		0,768		-		0,883
+			PT		0,721		0,757		-
+		det%	AS		-		46,75		56,08
+			VL		59,00		-		77,95
+			PT		52,03		57,38		-
+
+inv	11	r	AS		-		-0,222		.
+			VL		-0,239		-		.
+		det%	AS		-		4,92		.
+			VL		5,73		-		.
+	4	r	AS		-		-0,546		.
+			VL		-0,719		-		.
+		det%	AS		-		29,82		.
+			VL		51,75		-		.
+	8	r	AS		-		-0,414		-0,417
+			VL		-0,295		-		-0,438
+			PT		-0,347		-0,509		-
+		det%	AS		-		17,10		17,38
+			VL		8,71		-		19,22
+			PT		12,05		25,96		-
+
+quad	11	r²	AS		-		0,993		.
+			VL		0,992		-		.
+		det%	AS		-		99,29		.
+			VL		99,17		-		.
+	4	r²	AS		-		0,994		.
+			VL		0,997		-		.
+		det%	AS		-		99,42		.
+			VL		99,71		-		.
+	8	r²	AS		-		0,992		0,965
+			VL		0,990		-		0,947
+			PT		0,990		0,992		-
+		det%	AS		-		99,19		96,46
+			VL		99,03		-		94,75
+			PT		98,95		99,19		-
+
+cub	11	r²	AS		-		0,997		.
+			VL		0,994		-		.
+		det%	AS		-		99,73		.
+			VL		99,41		-		.
+	4	r²	AS		-		1,000		.
+			VL		1,000		-		.
+		det%	AS		-		100,00		.
+			VL		100,00		-		.
+	8	r²	AS		-		0,998		0,988
+			VL		0,994		-		0,987
+			PT		0,991		0,999		-
+		det%	AS		-		99,77		98,75
+			VL		99,36		-		98,71
+			PT		99,07		99,87		-
+
+quart	11	r²	AS		-		0,997		.
+			VL		0,994		-		.
+		det%	AS		-		99,73		.
+			VL		99,41		-		.
+	8	r²	AS		-		0,998		0,996
+			VL		0,994		-		1,000
+			PT		0,991		0,999		-
+		det%	AS		-		99,78		99,63
+			VL		99,38		-		99,97
+			PT		99,07		99,94		-
+
+trig	11		AS		-		*		.
+			VL		n.		-		.
+	4		AS		-		n.		.
+			VL		*|		-		.
+	8		AS		-		*		n.
+			VL		n.		-		n.
+			PT		*		*|		-
+</code></pre>
+<p>Coefficients $a, b, r, r^2, det\%$ for (a) regressions (1-6) with $r\ge0.99$, $r^2\ge0.98$, res. and coefficients $a, b, c, d$ for (b) accordant trigonometric regressions (10).</p>
+<pre><code>					n		
+reg	y	x	coef		11		8		4
+
+lin	AS	VL	a		13,367		13,414		-
+			b		-12357,865	-19124,543	-
+			r		0,996		0,995		-
+			r²		0,991		0,990		-
+			det%		99,11		98,98		-
+	VL	AS	a		7,414E-02	7,379E-02	-
+			b		1264,732	1958,852	-
+			r		0,996		0,995		-
+			r²		0,991		0,990		-
+			det%		99,11		98,98		-
+pow	PT	VL	a		-		0,994		-
+			b		-		0,953		-
+			r		-		0,996		-
+			r²		-		0,991		-
+			det%		-		99,14|		-
+	VL	PT	a		-		0,997		-
+			b		-		1,137		-
+			r		-		0,996		-
+			r²		-		0,991		-
+			det%		-		99,14|		-
+trig	AS	VL	a		1444443,139	1413470,906	-
+			b		1,298E-05	1,364E-05	-
+			c		-1,363		-1,441		-
+			d		1443961,529	1461616,015	-
+	PT	VL	a		-		86528,469	-
+			b		-		1,312E-05	-
+			c		-		-0,669		-
+			d		-		53642,944	-
+	PT	AS	a		-		77215,288	-
+			b		-		-5,806E-06	-
+			c		-		17,341		-
+			d		-		68644,477	-
+	VL	AS	a		-		-		237,261
+			b		-		-		0,009
+			c		-		-		-0,961
+			d		-		-		193,137
+</code></pre>
+<p>Predicted values $y'$, difference values $diff=y'-y$, ratio factors $rf=|y/y'|$ with $\overline{rf}$ <em>AM</em> and standard deviation <em>SD</em>.</p>
+<pre><code>n		x		y		y'		diff		rf
+
+lin		VL		AS		AS'		
+	1	6,615		6,378		-12269,441	-12275,819	1923,71
+	2	66,152		44,646		-11473,603	-11518,249	256,99
+	3	180,076		102,048		-9950,759	-10052,807	97,51
+	4	344,093		384,400		-7758,323	-8142,723	20,18
+	5	895,538		57909,000	-387,071	-58296,071	0,01
+	6	4974,750	108210,000	54140,420	-54069,580	0,50
+	7	6627,225	149598,000	76229,320	-73368,680	0,51
+	8	34430,550	227956,000	447880,846	219924,846	1,96
+	9	65894,813	778479,000	868468,720	89989,720	1,12
+	10	104737,880	1432041,000	1387690,257	-44350,743	0,97
+	11	212577,750	2867043,000	2829203,178	-37839,822	0,99
+										209,50
+										547,21
+		AS		VL		VL'		
+	1	6,378		6,615		1265,205	1258,590	191,26
+	2	44,646		66,152		1268,043	1201,891	19,17
+	3	102,048		180,076		1272,299	1092,223	7,07
+	4	384,400		344,093		1293,234	949,141		3,76
+	5	57909,000	895,538		5558,364	4662,827	6,21
+	6	108210,000	4974,750	9287,905	4313,155	1,87
+	7	149598,000	6627,225	12356,596	5729,371	1,86
+	8	227956,000	34430,550	18166,408	-16264,142	0,53
+	9	778479,000	65894,813	58984,640	-6910,173	0,90
+	10	1432041,000	104737,880	107442,644	2704,764	1,03
+	11	2867043,000	212577,750	213840,098	1262,348	1,01
+										21,33
+										53,98
+		VL		AS		AS'		
+	1	344,093		384,400		-14508,786	-14893,186	37,74
+	2	895,538		57909,000	-7111,547	-65020,547	0,12
+	3	4974,750	108210,000	47608,178	-60601,822	0,44
+	4	6627,225	149598,000	69774,950	-79823,050	0,47
+	5	34430,550	227956,000	442736,712	214780,712	1,94
+	6	65894,813	778479,000	864807,344	86328,344	1,11
+	7	104737,880	1432041,000	1385859,366	-46181,634	0,97
+	8	212577,750	2867043,000	2832454,257	-34588,743	0,99
+										5,47
+										12,21
+		AS		VL		VL'		
+	1	384,400		344,093		1987,217	1643,124	5,78
+	2	57909,000	895,538		6231,879	5336,342	6,96
+	3	108210,000	4974,750	9943,522	4968,772	2,00
+	4	149598,000	6627,225	12997,487	6370,262	1,96
+	5	227956,000	34430,550	18779,418	-15651,132	0,55
+	6	778479,000	65894,813	59401,766	-6493,047	0,90
+	7	1432041,000	104737,880	107627,223	2889,343	1,03
+	8	2867043,000	212577,750	213514,081	936,331		1,00
+										2,52
+										2,29
+pow		VL		PT		PT'		
+	1	344,093		306,144		316,927		10,783		1,04
+	2	895,538		733,470		820,224		86,754		1,12
+	3	4974,750	3970,305	4510,810	540,505		1,14
+	4	6627,225	7717,380	5999,083	-1718,297	0,78
+	5	34430,550	32145,120	30867,564	-1277,556	0,96
+	6	65894,813	73372,551	58851,447	-14521,104	0,80
+	7	104737,880	108591,830	93288,906	-15302,924	0,86
+	8	212577,750	127560,000	188556,727	60996,727	1,48
+										1,02|
+										0,21
+		PT		VL		VL'		
+	1	306,144		344,093		342,744		-1,349		1,00
+	2	733,470		895,538		819,212		-76,325		0,91
+	3	3970,305	4974,750	4414,148	-560,602	0,89
+	4	7717,380	6627,225	8564,644	1937,419	1,29
+	5	32145,120	34430,550	35536,315	1105,765	1,03
+	6	73372,551	65894,813	80931,577	15036,764	1,23
+	7	108591,830	104737,880	119651,828	14913,948	1,14
+	8	127560,000	212577,750	140490,481	-72087,269	0,66
+										1,02|
+										0,19
+trig		VL		AS		AS'		
+	1	6,615		6,378		30708,460	30702,082	4814,75
+	2	66,152		44,646		30939,684	30895,038	693,00
+	3	180,076		102,048		31384,487	31282,439	307,55
+	4	344,093		384,400		32030,297	31645,897	83,33
+	5	895,538		57909,000	34248,540	-23660,460	0,59
+	6	4974,750	108210,000	52894,349	-55315,651	0,49
+	7	6627,225	149598,000	61561,500	-88036,500	0,41
+	8	34430,550	227956,000	298605,956	70649,956	1,31
+	9	65894,813	778479,000	742527,634	-35951,366	0,95
+	10	104737,880	1432041,000	1440079,188	8038,188	1,01
+	11	212577,750	2867043,000	2866793,478	-249,522	1,00
+										536,76
+										1368,29
+		VL		AS		AS'		
+	1	344,093		384,400		60992,104	60607,704	158,67
+	2	895,538		57909,000	62462,362	4553,362	1,08
+	3	4974,750	108210,000	75792,254	-32417,746	0,70
+	4	6627,225	149598,000	82416,422	-67181,578	0,55
+	5	34430,550	227956,000	295041,146	67085,146	1,29
+	6	65894,813	778479,000	733118,574	-45360,426	0,94
+	7	104737,880	1432041,000	1445389,018	13348,018	1,01
+	8	212577,750	2867043,000	2866408,626	-634,374	1,00
+										20,66
+										52,16
+		VL		PT		PT'		
+	1	344,093		306,144		306,764		0,620		1,00
+	2	895,538		733,470		800,935		67,465		1,09
+	3	4974,750	3970,305	4540,584	570,279		1,14
+	4	6627,225	7717,380	6096,111	-1621,269	0,79
+	5	34430,550	32145,120	35004,091	2858,971	1,09
+	6	65894,813	73372,551	70456,350	-2916,201	0,96
+	7	104737,880	108591,830	109715,886	1124,056	1,01
+	8	212577,750	127560,000	127476,083	-83,917		1,00
+										1,01|
+										0,10
+		AS		PT		PT'		
+	1	384,400		306,144		-8430,190	-8736,334	27,54
+	2	57909,000	733,470		-5698,017	-6431,487	7,77
+	3	108210,000	3970,305	3457,831	-512,474	0,87
+	4	149598,000	7717,380	15181,012	7463,632	1,97
+	5	227956,000	32145,120	45100,617	12955,497	1,40
+	6	778479,000	73372,551	88123,811	14751,260	1,20
+	7	1432041,000	108591,830	98574,575	-10017,255	0,91
+	8	2867043,000	127560,000	118087,143	-9472,857	0,93
+										5,32
+										8,67
+		AS		VL		VL'		
+	1	6,378		6,615		6,61500		0,00000		1,00000
+	2	44,646		66,152		66,15180	0,00000		1,00000
+	3	102,048		180,076		180,07605	0,00000		1,00000
+	4	384,400		344,093		344,09265	0,00000		1,00000
+										1,00|
+										0,00
+</code></pre>
+<p>For $y=VL$, $x=AS$ with $n=4$ resulted a trigonometric regression function (10) in angle $\pi$</p>
+<p>$$y'=a⋅sin(bx+c)+d,$$</p>
+<p>with $\overline{rf}=1.0$, where period $T=707.63225s$, frequency $f=T^{-1}=1.41316×10^{-3}Hz$ and phase shift $\theta=108.25082$,</p>
+<p>amplitude $a=237.26150$,<br />
+$b=8.87917×10^{-3}$,<br />
+$c=-0.96118$,<br />
+displacement $d=193.13683$.</p>
+<p>For $y=VL$, $x=PT$ with $n=8$ resulted a power regression function (4)</p>
+<p>$$y'=b⋅x^a,$$</p>
+<p>with $r=0.996$, $det=99.14\%$ and $\overline{rf}=1.02$, where</p>
+<p>$a=1.13708$,<br />
+$b=0.99729$.</p>
+<p>For $y=PT$, $x=VL$ with $n=8$ resulted a trigonometric regression function (10) in angle $\pi$ with $\overline{rf}=1.01$, where period $T=479072.68628s$, frequency $f=T^{-1}=2.08737×10^{-6}Hz$ and phase shift $\theta=50984.39628$,</p>
+<p>amplitude $a=86528.46874$,<br />
+$b=1.31153×10^{-5}$,<br />
+$c=-0.66868$,<br />
+displacement $d=53642.94369$,</p>
+<p>as well as a power regression function (4) with $r=0.996$, $det=99.14\%$ and $\overline{rf}=1.02$, where</p>
+<p>$a=0.95313$,<br />
+$b=0.99414$.</p>
+<p>Further regressions (1-6, 10) revealed only insufficient accordance; regressions 7, 8 and 9 showed overall good fits with $r^2\ge0.99$.</p>
+<h2 id="references">References</h2>
+<p>Ganushkina, N. Y., Dandouras, I., Shprits, Y. Y., &amp; Cao, J. (2011). Locations of Boundaries of Outer and Inner Radiation Belts as Observed by Cluster and Double Star. <em>Journal of Geophysical Research: Space Physics 116</em> (A9). <a href="https://doi.org/10.1029/2010JA016376">https://doi.org/10.1029/2010JA016376</a>.</p>
+<p>Goldstein, B. R. (1967). The Arabic Version of Ptolemy’s Planetary Hypotheses. <em>Transactions of the American Philosophical Society, 57</em> (4), 3-55. <a href="https://doi.org/10.2307/1006040">https://doi.org/10.2307/1006040</a>.</p>
+<p>Kameda, S., Ikezawa, S., Sato, M., Kuwabara, M., Osada, N., Murakami, G., Yoshioka, K., Yoshikawa, I., Taguchi, M., Funase, R., Sugita, S., Miyoshi, Y., &amp; Fujimoto, M. (2017). Ecliptic North-South Symmetry of Hydrogen Geocorona. <em>Geophysical Research Letters 44</em> (23): 11706–12. <a href="https://doi.org/10.1002/2017GL075915">https://doi.org/10.1002/2017GL075915</a>.</p>
+<p>Velho, B. (1568). <em>Principio da verdadeira cosmographia ... per Bartholomeu Velho portugues/neste anno de 1568</em>. Paris: Bibliothèque nationale de France. <a href="http://catalogue.bnf.fr/ark:/12148/cb416166390">http://catalogue.bnf.fr/ark:/12148/cb416166390</a>.</p>
+<p>Williams, D. R. (2024). <em>Planetary Fact Sheets</em>. NASA Goddard Space Flight Center. <a href="https://nssdc.gsfc.nasa.gov/planetary/planetfact.html">https://nssdc.gsfc.nasa.gov/planetary/planetfact.html</a>.</p>
+<script type="text/javascript" async
+	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({
+	tex2jax: {inlineMath: [['\\[','\\]'], ['\\(','\\)']]}
+	});
+</script>
+
+
+</body>
+</html> 
