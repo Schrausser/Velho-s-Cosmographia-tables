@@ -339,7 +339,7 @@ trig		VL		AS		AS'
 										0,00
 ~~~
 
-For $y=VL$, $x=AS$ with $n=4$ resulted a trigonometric regression function (10)
+For $y=VL$, $x=AS$ with $n=4$ resulted a trigonometric regression function (10) in angle $\pi$
 
 $$y'=a×sin(bx-c)+d,$$  
 
@@ -359,7 +359,7 @@ with $r=0.991$, $det=99.14\\%$ and $\overline{rf}=1.02$, where
 $a=1.13708$,  
 $b=0.99729$.
 
-For $y=PT$, $x=VL$ with $n=8$ resulted a trigonometric regression function (10) with $\overline{rf}=1.01$, where period $T=479072.68628s$, frequency $f=T^{-1}=2.08737×10^{-6}Hz$ and phase shift $\theta=50984.39628$,  
+For $y=PT$, $x=VL$ with $n=8$ resulted a trigonometric regression function (10) in angle $\pi$ with $\overline{rf}=1.01$, where period $T=479072.68628s$, frequency $f=T^{-1}=2.08737×10^{-6}Hz$ and phase shift $\theta=50984.39628$,  
 
 amplitude $a=86528.46874$,  
 $b=1.31153×10^{-5}$,  
@@ -371,7 +371,7 @@ as well as a power regression function (4) with $r=0.991$, $det=99.14\\%$ and $\
 $a=0.95313$,  
 $b=0.99414$.
 
-Further regressions (1-6, 10) revealed only insufficient accordance. Regressions 7, 8 and 9 showed overall good fits, $r^2\ge0.99$.
+Further regressions (1-6, 10) revealed only insufficient accordance, regressions 7, 8 and 9 showed overall good fits, $r^2\ge0.99$.
 
 ## References
 
