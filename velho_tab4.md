@@ -22,7 +22,7 @@ n					d
 ³) Stars of first magnitude or *Firmamento*, respectively.  
 
 
-Correlation $r$ and coefficient of determination $r^2$, *det%*, res. of *linear*- ($y=ax+b$, *lin*), *logarithmic*- ($a×ln(x)+b$, *log*), *exponential*- ($y=b×e^{ax}$, *exp*), *power*- ($b×x^a$, *pow*), *exponent*- ($b×a^x$, *expt*), *inverse*- ($\frac{a}{x}+b$, *inv*), further *quadratic*- ($ax^2+bx+c$, *quad*), *cubic*- ($ax^3+bx^2+cx+d$, *cub*), *quartic*- ($ax^4+...+e$, *quart*) as well as coefficients for *trigonometric* regression *reg* ($a×sin(bx+c)+d$, *trig*) for Solar System object distances $d$ in $10^3km$ of Velho *VL*, Ptolemy *PT* and the actual model *AS* by classification $n=[11, 4, 8]$.
+Correlation $r$ and coefficient of determination $r^2$, *det%*, res. of (1) *linear*- ($y=ax+b$, *lin*), (2) *logarithmic*- ($a×ln(x)+b$, *log*), (3) *exponential*- ($y=b×e^{ax}$, *exp*), (4) *power*- ($b×x^a$, *pow*), (5) *exponent*- ($b×a^x$, *expt*), (6) *inverse*- ($\frac{a}{x}+b$, *inv*), further (7) *quadratic*- ($ax^2+bx+c$, *quad*), (8) *cubic*- ($ax^3+bx^2+cx+d$, *cub*), (9) *quartic*- ($ax^4+...+e$, *quart*) as well as coefficients for (10) *trigonometric* regression *reg* ($a×sin(bx+c)+d$, *trig*) for Solar System object distances $d$ in $10^3km$ of Velho *VL*, Ptolemy *PT* and the actual model *AS* by classification $n=[11, 4, 8]$.
 ~~~
 				x		
 reg	n		y	AS	VL	PT
@@ -163,6 +163,11 @@ trig	11		AS	-	(1)|
 (3) $y=AS=1413470.90567sin(1.36443742765ᴇ−5x-1.4405633364)+1461616.01519; x=VL.$    
 (4) $y=PT=77215.2879306sin(-5.80613350922ᴇ−6x+17.3413521548)+68644.4768704; x=AS.$    
 (5) $y=PT=86528.4687423sin(1.31153068985ᴇ−5x-0.668676004205)+53642.943687; x=VL.$   
+
+Coefficients $a, b$ for (a) regressions (1-6) with $r\ge0.99$, $r^2\ge0.98$, res. and coefficients $a, b, c, d$ for (b) accordant trigonometric regressions (10).
+~~~
+
+~~~
 
 ## References
 
