@@ -1,4 +1,4 @@
-# velho_tab4.md
+# velho_tab04.md
 
 Distance values $d$ in $10^3km$ for Solar System objects of Velho *VL* (Velho, 1568), Ptolemy *PT* (Goldstein, 1967) and the actual model *AS* (Williams, 2024) by classification $n=[11, 4, 8]$.
 ~~~
@@ -170,45 +170,45 @@ trig	11		AS		-		*		.
 
 Coefficients $a, b, r, r^2, det\\%$ for (a) regressions (1-6) with $r\ge0.99$, $r^2\ge0.98$, res. and coefficients $a, b, c, d$ for (b) accordant trigonometric regressions (10).
 ~~~
-				n		
-reg	y	x	coef	11		8		4
+					n		
+reg	y	x	coef		11		8		4
 
-lin	AS	VL	a	13,367		13,414		-
-			b	-12357,865	-19124,543	-
-			r	0,996		0,995		-
-			r²	0,991		0,990		-
-			det%	99,11		98,98		-
-	VL	AS	a	7,414E-02	7,379E-02	-
-			b	1264,732	1958,852	-
-			r	0,996		0,995		-
-			r²	0,991		0,990		-
-			det%	99,11		98,98		-
-pow	PT	VL	a	-		0,994		-
-			b	-		0,953		-
-			r	-		0,996		-
-			r²	-		0,991		-
-			det%	-		99,14|		-
-	VL	PT	a	-		0,997		-
-			b	-		1,137		-
-			r	-		0,996		-
-			r²	-		0,991		-
-			det%	-		99,14|		-
-trig	AS	VL	a	1444443,139	1413470,906	-
-			b	1,298E-05	1,364E-05	-
-			c	-1,363		-1,441		-
-			d	1443961,529	1461616,015	-
-	PT	VL	a	-		86528,469	-
-			b	-		1,312E-05	-
-			c	-		-0,669		-
-			d	-		53642,944	-
-	PT	AS	a	-		77215,288	-
-			b	-		-5,806E-06	-
-			c	-		17,341		-
-			d	-		68644,477	-
-	VL	AS	a	-		-		237,261
-			b	-		-		0,009
-			c	-		-		-0,961
-			d	-		-		193,137
+lin	AS	VL	a		13,367		13,414		-
+			b		-12357,865	-19124,543	-
+			r		0,996		0,995		-
+			r²		0,991		0,990		-
+			det%		99,11		98,98		-
+	VL	AS	a		7,414E-02	7,379E-02	-
+			b		1264,732	1958,852	-
+			r		0,996		0,995		-
+			r²		0,991		0,990		-
+			det%		99,11		98,98		-
+pow	PT	VL	a		-		0,994		-
+			b		-		0,953		-
+			r		-		0,996		-
+			r²		-		0,991		-
+			det%		-		99,14|		-
+	VL	PT	a		-		0,997		-
+			b		-		1,137		-
+			r		-		0,996		-
+			r²		-		0,991		-
+			det%		-		99,14|		-
+trig	AS	VL	a		1444443,139	1413470,906	-
+			b		1,298E-05	1,364E-05	-
+			c		-1,363		-1,441		-
+			d		1443961,529	1461616,015	-
+	PT	VL	a		-		86528,469	-
+			b		-		1,312E-05	-
+			c		-		-0,669		-
+			d		-		53642,944	-
+	PT	AS	a		-		77215,288	-
+			b		-		-5,806E-06	-
+			c		-		17,341		-
+			d		-		68644,477	-
+	VL	AS	a		-		-		237,261
+			b		-		-		0,009
+			c		-		-		-0,961
+			d		-		-		193,137
 ~~~
 
 Predicted values $y'$, difference values $diff=y'-y$, ratio factors $rf=|y/y'|$ with $\overline{rf}$ *AM* and standard deviation *SD*.
