@@ -339,6 +339,40 @@ trig		VL		AS		AS'
 										0,00
 ~~~
 
+For $y=VL$, $x=AS$ with $n=4$ resulted a trigonometric regression function (10)
+
+$$y'=a×sin(bx-c)+d,$$  
+
+with $\overline{rf}=1.0$, where period $T=707.63225s$, frequency $f=T^{-1}=1.41316×10^{-3}Hz$ and phase shift $\theta=108.25082$,  
+
+amplitude $a=237.26150$,  
+$b=8.87917×10^{-3}$,  
+$c=-0.96118$,  
+displacement $d=193.13683$.
+
+For $y=VL$, $x=PT$ with $n=8$ resulted a power regression function (4)
+
+$$y'=b×x^a,$$
+
+with $r=0.991$, $det=99.14\\%$ and $\overline{rf}=1.02$, where
+
+$a=1.13708$,  
+$b=0.99729$.
+
+For $y=PT$, $x=VL$ with $n=8$ resulted a trigonometric regression function (10) with $\overline{rf}=1.01$, where period $T=479072.68628s$, frequency $f=T^{-1}=2.08737×10^{-6}Hz$ and phase shift $\theta=50984.39628$,  
+
+amplitude $a=86528.46874$,  
+$b=1.31153×10^{-5}$,  
+$c=-0.66868$,  
+displacement $d=53642.94369$,
+
+as well as a power regression function (4) with $r=0.991$, $det=99.14\\%$ and $\overline{rf}=1.02$, where
+
+$a=0.95313$,  
+$b=0.99414$.
+
+Further regressions revealed only insufficient accordance.
+
 ## References
 
 Ganushkina, N. Y., Dandouras, I., Shprits, Y. Y., & Cao, J. (2011). Locations of Boundaries of Outer and Inner Radiation Belts as Observed by Cluster and Double Star. *Journal of Geophysical Research: Space Physics 116* (A9). https://doi.org/10.1029/2010JA016376.
