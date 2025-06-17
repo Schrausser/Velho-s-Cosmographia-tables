@@ -1,12 +1,13 @@
 # velho_tab01.md
 
-Translation of the *heading text* for Velho's model of the universe.			
+Table 1. Translation of the *heading text* for Velho's model of the universe.			
 ~~~
 portugues	FIGURA DOS CORPOS CELESTES		
 deutsch		Darstellung der Himmelskörper.		
 english		Picture of the celestial bodies.
 ~~~
-Display and translation of the names of the *celestial bodies*.		
+
+Table 2. Display and translation of the names of the *celestial bodies*.	
 ~~~
 Texto em portogues	deutsch		english
 
@@ -23,7 +24,8 @@ SATURNO			Saturn		Saturn
 STRELAS			Sterne		Stars
 FIRMAMENTO		Firmament	Firmament
 ~~~
-Display and translation of *sphere parameters* starting at the top right in a clockwise direction.		
+
+Table 3. Display and translation of *sphere parameters* starting at the top right in a clockwise direction.		
 ~~~
 Parameter					Text	
 
@@ -53,7 +55,7 @@ where Radius r = d				Entfernung vom Erdmittelpunkt bzw. Sphärenradius in Legua
 				english:	Distance from the center of the Earth or sphere radius in legues.
 ~~~
 
-Sphere parameters in *Legoas* $L$.		
+Table 4. Sphere parameters in *Legoas* $L$.		
 ~~~		
 	        	Arc length  BL	Circumf. U	Diameter D	Width b 	Radius r
 
@@ -97,7 +99,7 @@ Firmamento		562375,000	202455000,000	64417500,000	16339375,000	32208750,000
 ~~~
 ¹) Illegible value $D_x$ was reconstructed, with $D'_x=2⋅r_x$.
 
-Relations $R$ of parameters $y$ to *arc length* $x=BL_0$, where $R_y = \frac{y}{x}$.	
+Table 5. Relations $R$ of parameters $y$ to *arc length* $x=BL_0$, where $R_y = \frac{y}{x}$.	
 ~~~
 	y=	U0		D0		b0		r0
 x
@@ -114,7 +116,8 @@ Jupiter		360,000001639	114,545455067	27,347283721	57,272727533
 Saturno		359,999989689	114,545451265	21,240148908	57,272725632
 Firmamento	360,000000000	114,545454545	29,054234274	57,272727273
 ~~~
-Relations $RU$ of *circumference* $U_0=y$ to parameters $x$, with $RU = \frac{y}{x}$.	
+
+Table 6. Relations $RU$ of *circumference* $U_0=y$ to parameters $x$, with $RU = \frac{y}{x}$.	
 ~~~
 	x=	D¹		b		r
 y
@@ -133,7 +136,7 @@ Firmamento	3,142857143	12,390620816	6,285714286
 ~~~
 ¹) $\pi_0$ from $\frac{U_0}{D_0}= 3.\overline{142857}$, $\pi_0 = 3 \frac{1}{7}= \frac{22}{7}$, res.					
 
-Recalculation $x'$ of parameters $x$, where $x'=R_yy$.						
+Table 7. Recalculation $x'$ of parameters $x$, where $x'=R_yy$.						
 ~~~
 		Circumference U0/360			Arc length BL0 360			
 		BL'			diff BL'-BL0	U'			diff U'-U0		
