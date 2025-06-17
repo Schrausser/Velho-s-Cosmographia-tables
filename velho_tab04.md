@@ -1,6 +1,6 @@
 # velho_tab04.md
 
-Distance values $d$ in $10^3km$ for Solar System objects of Velho *VL* (Velho, 1568), Ptolemy *PT* (Goldstein, 1967) and the actual model *AS* (Williams, 2024) by classification $n=[11, 4, 8]$.
+Table 1. Distance values $d$ in $10^3km$ for Solar System objects of Velho *VL* (Velho, [1568](http://catalogue.bnf.fr/ark:/12148/cb416166390)), Ptolemy *PT* (Goldstein, [1967](https://doi.org/10.2307/1006040)) and the actual model *AS* (Williams, [2024](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)) by classification $n=[11, 4, 8]$.
 ~~~
 n					d	
 11	4	8	object		AS		VL		PT
@@ -17,12 +17,11 @@ n					d
 10	.	7	Saturn		1432041,000	104737,880	108591,830
 11	.	8	Uranus³		2867043,000	212577,750	127560,000
 ~~~
-¹) Van Allen radiation belt (c.f. Ganushkina et al., 2011).  
-²) Hydrogen geocorona ( c.f. Kameda et al., 2017).  
+¹) Van Allen radiation belt (c.f. Ganushkina et al., [2011](https://doi.org/10.1029/2010JA016376)).  
+²) Hydrogen geocorona ( c.f. Kameda et al., [2017]()).  
 ³) Stars of first magnitude or *Firmamento*, respectively.  
 
-
-Correlation $r$ and coefficient of determination $r^2$, *det%*, res. of (1) *linear*- ($y=ax+b$, *lin*), (2) *logarithmic*- ($a⋅ln(x)+b$, *log*), (3) *exponential*- ($y=b⋅e^{ax}$, *exp*), (4) *power*- ($b⋅x^a$, *pow*), (5) *exponent*- ($b⋅a^x$, *expt*), (6) *inverse*- ($\frac{a}{x}+b$, *inv*), further (7) *quadratic*- ($ax^2+bx+c$, *quad*), (8) *cubic*- ($ax^3+bx^2+cx+d$, *cub*), (9) *quartic*- ($ax^4+...+e$, *quart*) as well as coefficients for (10) *trigonometric* regression in $\pi$ *reg* ($a⋅sin(bx+c)+d$, *trig*) for Solar System object distances $d$ in $10^3km$ of Velho *VL*, Ptolemy *PT* and the actual model *AS* by classification $n=[11, 4, 8]$.
+Table 2. Correlation $r$ and coefficient of determination $r^2$, *det%*, res. of (1) *linear*- ($y=ax+b$, *lin*), (2) *logarithmic*- ($a⋅ln(x)+b$, *log*), (3) *exponential*- ($y=b⋅e^{ax}$, *exp*), (4) *power*- ($b⋅x^a$, *pow*), (5) *exponent*- ($b⋅a^x$, *expt*), (6) *inverse*- ($\frac{a}{x}+b$, *inv*), further (7) *quadratic*- ($ax^2+bx+c$, *quad*), (8) *cubic*- ($ax^3+bx^2+cx+d$, *cub*), (9) *quartic*- ($ax^4+...+e$, *quart*) as well as coefficients for (10) *trigonometric* regression in $\pi$ *reg* ($a⋅sin(bx+c)+d$, *trig*) for Solar System object distances $d$ in $10^3km$ of Velho *VL*, Ptolemy *PT* and the actual model *AS* by classification $n=[11, 4, 8]$.
 ~~~
 					x		
 reg	n		y		AS		VL		PT
@@ -167,8 +166,7 @@ trig	11		AS		-		*		.
 			PT		*		*|		-
 ~~~
 
-
-Coefficients $a, b, r, r^2, det\\%$ for (a) regressions (1-6) with $r\ge0.99$, $r^2\ge0.98$, res. and coefficients $a, b, c, d$ for (b) accordant trigonometric regressions (10).
+Table 3. Coefficients $a, b, r, r^2, det\\%$ for (a) regressions (1-6) with $r\ge0.99$, $r^2\ge0.98$, res. and coefficients $a, b, c, d$ for (b) accordant trigonometric regressions (10).
 ~~~
 					n		
 reg	y	x	coef		11		8		4
@@ -211,7 +209,7 @@ trig	AS	VL	a		1444443,139	1413470,906	-
 			d		-		-		193,137
 ~~~
 
-Predicted values $y'$, difference values $diff=y'-y$, ratio factors $rf=|y/y'|$ with $\overline{rf}$ *AM* and standard deviation *SD*.
+Table 4. Predicted values $y'$, difference values $diff=y'-y$, ratio factors $rf=|y/y'|$ with $\overline{rf}$ *AM* and standard deviation *SD*.
 ~~~
 n		x		y		y'		diff		rf
 
@@ -379,12 +377,12 @@ Further regressions (1-6, 10) revealed only insufficient accordance; regressions
 
 ## References
 
-Ganushkina, N. Y., Dandouras, I., Shprits, Y. Y., & Cao, J. (2011). Locations of Boundaries of Outer and Inner Radiation Belts as Observed by Cluster and Double Star. *Journal of Geophysical Research: Space Physics 116* (A9). https://doi.org/10.1029/2010JA016376.
+Ganushkina, N. Y., Dandouras, I., Shprits, Y. Y., & Cao, J. (2011). Locations of Boundaries of Outer and Inner Radiation Belts as Observed by Cluster and Double Star. *Journal of Geophysical Research: Space Physics 116* (A9). [https://doi.org/10.1029/2010JA016376](https://doi.org/10.1029/2010JA016376)
 
-Goldstein, B. R. (1967). The Arabic Version of Ptolemy’s Planetary Hypotheses. *Transactions of the American Philosophical Society, 57* (4), 3-55. https://doi.org/10.2307/1006040.
+Goldstein, B. R. (1967). The Arabic Version of Ptolemy’s Planetary Hypotheses. *Transactions of the American Philosophical Society, 57* (4), 3-55. [https://doi.org/10.2307/1006040](https://doi.org/10.2307/1006040)
 
-Kameda, S., Ikezawa, S., Sato, M., Kuwabara, M., Osada, N., Murakami, G., Yoshioka, K., Yoshikawa, I., Taguchi, M., Funase, R., Sugita, S., Miyoshi, Y., & Fujimoto, M. (2017). Ecliptic North-South Symmetry of Hydrogen Geocorona. *Geophysical Research Letters 44* (23): 11706–12. https://doi.org/10.1002/2017GL075915.
+Kameda, S., Ikezawa, S., Sato, M., Kuwabara, M., Osada, N., Murakami, G., Yoshioka, K., Yoshikawa, I., Taguchi, M., Funase, R., Sugita, S., Miyoshi, Y., & Fujimoto, M. (2017). Ecliptic North-South Symmetry of Hydrogen Geocorona. *Geophysical Research Letters 44* (23): 11706–12. [https://doi.org/10.1002/2017GL075915]()
 
-Velho, B. (1568). *Principio da verdadeira cosmographia ... per Bartholomeu Velho portugues/neste anno de 1568*. Paris: Bibliothèque nationale de France. http://catalogue.bnf.fr/ark:/12148/cb416166390.
+Velho, B. (1568). *Principio da verdadeira cosmographia ... per Bartholomeu Velho portugues/neste anno de 1568*. Paris: Bibliothèque nationale de France. [http://catalogue.bnf.fr/ark:/12148/cb416166390](http://catalogue.bnf.fr/ark:/12148/cb416166390)
 
-Williams, D. R. (2024). *Planetary Fact Sheets*. NASA Goddard Space Flight Center. https://nssdc.gsfc.nasa.gov/planetary/planetfact.html.
+Williams, D. R. (2024). *Planetary Fact Sheets*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/planetfact.html](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)
