@@ -1,17 +1,17 @@
 # Velho's Cosmographia tables
-Bartholomeu Velho's *Cosmographia* illustration (1568, fol. 9v-10r, fol. 6r-7v, res.) depicting his geocentric model (c.f. Domosh et al., 2020, p. 28) with tables elaborated and recalculated as well as presented with corresponding images of *his*  Solar System:
+Bartholomeu Velho's *Cosmographia* illustration ([1568](), fol. 9v-10r, fol. 6r-7v, res.) depicting his geocentric model (c.f. Domosh et al., [2020](), p. 28) with tables elaborated and recalculated as well as presented with corresponding images of *his*  Solar System:
 
->„ [...] the Bibliotheque Nationale succeeded in acquiring the manuscript in which the Portuguese Bartolomeu Velho summarised his cosmographic knowledge for the benefit of King Charles IX of France [...] This volume consists of 23 cosmographic tavoadas and figuras illustrated by representations of the terrestrial globe on different projections and allegorical figures of the Moon, Mercury, Venus, the Sun, Jupiter and Saturn  [...] the work, which Velho compiled at the request of Francisco d'Albagno, remained in the latter's possession and was not delivered to the king owing to the author's death [...] Soon after, it passed to Giovanni Andreozzi [...] who in 1576 offered it to the Grand Duke Francis of Tuscany [...]  it was discovered in the library of M. Ferreira das Neves [...] and studied in 1890 [...] The MS. reappeared in the library of Ch. Chadenat, whence it passed into the Bibliotheque Nationale on March 13, 1950 [...] “, (Foncin, 1960, p. 43-44).
+>„ [...] the Bibliotheque Nationale succeeded in acquiring the manuscript in which the Portuguese Bartolomeu Velho summarised his cosmographic knowledge for the benefit of King Charles IX of France [...] This volume consists of 23 cosmographic tavoadas and figuras illustrated by representations of the terrestrial globe on different projections and allegorical figures of the Moon, Mercury, Venus, the Sun, Jupiter and Saturn  [...] the work, which Velho compiled at the request of Francisco d'Albagno, remained in the latter's possession and was not delivered to the king owing to the author's death [...] Soon after, it passed to Giovanni Andreozzi [...] who in 1576 offered it to the Grand Duke Francis of Tuscany [...]  it was discovered in the library of M. Ferreira das Neves [...] and studied in 1890 [...] The MS. reappeared in the library of Ch. Chadenat, whence it passed into the Bibliotheque Nationale on March 13, 1950 [...] “, (Foncin, [1960](), p. 43-44).
 
-See also Codazzi (1964, p. 78) and Cortesão (1965, 2009, respectively).
+See also Codazzi ([1964]()), p. 78) and Cortesão ([1965](), [2009](), respectively).
 
-Translation of the *headline* text.		
+Table 1. Translation of the *headline* text.		
 ~~~
 portugues	FIGURA DOS CORPOS CELESTES			
 english		Picture of the celestial bodies.
 ~~~
 
-Display and translation of *sphere parameters* starting at the top right in a clockwise direction (c.f. Fig. 1).		
+Table 2. Display and translation of *sphere parameters* starting at the top right in a clockwise direction (c.f. Fig. 1).		
 ~~~
 Parameter		Text	
 
@@ -47,7 +47,7 @@ $$b_n=r_n-r_{(n-1)},$$
 
 where radius $r$ (fol. 6r) equals distance $d$.
 
-Translation of the *rotation* descriptions.		
+Table 3. Translation of the *rotation* descriptions.		
 ~~~
 Texto em portogues		english
 
@@ -81,7 +81,7 @@ MOBILE EM 24 ORAS		mobile in 24 hours.
 CELVM EMPIREVM HABITACVLVM	Heaven of the home of
 DEI ET OMNIVM ELECTORUM		God and all chosen ones.
 ~~~
-Radius *r*, distances *d*, res., given in *Legoas* $L$ converted into kilometers *km*, with *Légua terrestre*[^1] $L_t=6.600km$ and *Légua antiga* $L_a=6.197km$ (c.f. Costa, 1994).
+Table 4. Radius *r*, distances *d*, res., given in *Legoas* $L$ converted into kilometers *km*, with *Légua terrestre*[^1] $L_t=6.600km$ and *Légua antiga* $L_a=6.197km$ (c.f. Costa, [1994]()).
 [^1]:Land league in the colonial period of Brazil.
 ~~~
                 km		
@@ -99,18 +99,18 @@ Jupiter	 	65 894 812,50 	 61 871 235,31
 Saturno	 	104 737 875,00 	 98 342 516,88 	 
 Firmamento	212 577 750,00 	 199 597 623,75  
 ~~~
-Velho's universe up to the *firmament* therefore has a size that roughly extends to the *orbit of Mars*, with semimajor axis $d=227956000km$ (c.f. Williams, 2024).
+Velho's universe up to the *firmament* therefore has a size that roughly extends to the *orbit of Mars*, with semimajor axis $d=227956000km$ (c.f. Williams, [2024]()).
 For the corresponding *distances* or *sizes* of the spheres c.f. Fig. 2.  
 At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the *overall* picture whether you place the Earth or the Sun in the center (see `velho_tab01`, `velho_tab02`, `velho_tab03` and `velho_tab04` tables).  
 
 Figure 2.
 ![figure.\label{velho02}](velho02.png)
 
-In this context see *Anaxagoras* and his concepts of the *primum mobile* and *nous* (c.f. Ferchius, 1646), *Pythagoras‘* doctrine of *musica universalis* (c.f. Davis et al., 1901) and *Plato’s* fifth *etheric* element, the *quintessence* (see e.g. Böckh, 1852):
+In this context see *Anaxagoras* and his concepts of the *primum mobile* and *nous* (c.f. Ferchius, [1646]()), *Pythagoras‘* doctrine of *musica universalis* (c.f. Davis et al., [1901]()) and *Plato’s* fifth *etheric* element, the *quintessence* (see e.g. Böckh, [1852]()):
 
->„As the eyes, said I, seem formed for studying astronomy, so do the ears seem formed for harmonious motions: and these seem to be twin sciences to one another, as also the Pythagoreans say.", (Davis et al., 1901, p. 252).
+>„As the eyes, said I, seem formed for studying astronomy, so do the ears seem formed for harmonious motions: and these seem to be twin sciences to one another, as also the Pythagoreans say.", (Davis et al., [1901](), p. 252).
 >
-For further readings see e.g. Campbell (1978, p. 105), Furtado (2022), Krtalić & McIntosh (2022) or Meirinhos (2022).
+For further readings see e.g. Campbell ([1978](), p. 105), Furtado ([2022]()), Krtalić & McIntosh ([2022]()) or Meirinhos ([2022]()).
 
 ## References
 
