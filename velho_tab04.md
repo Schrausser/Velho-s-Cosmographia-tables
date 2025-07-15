@@ -21,7 +21,7 @@ n					d
 ²) Hydrogen geocorona (c.f. Kameda et al., [2017](https://doi.org/10.1002/2017GL075915)).  
 ³) Stars of first magnitude or *Firmamento*, respectively.  
 
-Table 2. Correlation $r$ and coefficient of determination $r^2$, *det%*, res. of (1) *linear*- ($y=ax+b$, *lin*), (2) *logarithmic*- ($a⋅ln(x)+b$, *log*), (3) *exponential*- ($y=b⋅e^{ax}$, *exp*), (4) *power*- ($b⋅x^a$, *pow*), (5) *exponent*- ($b⋅a^x$, *expt*), (6) *inverse*- ($\frac{a}{x}+b$, *inv*), further (7) *quadratic*- ($ax^2+bx+c$, *quad*), (8) *cubic*- ($ax^3+bx^2+cx+d$, *cub*), (9) *quartic*- ($ax^4+...+e$, *quart*) as well as coefficients for (10) *trigonometric* regression in $\pi$ *reg* ($a⋅sin(bx+c)+d$, *trig*) for Solar System object distances $d$ in $10^3km$ of Velho *VL*, Ptolemy *PT* and the actual model *AS* by classification $n=[11, 4, 8]$.
+Table 2. Correlation $r$ and coefficient of determination $r^2$, *det%*, res. of (1) *linear*- ($y=ax+b$, *lin*), (2) *logarithmic*- ($y=a⋅ln(x)+b$, *log*), (3) *exponential*- ($y=b⋅e^{ax}$, *exp*), (4) *power*- ($y=b⋅x^a$, *pow*), (5) *exponent*- ($y=b⋅a^x$, *expt*), (6) *inverse*- ($y=\frac{a}{x}+b$, *inv*), further (7) *quadratic*- ($y=ax^2+bx+c$, *quad*), (8) *cubic*- ($y=ax^3+bx^2+cx+d$, *cub*), (9) *quartic*- ($y=ax^4+...+e$, *quart*) as well as coefficients for (10) *trigonometric* regression in $\pi$ *reg* ($y=a⋅sin(bx+c)+d$, *trig*) for Solar System object distances $d$ in $10^3km$ of Velho *VL*, Ptolemy *PT* and the actual model *AS* by classification $n=[11, 4, 8]$.
 ~~~
 					x		
 reg	n		y		AS		VL		PT
