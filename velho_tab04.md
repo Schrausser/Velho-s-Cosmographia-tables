@@ -209,7 +209,7 @@ trig	AS	VL	a		1444443,139	1413470,906	-
 			d		-		-		193,137
 ~~~
 
-Table 4. Predicted values $y'$, difference values $diff=y'-y$, ratio factors $rf=|y/y'|$ with $\overline{rf}$ *AM* and standard deviation *SD*.
+Table 4. Predicted values $y'$, difference values $diff=y'-y$, ratio factors $rf=|\frac{y}{y'}|$ with $\overline{rf}$ *AM* and standard deviation *SD*.
 ~~~
 n		x		y		y'		diff		rf
 
