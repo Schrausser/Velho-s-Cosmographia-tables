@@ -1,6 +1,7 @@
 <html> 
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="Author" content="Dietmar Gerald Schrausser">
 
 <title>
@@ -8,7 +9,7 @@ Velho-s-Cosmographia-table/velho_tab01
 </title>
 
 </head> 
-<body>
+<body style="font-family:calibri;font-size:85%;background-color:#eceff1;color:#37474f">
 
 <style></style>
 <h1 id="velho_tab01md">velho_tab01.md</h1>
@@ -61,7 +62,9 @@ where b(n) = r(n)-r(n-1)			Sphärenbreite in Leguas.
 where Radius r = d				Entfernung vom Erdmittelpunkt bzw. Sphärenradius in Leguas.	
 				english:	Distance from the center of the Earth or sphere radius in legues.
 </code></pre>
-<p>Table 4. Sphere parameters in <em>Legoas</em> $L$.</p>
+<p>Table 4. Sphere parameters in <em>Legoas</em> <math display="inline">
+<mi>L</mi>
+</math>.</p>
 <pre><code>	        	Arc length  BL	Circumf. U	Diameter D	Width b 	Radius r
 
 Fractional number
@@ -102,8 +105,16 @@ Jupiter			174324,900	62756964,286	19968125,00¹	4767312,500	9984062,500
 Saturno			277084,333	99750357,143	31738750,000	5885312,500	15869375,000
 Firmamento		562375,000	202455000,000	64417500,000	16339375,000	32208750,000
 </code></pre>
-<p>¹) Illegible value $D_x$ was reconstructed, with $D'_x=2⋅r_x$.</p>
-<p>Table 5. Relations $R$ of parameters $y$ to <em>arc length</em> $x=BL_0$, where $R_y = \frac{y}{x}$.</p>
+<p>¹) Illegible value <math display="inline">
+<msub>
+<mi>D</mi><mi>x</mi>
+</msub>
+</math> was reconstructed, with <math display="inline"><msubsup><mi>D</mi><mi>x</mi><mo data-mjx-alternate="1">′</mo></msubsup><mo>=</mo><mn>2</mn><mo>&middot;</mo><msub><mi>r</mi><mi>x</mi></msub></math>.</p>
+<p>Table 5. Relations <math display="inline">
+<mi>R</mi>
+</math> of parameters <math display="inline">
+<mi>y</mi>
+</math> to <em>arc length</em> <math display="inline"><mi>x</mi><mo>=</mo><mi>B</mi><msub><mi>L</mi><mn>0</mn></msub></math>, where <math display="inline"><msub><mi>R</mi><mi>y</mi></msub><mo>=</mo><mfrac><mi>y</mi><mi>x</mi></mfrac></math>.</p>
 <pre><code>	y=	U0		D0		b0		r0
 x
 Arc length BL0					
@@ -119,7 +130,9 @@ Jupiter		360,000001639	114,545455067	27,347283721	57,272727533
 Saturno		359,999989689	114,545451265	21,240148908	57,272725632
 Firmamento	360,000000000	114,545454545	29,054234274	57,272727273
 </code></pre>
-<p>Table 6. Relations $RU$ of <em>circumference</em> $U_0=y$ to parameters $x$, with $RU = \frac{y}{x}$.</p>
+<p>Table 6. Relations <math display="inline"><msup><mi>R</mi><mi>U</mi></math> of <em>circumference </em><math display="inline"><msub><mi>U</mi><mn>0</mn></msub><mo>=</mo><mi>y</mi></math> to parameters <math display="inline">
+<mi>x</mi>
+</math>, with <math display="inline"><mi>R</mi><mi>U</mi><mo>=</mo><mfrac><mi>y</mi><mi>x</mi></mfrac></math>.</p>
 <pre><code>	x=	D¹		b		r
 y
 Circumference U0
@@ -135,8 +148,14 @@ Jupiter		3,142857143	13,164013118	6,285714286
 Saturno		3,142857143	16,949033232	6,285714286
 Firmamento	3,142857143	12,390620816	6,285714286
 </code></pre>
-<p>¹) $\pi_0$ from $\frac{U_0}{D_0}= 3.\overline{142857}$, $\pi_0 = 3 \frac{1}{7}= \frac{22}{7}$, res.</p>
-<p>Table 7. Recalculation $x'$ of parameters $x$, where $x'=R_yy$.</p>
+<p>¹) <math display="inline">
+<msub>
+<mo>&pi;</mo><mi>0</mi>
+</msub>
+</math> from <math display="inline"><mfrac><msub><mi>U</mi><mn>0</mn></msub><msub><mi>D</mi><mn>0</mn></msub></mfrac><mo>=</mo><mn>3.</mn><mover><mn>142857</mn><mo accent="true">__________</mo></mover></math>, <math display="inline"><msub><mo>&pi;</mo><mn>0</mn></msub><mo>=</mo><mn>3</mn><mfrac><mn>1</mn><mn>7</mn></mfrac><mo>=</mo><mfrac><mn>22</mn><mn>7</mn></mfrac></math>, res.</p>
+<p>Table 7. Recalculation <math display="inline"><msup><mi>x</mi><mo>′</mo></math> of parameters <math display="inline">
+<mi>x</mi>
+</math>, where <math display="inline"><msup><mi>x</mi><mo data-mjx-alternate="1">′</mo></msup><mo>=</mo><msub><mi>R</mi><mi>y</mi></msub><mi>y</mi></math>.</p>
 <pre><code>		Circumference U0/360			Arc length BL0 360			
 		BL'			diff BL'-BL0	U'			diff U'-U0		
 
@@ -166,7 +185,11 @@ Jupiter		9984062,500000000	0,00000000	4767312,500000000	0,00000000	0		0
 Saturno		15869375,000000000	0,00000000	5885312,500000000	0,00000000	0		0
 Firmamento	32208750,000000000	0,00000000	16339375,000000000	0,00000000	0		0
 </code></pre>
-<p>¹) an inconsistency related to $\pi_0$ is given at <em>Mercury</em>.<br />
+<p>¹) an inconsistency related to <math display="inline">
+<msub>
+<mo>&pi;</mo><mi>0</mi>
+</msub>
+</math> is given at <em>Mercury</em>.<br />
 ²) further inconsistencies.</p>
 
 <hr WIDTH="75%">
