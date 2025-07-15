@@ -18,7 +18,7 @@ n					d
 11	.	8	Uranus³		2867043,000	212577,750	127560,000
 ~~~
 ¹) Van Allen radiation belt (c.f. Ganushkina et al., [2011](https://doi.org/10.1029/2010JA016376)).  
-²) Hydrogen geocorona ( c.f. Kameda et al., [2017]()).  
+²) Hydrogen geocorona ( c.f. Kameda et al., [2017](https://doi.org/10.1002/2017GL075915)).  
 ³) Stars of first magnitude or *Firmamento*, respectively.  
 
 Table 2. Correlation $r$ and coefficient of determination $r^2$, *det%*, res. of (1) *linear*- ($y=ax+b$, *lin*), (2) *logarithmic*- ($a⋅ln(x)+b$, *log*), (3) *exponential*- ($y=b⋅e^{ax}$, *exp*), (4) *power*- ($b⋅x^a$, *pow*), (5) *exponent*- ($b⋅a^x$, *expt*), (6) *inverse*- ($\frac{a}{x}+b$, *inv*), further (7) *quadratic*- ($ax^2+bx+c$, *quad*), (8) *cubic*- ($ax^3+bx^2+cx+d$, *cub*), (9) *quartic*- ($ax^4+...+e$, *quart*) as well as coefficients for (10) *trigonometric* regression in $\pi$ *reg* ($a⋅sin(bx+c)+d$, *trig*) for Solar System object distances $d$ in $10^3km$ of Velho *VL*, Ptolemy *PT* and the actual model *AS* by classification $n=[11, 4, 8]$.
@@ -381,7 +381,7 @@ Ganushkina, N. Y., Dandouras, I., Shprits, Y. Y., & Cao, J. (2011). Locations of
 
 Goldstein, B. R. (1967). The Arabic Version of Ptolemy’s Planetary Hypotheses. *Transactions of the American Philosophical Society, 57* (4), 3-55. [https://doi.org/10.2307/1006040](https://doi.org/10.2307/1006040)
 
-Kameda, S., Ikezawa, S., Sato, M., Kuwabara, M., Osada, N., Murakami, G., Yoshioka, K., Yoshikawa, I., Taguchi, M., Funase, R., Sugita, S., Miyoshi, Y., & Fujimoto, M. (2017). Ecliptic North-South Symmetry of Hydrogen Geocorona. *Geophysical Research Letters 44* (23): 11706–12. [https://doi.org/10.1002/2017GL075915]()
+Kameda, S., Ikezawa, S., Sato, M., Kuwabara, M., Osada, N., Murakami, G., Yoshioka, K., Yoshikawa, I., Taguchi, M., Funase, R., Sugita, S., Miyoshi, Y., & Fujimoto, M. (2017). Ecliptic North-South Symmetry of Hydrogen Geocorona. *Geophysical Research Letters 44* (23): 11706–12. [https://doi.org/10.1002/2017GL075915](https://doi.org/10.1002/2017GL075915)
 
 Velho, B. (1568). *Principio da verdadeira cosmographia ... per Bartholomeu Velho portugues/neste anno de 1568*. Paris: Bibliothèque nationale de France. [http://catalogue.bnf.fr/ark:/12148/cb416166390](http://catalogue.bnf.fr/ark:/12148/cb416166390)
 
