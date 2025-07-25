@@ -352,6 +352,9 @@ $b=8.87917×10^{-3}$,
 $c=-0.96118$,  
 displacement $d=193.13683$.
 
+Figure 1. Regressions, $y=VL$, $x=AS$.
+![figure.\label{reg1}](reg1.jpg)
+
 For $y=VL$, $x=PT$ with $n=8$ resulted a power regression function (4)
 
 $$y'=b⋅x^a,$$
@@ -360,6 +363,9 @@ with $r=0.996$, $det=99.14\\%$ and $\overline{rf}=1.02$, where
 
 $a=1.13708$,  
 $b=0.99729$.
+
+Figure 2. 	Power (trigonometric) regression, $y=VL$, $x=PT$.
+![figure.\label{reg2}](reg2.jpg)
 
 For $y=PT$, $x=VL$ with $n=8$ resulted a trigonometric regression function (10) in angle $\pi$ with $\overline{rf}=1.01$, where period $T=479072.68628s$, frequency $f=T^{-1}=2.08737×10^{-6}Hz$ and phase shift $\theta=50984.39628$,  
 
@@ -372,6 +378,12 @@ as well as a power regression function (4) with $r=0.996$, $det=99.14\\%$ and $\
 
 $a=0.95313$,  
 $b=0.99414$.
+
+Figure 3. 	Trigonometric (linear) regression, $y=PT$, $x=VL$.
+![figure.\label{reg3}](reg3.jpg)
+
+Figure 4. 	Power (linear) regression, $y=PT$, $x=VL$.
+![figure.\label{reg4}](reg4.jpg)
 
 Further regressions (1-6, 10) revealed only insufficient accordance; regressions 7, 8 and 9 showed overall good fits with $r^2\ge0.99$.
 
