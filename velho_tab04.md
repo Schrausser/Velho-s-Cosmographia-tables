@@ -379,11 +379,10 @@ as well as a power regression function (4) with $r=0.996$, $det=99.14\\%$ and $\
 $a=0.95313$,  
 $b=0.99414$.
 
-Figure 3. 	Trigonometric (linear) regression, $y=PT$, $x=VL$.
+Figure 3. Regressions, $y=PT$, $x=VL$.
 ![figure.\label{reg3}](reg3.jpg)
 
-Figure 4. 	Power (linear) regression, $y=PT$, $x=VL$.
-![figure.\label{reg4}](reg4.jpg)
+
 
 Further regressions (1-6, 10) revealed only insufficient accordance; regressions 7, 8 and 9 showed overall good fits with $r^2\ge0.99$.
 
