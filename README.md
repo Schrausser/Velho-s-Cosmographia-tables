@@ -117,15 +117,15 @@ For further readings see e.g. Campbell ([1978](http://www.jstor.org/stable/11507
 
 Böckh, A. (1852). *Untersuchungen Über Das Kosmische System Des Platon: Mit Bezug Auf Hrn. Gruppe’s Kosmische Systeme Der Griechen ; Sendschreiben an Alexander von Humboldt*. Berlin: Verlag von Veit & Comp. [https://doi.org/10.3931/e-rara-90691](https://doi.org/10.3931/e-rara-90691)
 
-Campbell, T. (1978). Chronicle. *Imago Mundi 30*: 103–8. [http://www.jstor.org/stable/1150712](http://www.jstor.org/stable/1150712)
+Campbell, T. (1978). Chronicle. *Imago Mundi, 30*, 103–8. [http://www.jstor.org/stable/1150712](http://www.jstor.org/stable/1150712)
 
-Codazzi, A. (1964). The Contribution of Roberto Almagià to the History of Cartography. *Imago Mundi 18*: 78–80. [http://www.jstor.org/stable/1150381](http://www.jstor.org/stable/1150381)
+Codazzi, A. (1964). The Contribution of Roberto Almagià to the History of Cartography. *Imago Mundi, 18*, 78–80. [http://www.jstor.org/stable/1150381](http://www.jstor.org/stable/1150381)
 
 Cortesão, J. (1965). *História do Brasil nos Velhos Mapas*. Vol. 2. História Do Brasil Nos Velhos Mapas. Brasilia: Ministor̄io das Relações Exteriores, Instituto Rio Branco. [https://books.google.com/books?id=9TkNAAAAYAAJ](https://books.google.com/books?id=9TkNAAAAYAAJ)
 
 ———. (2009). *História Do Brasil Nos Velhos Mapas - Obras Completas IX*. Portuguese. Vol. 1. Lisbon: INCM – Imprensa Nacional Casa da Moeda. [https://www.amazon.com/Hist%C3%B3ria-Brasil-Velhos-Mapas-portugiesisch/dp/9722717952](https://www.amazon.com/Hist%C3%B3ria-Brasil-Velhos-Mapas-portugiesisch/dp/9722717952)
 
-Costa, I. (1994). Pesos e medidas no período colonial brasileiro: denominações e relações. *Boletim de História Demográfica 1* (1). [http://historia_demografica.tripod.com/bhds/bhd1.htm#pesos](http://historia_demografica.tripod.com/bhds/bhd1.htm#pesos)
+Costa, I. (1994). Pesos e medidas no período colonial brasileiro: denominações e relações. *Boletim de História Demográfica, 1*(1). [http://historia_demografica.tripod.com/bhds/bhd1.htm#pesos](http://historia_demografica.tripod.com/bhds/bhd1.htm#pesos)
 
 Davis, H., Burges, G., & Rooker, G. Z. (1901). *The Republic: The Statesman of Plato*. London & New York: M. Walter Dunne. [https://archive.org/details/republicstatesma00plat_0/](https://archive.org/details/republicstatesma00plat_0/)
 
@@ -133,11 +133,11 @@ Domosh, M., Heffernan, M., & Withers, C.W.J. (2020). *The SAGE Handbook of Hist
 
 Ferchius, M. (1646). *De Caelesti Svbstantia: Et Eius Ortu, Ac Motu in Sententia Anaxagorae Philosophi Celeberrimi*. Venetiis: apud Haeredes Ioannis Salis. [https://doi.org/10.3931/e-rara-73987](https://doi.org/10.3931/e-rara-73987)
 
-Foncin, M. (1960). Some Manuscript Maps Recently Acquired by the Département Des Cartes Et Plans of the Bibliothèque Nationale, Paris. *Imago Mundi 15*: 40–45. [http://www.jstor.org/stable/1150275](http://www.jstor.org/stable/1150275)
+Foncin, M. (1960). Some Manuscript Maps Recently Acquired by the Département Des Cartes Et Plans of the Bibliothèque Nationale, Paris. *Imago Mundi, 15*, 40–45. [http://www.jstor.org/stable/1150275](http://www.jstor.org/stable/1150275)
 
 Furtado, J. F. (2022). Cartography in the Administration of Portuguese America from the 16th to 18th Centuries. In *The Oxford Encyclopedia of Brazilian History and Culture*, edited by Palacios, G. Oxford: University Press. [https://doi.org/10.1093/acrefore/9780199366439.013.773](https://doi.org/10.1093/acrefore/9780199366439.013.773)
 
-Krtalić, Š., & McIntosh, G. C. (2022). Two Sixteenth-Century Nautical Charts of the South Atlantic Ocean: An Early Example of Cartography Used at Sea. *Journal of Navigation 75* (6): 1280–97. [https://doi.org/10.1017/S0373463322000662](https://doi.org/10.1017/S0373463322000662)
+Krtalić, Š., & McIntosh, G. C. (2022). Two Sixteenth-Century Nautical Charts of the South Atlantic Ocean: An Early Example of Cartography Used at Sea. *Journal of Navigation, 75*(6),1280–97. [https://doi.org/10.1017/S0373463322000662](https://doi.org/10.1017/S0373463322000662)
 
 Meirinhos, J. F. (2022). Celestial Bodies and Dimension of the Universe in Bartolomeu Velho’s Cosmographia. In *From Wisdom to Data: Philosophical Atlas on Visual Representations of Knowledge*, edited by Higuera, J. G., Romele, A., Rodighiero, D., & Pedro, C. Coleção Transversal. Porto: University of Porto Press. [https://books.google.com/books?id=EAEezwEACAAJ](https://books.google.com/books?id=EAEezwEACAAJ)
 
