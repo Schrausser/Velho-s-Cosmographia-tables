@@ -133,7 +133,7 @@ Domosh, M., Heffernan, M., & Withers, C.W.J. (2020). *The SAGE Handbook of Hist
 
 Ferchius, M. (1646). *De Caelesti Svbstantia: Et Eius Ortu, Ac Motu in Sententia Anaxagorae Philosophi Celeberrimi*. Venetiis: apud Haeredes Ioannis Salis. [https://doi.org/10.3931/e-rara-73987](https://doi.org/10.3931/e-rara-73987)
 
-Foncin, M. (1960). Some Manuscript Maps Recently Acquired by the Département Des Cartes Et Plans of the Bibliothèque Nationale, Paris. *Imago Mundi, 15*, 40–45. [http://www.jstor.org/stable/1150275](http://www.jstor.org/stable/1150275)
+Foncin, M. (1960). Some Manuscript Maps Recently Acquired by the Département Des Cartes Et Plans of the Bibliothèque Nationale, Paris. *Imago Mundi, 15*, 40–5. [http://www.jstor.org/stable/1150275](http://www.jstor.org/stable/1150275)
 
 Furtado, J. F. (2022). Cartography in the Administration of Portuguese America from the 16th to 18th Centuries. In *The Oxford Encyclopedia of Brazilian History and Culture*, edited by Palacios, G. Oxford: University Press. [https://doi.org/10.1093/acrefore/9780199366439.013.773](https://doi.org/10.1093/acrefore/9780199366439.013.773)
 
