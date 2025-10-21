@@ -388,11 +388,11 @@ Further regressions (1-6, 10) revealed only insufficient accordance; regressions
 
 ## References
 
-Ganushkina, N. Y., Dandouras, I., Shprits, Y. Y., & Cao, J. (2011). Locations of Boundaries of Outer and Inner Radiation Belts as Observed by Cluster and Double Star. *Journal of Geophysical Research: Space Physics 116* (A9). [https://doi.org/10.1029/2010JA016376](https://doi.org/10.1029/2010JA016376)
+Ganushkina, N. Y., Dandouras, I., Shprits, Y. Y., & Cao, J. (2011). Locations of Boundaries of Outer and Inner Radiation Belts as Observed by Cluster and Double Star. *Journal of Geophysical Research: Space Physics, 116*(A9). [https://doi.org/10.1029/2010JA016376](https://doi.org/10.1029/2010JA016376)
 
-Goldstein, B. R. (1967). The Arabic Version of Ptolemy’s Planetary Hypotheses. *Transactions of the American Philosophical Society, 57* (4), 3-55. [https://doi.org/10.2307/1006040](https://doi.org/10.2307/1006040)
+Goldstein, B. R. (1967). The Arabic Version of Ptolemy’s Planetary Hypotheses. *Transactions of the American Philosophical Society, 57*(4), 3-55. [https://doi.org/10.2307/1006040](https://doi.org/10.2307/1006040)
 
-Kameda, S., Ikezawa, S., Sato, M., Kuwabara, M., Osada, N., Murakami, G., Yoshioka, K., Yoshikawa, I., Taguchi, M., Funase, R., Sugita, S., Miyoshi, Y., & Fujimoto, M. (2017). Ecliptic North-South Symmetry of Hydrogen Geocorona. *Geophysical Research Letters 44* (23): 11706–12. [https://doi.org/10.1002/2017GL075915](https://doi.org/10.1002/2017GL075915)
+Kameda, S., Ikezawa, S., Sato, M., Kuwabara, M., Osada, N., Murakami, G., Yoshioka, K., Yoshikawa, I., Taguchi, M., Funase, R., Sugita, S., Miyoshi, Y., & Fujimoto, M. (2017). Ecliptic North-South Symmetry of Hydrogen Geocorona. *Geophysical Research Letters, 44*(23), 11706–12. [https://doi.org/10.1002/2017GL075915](https://doi.org/10.1002/2017GL075915)
 
 Velho, B. (1568). *Principio da verdadeira cosmographia ... per Bartholomeu Velho portugues/neste anno de 1568*. Paris: Bibliothèque nationale de France. [http://catalogue.bnf.fr/ark:/12148/cb416166390](http://catalogue.bnf.fr/ark:/12148/cb416166390)
 

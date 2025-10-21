@@ -109,20 +109,20 @@ Heliosphere TS/Sol	11 219 850 000,00² 	6 627 225,00 	1692,99
 Sum			20 131 791 000,00 	12 497 512,50 	4795,65
 AM	 		6 710 597 000,00 	4 165 837,50 	1598,55
 ~~~
-¹) Kuiper belt up to c. $d=50au$ (c.f. Trujillo and Brown, [2001](https://doi.org/10.1086/320917); Matheson and Malhotra, [2023](https://doi.org/10.3847/1538-3881/accffd)).  
+¹) Kuiper belt up to c. $d=50au$ (c.f. Trujillo & Brown, [2001](https://doi.org/10.1086/320917); Matheson & Malhotra, [2023](https://doi.org/10.3847/1538-3881/accffd)).  
 ²) Termination shock threshold of the heliosphere c. $d=75au$ (c.f. McComas et al., [2019](https://doi.org/10.3847/1538-4357/ab441a)).
 
 
 ## References
 
-Ganushkina, N. Y., Dandouras, I., Shprits, Y. Y., & Cao, J. (2011). Locations of Boundaries of Outer and Inner Radiation Belts as Observed by Cluster and Double Star. *Journal of Geophysical Research: Space Physics 116* (A9). [https://doi.org/10.1029/2010JA016376](https://doi.org/10.1029/2010JA016376)
+Ganushkina, N. Y., Dandouras, I., Shprits, Y. Y., & Cao, J. (2011). Locations of Boundaries of Outer and Inner Radiation Belts as Observed by Cluster and Double Star. *Journal of Geophysical Research: Space Physics, 116*(A9). [https://doi.org/10.1029/2010JA016376](https://doi.org/10.1029/2010JA016376)
 
-Kameda, S., Ikezawa, S., Sato, M., Kuwabara, M., Osada, N., Murakami, G., Yoshioka, K., Yoshikawa, I., Taguchi, M., Funase, R., Sugita, S., Miyoshi, Y., & Fujimoto, M. (2017). Ecliptic North-South Symmetry of Hydrogen Geocorona. *Geophysical Research Letters 44* (23): 11706–12. [https://doi.org/10.1002/2017GL075915](https://doi.org/10.1002/2017GL075915)
+Kameda, S., Ikezawa, S., Sato, M., Kuwabara, M., Osada, N., Murakami, G., Yoshioka, K., Yoshikawa, I., Taguchi, M., Funase, R., Sugita, S., Miyoshi, Y., & Fujimoto, M. (2017). Ecliptic North-South Symmetry of Hydrogen Geocorona. *Geophysical Research Letters, 44*(23), 11706–12. [https://doi.org/10.1002/2017GL075915](https://doi.org/10.1002/2017GL075915)
 
-Matheson, I., & Malhotra, R. (2023). A Measurement of the Kuiper Belt’s Mean Plane from Objects Classified by Machine Learning. *The Astronomical Journal 165* (6): 241. [https://doi.org/10.3847/1538-3881/accffd](https://doi.org/10.3847/1538-3881/accffd)
+Matheson, I., & Malhotra, R. (2023). A Measurement of the Kuiper Belt’s Mean Plane from Objects Classified by Machine Learning. *The Astronomical Journal, 165*(6), 241. [https://doi.org/10.3847/1538-3881/accffd](https://doi.org/10.3847/1538-3881/accffd)
 
-McComas, D.J., Rankin, J. S., Schwadron, N. A., & Swaczyna, P. (2019). Termination Shock Measured by Voyagers and IBEX. *The Astrophysical Journal 884* (2): 145. [https://doi.org/10.3847/1538-4357/ab441a](https://doi.org/10.3847/1538-4357/ab441a)
+McComas, D.J., Rankin, J. S., Schwadron, N. A., & Swaczyna, P. (2019). Termination Shock Measured by Voyagers and IBEX. *The Astrophysical Journal, 884*(2), 145. [https://doi.org/10.3847/1538-4357/ab441a](https://doi.org/10.3847/1538-4357/ab441a)
 
-Trujillo, C. A., & Brown, M. E. (2001). The Radial Distribution of the Kuiper Belt. *The Astrophysical Journal 554* (1): L95. [https://doi.org/10.1086/320917](https://doi.org/10.1086/320917)
+Trujillo, C. A., & Brown, M. E. (2001). The Radial Distribution of the Kuiper Belt. *The Astrophysical Journal, 554*(1), L95. [https://doi.org/10.1086/320917](https://doi.org/10.1086/320917)
 
-Williams, D. R. (2024). *Planetary Fact Sheets*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/planetfact.html](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html) 
+Williams, D. R. (2024). *Planetary Fact Sheets*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/planetfact.html](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html) 

@@ -39,7 +39,7 @@ AM	 	53 810 324,08 	 	44 299 594,88 		-1275988,05		1,06
 
 ## References
 
-Goldstein, B. R. (1967). The Arabic Version of Ptolemy’s Planetary Hypotheses. *Transactions of the American Philosophical Society, 57* (4), 3-55. [https://doi.org/10.2307/1006040](https://doi.org/10.2307/1006040)
+Goldstein, B. R. (1967). The Arabic Version of Ptolemy’s Planetary Hypotheses. *Transactions of the American Philosophical Society, 57*(4), 3-55. [https://doi.org/10.2307/1006040](https://doi.org/10.2307/1006040)
 
 Velho, B. (1568). *Principio da verdadeira cosmographia ... per Bartholomeu Velho portugues/neste anno de 1568*. Paris: Bibliothèque nationale de France. [http://catalogue.bnf.fr/ark:/12148/cb416166390](http://catalogue.bnf.fr/ark:/12148/cb416166390)
 
