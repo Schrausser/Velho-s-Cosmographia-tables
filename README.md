@@ -137,7 +137,7 @@ Foncin, M. (1960). Some Manuscript Maps Recently Acquired by the Département D
 
 Furtado, J. F. (2022). Cartography in the Administration of Portuguese America from the 16th to 18th Centuries. In *The Oxford Encyclopedia of Brazilian History and Culture*, edited by Palacios, G. Oxford: University Press. [https://doi.org/10.1093/acrefore/9780199366439.013.773](https://doi.org/10.1093/acrefore/9780199366439.013.773)
 
-Krtalić, Š., & McIntosh, G. C. (2022). Two Sixteenth-Century Nautical Charts of the South Atlantic Ocean: An Early Example of Cartography Used at Sea. *Journal of Navigation, 75*(6),1280–97. [https://doi.org/10.1017/S0373463322000662](https://doi.org/10.1017/S0373463322000662)
+Krtalić, Š., & McIntosh, G. C. (2022). Two Sixteenth-Century Nautical Charts of the South Atlantic Ocean: An Early Example of Cartography Used at Sea. *Journal of Navigation, 75*(6), 1280–97. [https://doi.org/10.1017/S0373463322000662](https://doi.org/10.1017/S0373463322000662)
 
 Meirinhos, J. F. (2022). Celestial Bodies and Dimension of the Universe in Bartolomeu Velho’s Cosmographia. In *From Wisdom to Data: Philosophical Atlas on Visual Representations of Knowledge*, edited by Higuera, J. G., Romele, A., Rodighiero, D., & Pedro, C. Coleção Transversal. Porto: University of Porto Press. [https://books.google.com/books?id=EAEezwEACAAJ](https://books.google.com/books?id=EAEezwEACAAJ)
 
