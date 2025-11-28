@@ -6,32 +6,32 @@ Bartholomeu Velho's *Cosmographia* illustration ([1568](http://catalogue.bnf.fr/
 
 See also Codazzi ([1964](http://www.jstor.org/stable/1150381)), p. 78) and Cortesão ([1965](https://books.google.com/books?id=9TkNAAAAYAAJ), [2009](https://www.amazon.com/Hist%C3%B3ria-Brasil-Velhos-Mapas-portugiesisch/dp/9722717952), respectively).
 
-Table 1. Translation of the *headline* text.		
+**Table 1**. Translation of the *headline* text.		
 ~~~
 portugues	FIGURA DOS CORPOS CELESTES			
 english		Picture of the celestial bodies.
 ~~~
 
-Table 2. Display and translation of *sphere parameters* starting at the top right in a clockwise direction (c.f. Fig. 1).		
+**Table 2**. Display and translation of *sphere parameters* starting at the top right in a clockwise direction (c.f. Fig. 1).		
 ~~~
-Parameter		Text	
+Parameter			Text	
 
 1) Arc length BL	Legoas de hu grao : e cada hu globo celeste
                 	Arc length per degree in legues.	
 
 2) Circumference U	Legoas do mayor circulo de cada hu globo C'eleste.				
-          		Sphere circumference in legues.	
+          			Sphere circumference in legues.	
 
 3) Diameter D		Legoas do diametro de cada hu globo celeste.	
-         		Sphere diameter in legues.	
+         			Sphere diameter in legues.	
 
-4) Width b		Legoas da gro sura de cada hu globo cesleste.	
+4) Width b			Legoas da gro sura de cada hu globo cesleste.	
                 	Sphere width in legues.	
 	
 5) Distance d		Legoas ate o centro da terra ‐ de cada hu globo celeste.
                 	Distance from the center of the earth or sphere radius in legues.  
 ~~~
-Figure 1. 		
+**Figure 1**. 		
 ![figure.\label{velho01}](velho01.png)
 
 Arc length *BL* (fol. 7v) per degree $∡°$ is calculated by
@@ -48,63 +48,63 @@ $$b_n=r_n-r_{(n-1)},$$
 
 where radius $r$ (fol. 6r) equals distance $d$.
 
-Table 3. Translation of the *rotation* descriptions.		
+**Table 3**. Translation of the *rotation* descriptions.		
 ~~~
-Texto em portogues		english
+Texto em portogues				english
 
-R. DA LVA			Orbital period of the Moon
-EN 27 DIAS E 8 ORAS		in 27 days and 8 hours.
+R. DA LVA						Orbital period of the Moon
+EN 27 DIAS E 8 ORAS				in 27 days and 8 hours.
 
-R. DE MERCVRIO			Orbital period of Mercury
-EN 70 DIAS E 7 ORAS		in 70 days and 7 hours.
+R. DE MERCVRIO					Orbital period of Mercury
+EN 70 DIAS E 7 ORAS				in 70 days and 7 hours.
 
-REVOLVCAO DE VENUS		Orbital period of Venus
-EN 273 DIAS E 23 ORAS		in 273 days and 23 hours.
+REVOLVCAO DE VENUS				Orbital period of Venus
+EN 273 DIAS E 23 ORAS			in 273 days and 23 hours.
 
-REVOLVCAC DO SOL		Orbital period of the Sun
-EN 365 DIAS E SEIS ORAS		in 365 days and six hours.
+REVOLVCAC DO SOL				Orbital period of the Sun
+EN 365 DIAS E SEIS ORAS			in 365 days and six hours.
 
-REVOLVCAO DE MARS		Orbital period of Mars
-EN DOVS ANNOS			in two years.
+REVOLVCAO DE MARS				Orbital period of Mars
+EN DOVS ANNOS					in two years.
 
-REVOLVCAO DO CEO D IVPITER	Orbital period of the Jupiter sky
-EN DOZE ANNOS			in twelve years.
+REVOLVCAO DO CEO D IVPITER		Orbital period of the Jupiter sky
+EN DOZE ANNOS					in twelve years.
 
-REVOLVCAO DO CEO D SATVRNO	Orbital period of the Saturn sky
-EN TRINTA ANNOS			in thirty years.
+REVOLVCAO DO CEO D SATVRNO		Orbital period of the Saturn sky
+EN TRINTA ANNOS					in thirty years.
 
 REVOLVCAO DO CEO DAS ES TRELAS	Orbital period of the starry sky
-EN 36000 ANOS			in 36000 years.
+EN 36000 ANOS					in 36000 years.
 
-REVOLVCAO DO PRIMO		Orbital period of the first
-MOBILE EM 24 ORAS		mobile in 24 hours.
+REVOLVCAO DO PRIMO				Orbital period of the first
+MOBILE EM 24 ORAS				mobile in 24 hours.
 
-CELVM EMPIREVM HABITACVLVM	Heaven of the home of
-DEI ET OMNIVM ELECTORUM		God and all chosen ones.
+CELVM EMPIREVM HABITACVLVM		Heaven of the home of
+DEI ET OMNIVM ELECTORUM			God and all chosen ones.
 ~~~
-Table 4. Radius *r*, distances *d*, res., given in *Legoas* $L$ converted into kilometers *km*, with *Légua terrestre*[^1] $L_t=6.600km$ and *Légua antiga* $L_a=6.197km$ (c.f. Costa, [1994](http://historia_demografica.tripod.com/bhds/bhd1.htm#pesos)).
+**Table 4**. Radius *r*, distances *d*, res., given in *Legoas* $L$ converted into kilometers *km*, with *Légua terrestre*[^1] $L_t=6.600km$ and *Légua antiga* $L_a=6.197km$ (c.f. Costa, [1994](http://historia_demografica.tripod.com/bhds/bhd1.htm#pesos)).
 [^1]:Land league in the colonial period of Brazil.
 ~~~
                 km		
-        	L(t)             L(a)
+        		L(t)            	L(a)
 	
-Terra	 	6 615,00         6 211,08 	
-Ar	 	66 151,80 	 62 112,53 	 
-Fogo		180 076,05 	 169 080,50 	 
-Luna		344 092,65 	 323 082,14 	 
-Mercurio	895 537,50 	 840 855,44 	 
-Venus		4 974 750,00 	 4 670 988,75 	 
-Sol	 	6 627 225,00 	 6 222 562,63 	 
-Mars	 	34 430 550,00 	 32 328 199,75 	 
-Jupiter	 	65 894 812,50 	 61 871 235,31 	 
-Saturno	 	104 737 875,00 	 98 342 516,88 	 
-Firmamento	212 577 750,00 	 199 597 623,75  
+Terra	 		6 615,00        	6 211,08 	
+Ar	 			66 151,80 	 		62 112,53 	 
+Fogo			180 076,05 	 		169 080,50 	 
+Luna			344 092,65 	 		323 082,14 	 
+Mercurio		895 537,50 	 		840 855,44 	 
+Venus			4 974 750,00 		4 670 988,75 	 
+Sol	 			6 627 225,00 		6 222 562,63 	 
+Mars	 		34 430 550,00 		32 328 199,75 	 
+Jupiter	 		65 894 812,50 		61 871 235,31 	 
+Saturno	 		104 737 875,00 		98 342 516,88 	 
+Firmamento		212 577 750,00 		199 597 623,75  
 ~~~
 Velho's universe up to the *firmament* therefore has a size that roughly extends to the *orbit of Mars*, with semimajor axis $d=227956000km$ (c.f. Williams, [2024](https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html)).
 For the corresponding *distances* or *sizes* of the spheres c.f. Fig. 2.  
 At this point it also becomes clear that, given the distances shown, it hardly makes any difference in the *overall* picture whether you place the Earth or the Sun in the center (see `velho_tab01`, `velho_tab02`, `velho_tab03` and `velho_tab04` tables).  
 
-Figure 2.
+**Figure 2**.
 ![figure.\label{velho02}](velho02.png)
 
 In this context see *Anaxagoras* and his concepts of the *primum mobile* and *nous* (c.f. Ferchius, [1646](https://doi.org/10.3931/e-rara-73987)), *Pythagoras‘* doctrine of *musica universalis* (c.f. Davis et al., [1901](https://archive.org/details/republicstatesma00plat_0/)) and *Plato’s* fifth *etheric* element, the *quintessence* (see e.g. Böckh, [1852](https://doi.org/10.3931/e-rara-90691)):
@@ -129,7 +129,7 @@ Costa, I. (1994). Pesos e medidas no período colonial brasileiro: denominaçõ
 
 Davis, H., Burges, G., & Rooker, G. Z. (1901). *The Republic: The Statesman of Plato*. London & New York: M. Walter Dunne. [https://archive.org/details/republicstatesma00plat_0/](https://archive.org/details/republicstatesma00plat_0/)
 
-Domosh, M., Heffernan, M., & Withers, C.W.J. (2020). *The SAGE Handbook of Historical Geography*. Thousand Oaks, California: SAGE Publications. [https://books.google.com/books?id=8n7vDwAAQBAJ](https://books.google.com/books?id=8n7vDwAAQBAJ)
+Domosh, M., Heffernan, M., & Withers, C.W.J. (2020). *The SAGE Handbook o Historical Geography*. Thousand Oaks, California: SAGE Publications. [https://books.google.com/books?id=8n7vDwAAQBAJ](https://books.google.com/books?id=8n7vDwAAQBAJ)
 
 Ferchius, M. (1646). *De Caelesti Svbstantia: Et Eius Ortu, Ac Motu in Sententia Anaxagorae Philosophi Celeberrimi*. Venetiis: apud Haeredes Ioannis Salis. [https://doi.org/10.3931/e-rara-73987](https://doi.org/10.3931/e-rara-73987)
 
