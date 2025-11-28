@@ -1,9 +1,9 @@
 # velho_tab04.md
 
-Table 1. Distance values $d$ in $10^3km$ for Solar System objects of Velho *VL* (Velho, [1568](http://catalogue.bnf.fr/ark:/12148/cb416166390)), Ptolemy *PT* (Goldstein, [1967](https://doi.org/10.2307/1006040)) and the actual model *AS* (Williams, [2024](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)) by classification $n=[11, 4, 8]$.
+**Table 1**. Distance values $d$ in $10^3km$ for Solar System objects of Velho *VL* (Velho, [1568](http://catalogue.bnf.fr/ark:/12148/cb416166390)), Ptolemy *PT* (Goldstein, [1967](https://doi.org/10.2307/1006040)) and the actual model *AS* (Williams, [2024](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)) by classification $n=[11, 4, 8]$.
 ~~~
-n					d	
-11	4	8	object		AS		VL		PT
+n						d	
+11	4	8	object		AS			VL			PT
 
 1	1	.	Earth		6,378		6,615		-
 2	2	.	Air¹		44,646		66,152		-
@@ -21,195 +21,195 @@ n					d
 ²) Hydrogen geocorona (c.f. Kameda et al., [2017](https://doi.org/10.1002/2017GL075915)).  
 ³) Stars of first magnitude or *Firmamento*, respectively.  
 
-Table 2. Correlation $r$ and coefficient of determination $r^2$, *det%*, res. of (1) *linear*- ($y=ax+b$, *lin*), (2) *logarithmic*- ($y=a⋅ln(x)+b$, *log*), (3) *exponential*- ($y=b⋅e^{ax}$, *exp*), (4) *power*- ($y=b⋅x^a$, *pow*), (5) *exponent*- ($y=b⋅a^x$, *expt*), (6) *inverse*- ($y=\frac{a}{x}+b$, *inv*), further (7) *quadratic*- ($y=ax^2+bx+c$, *quad*), (8) *cubic*- ($y=ax^3+bx^2+cx+d$, *cub*), (9) *quartic*- ($y=ax^4+...+e$, *quart*) as well as coefficients for (10) *trigonometric* regression in $\pi$ *reg* ($y=a⋅\sin(bx+c)+d$, *trig*) for Solar System object distances $d$ in $10^3km$ of Velho *VL*, Ptolemy *PT* and the actual model *AS* by classification $n=[11, 4, 8]$.
+**Table 2**. Correlation $r$ and coefficient of determination $r^2$, *det%*, res. of (1) *linear*- ($y=ax+b$, *lin*), (2) *logarithmic*- ($y=a⋅ln(x)+b$, *log*), (3) *exponential*- ($y=b⋅e^{ax}$, *exp*), (4) *power*- ($y=b⋅x^a$, *pow*), (5) *exponent*- ($y=b⋅a^x$, *expt*), (6) *inverse*- ($y=\frac{a}{x}+b$, *inv*), further (7) *quadratic*- ($y=ax^2+bx+c$, *quad*), (8) *cubic*- ($y=ax^3+bx^2+cx+d$, *cub*), (9) *quartic*- ($y=ax^4+...+e$, *quart*) as well as coefficients for (10) *trigonometric* regression in $\pi$ *reg* ($y=a⋅\sin(bx+c)+d$, *trig*) for Solar System object distances $d$ in $10^3km$ of Velho *VL*, Ptolemy *PT* and the actual model *AS* by classification $n=[11, 4, 8]$.
 ~~~
 					x		
-reg	n		y		AS		VL		PT
+reg	n		y		AS			VL			PT
 
-lin	11	r	AS		1,000		-		.
+lin	11	r	AS		1,000		-			.
 			VL		0,996		1,000		.
-		det%	AS		100,00		-		.
+		det%AS		100,00		-			.
 			VL		99,11		100,00		.
-	4	r	AS		1,000		-		.
+	4	r	AS		1,000		-			.
 			VL		0,962		1,000		.
-		det%	AS		100,00		-		.
+		det%AS		100,00		-			.
 			VL		92,62		100,00		.
-	8	r	AS		1,000		-		-
+	8	r	AS		1,000		-			-
 			VL		0,995		1,000		-
 			PT		0,930		0,943		1,000
-		det%	AS		100,00		-		-
+		det%AS		100,00		-			-
 			VL		98,98		100,00		-
 			PT		86,49		88,89		100,00
 
-log	11	r	AS		-		0,698		.
-			VL		0,637		-		.
-		det%	AS		-		48,79		.
-			VL		40,52		-		.
-	4	r	AS		-		0,758		.
-			VL		0,945		-		.
-		det%	AS		-		57,51		.
-			VL		89,28		-		.
-	8	r	AS		-		0,768		0,721
-			VL		0,684		-		0,757
+log	11	r	AS		-			0,698		.
+			VL		0,637		-			.
+		det%AS		-			48,79		.
+			VL		40,52		-			.
+	4	r	AS		-			0,758		.
+			VL		0,945		-			.
+		det%AS		-			57,51		.
+			VL		89,28		-			.
+	8	r	AS		-			0,768		0,721
+			VL		0,684		-			0,757
 			PT		0,749		0,883		-
-		det%	AS		-		59,00		52,03
-			VL		46,75		-		57,38
+		det%AS		-			59,00		52,03
+			VL		46,75		-			57,38
 			PT		56,08		77,95		-
 
-exp	11	r	AS		-		0,637		.
-			VL		0,698		-		.
-		det%	AS		-		40,52		.
-			VL		48,79		-		.
-	4	r	AS		-		0,945		.
-			VL		0,758		-		.
-		det%	AS		-		89,28		.
-			VL		57,51		-		.
-	8	r	AS		-		0,684		0,749
-			VL		0,768		-		0,883
+exp	11	r	AS		-			0,637		.
+			VL		0,698		-			.
+		det%AS		-			40,52		.
+			VL		48,79		-			.
+	4	r	AS		-			0,945		.
+			VL		0,758		-			.
+		det%AS		-			89,28		.
+			VL		57,51		-			.
+	8	r	AS		-			0,684		0,749
+			VL		0,768		-			0,883
 			PT		0,721		0,757		-
-		det%	AS		-		46,75		56,08
-			VL		59,00		-		77,95
+		det%AS		-			46,75		56,08
+			VL		59,00		-			77,95
 			PT		52,03		57,38		-
 
-pow	11	r	AS		1,000		-		.
+pow	11	r	AS		1,000		-			.
 			VL		0,964		1,000		.
-		det%	AS		100,00		-		.
+		det%AS		100,00		-			.
 			VL		92,99		100,00		.
-	4	r	AS		1,000		-		.
+	4	r	AS		1,000		-			.
 			VL		0,984		1,000		.
-		det%	AS		100,00		-		.
+		det%AS		100,00		-			.
 			VL		96,74		100,00		.
-	8	r	AS		1,000		-		-
+	8	r	AS		1,000		-			-
 			VL		0,908		1,000		-
 			PT		0,902		0,996		1,000
-		det%	AS		100,00		-		-
+		det%AS		100,00		-			-
 			VL		82,46		100,00		-
 			PT		81,45		99,14|		100,00
 
 expt	11	r	AS		-		0,637		.
-			VL		0,698		-		.
-		det%	AS		-		40,52		.
-			VL		48,79		-		.
-	4	r	AS		-		0,945		.
-			VL		0,758		-		.
-		det%	AS		-		89,28		.
-			VL		57,51		-		.
-	8	r	AS		-		0,684		0,749
-			VL		0,768		-		0,883
+			VL		0,698		-			.
+		det%AS		-			40,52		.
+			VL		48,79		-			.
+	4	r	AS		-			0,945		.
+			VL		0,758		-			.
+		det%AS		-			89,28		.
+			VL		57,51		-			.
+	8	r	AS		-			0,684		0,749
+			VL		0,768		-			0,883
 			PT		0,721		0,757		-
-		det%	AS		-		46,75		56,08
-			VL		59,00		-		77,95
+		det%AS		-			46,75		56,08
+			VL		59,00		-			77,95
 			PT		52,03		57,38		-
 
-inv	11	r	AS		-		-0,222		.
-			VL		-0,239		-		.
-		det%	AS		-		4,92		.
-			VL		5,73		-		.
-	4	r	AS		-		-0,546		.
-			VL		-0,719		-		.
-		det%	AS		-		29,82		.
-			VL		51,75		-		.
-	8	r	AS		-		-0,414		-0,417
-			VL		-0,295		-		-0,438
+inv	11	r	AS		-			-0,222		.
+			VL		-0,239		-			.
+		det%AS		-			4,92		.
+			VL		5,73		-			.
+	4	r	AS		-			-0,546		.
+			VL		-0,719		-			.
+		det%AS		-			29,82		.
+			VL		51,75		-			.
+	8	r	AS		-			-0,414		-0,417
+			VL		-0,295		-			-0,438
 			PT		-0,347		-0,509		-
-		det%	AS		-		17,10		17,38
-			VL		8,71		-		19,22
+		det%AS		-			17,10		17,38
+			VL		8,71		-			19,22
 			PT		12,05		25,96		-
 
-quad	11	r²	AS		-		0,993		.
-			VL		0,992		-		.
-		det%	AS		-		99,29		.
-			VL		99,17		-		.
-	4	r²	AS		-		0,994		.
-			VL		0,997		-		.
-		det%	AS		-		99,42		.
-			VL		99,71		-		.
-	8	r²	AS		-		0,992		0,965
-			VL		0,990		-		0,947
+quad11	r²	AS		-			0,993		.
+			VL		0,992		-			.
+		det%AS		-			99,29		.
+			VL		99,17		-			.
+	4	r²	AS		-			0,994		.
+			VL		0,997		-			.
+		det%AS		-			99,42		.
+			VL		99,71		-			.
+	8	r²	AS		-			0,992		0,965
+			VL		0,990		-			0,947
 			PT		0,990		0,992		-
-		det%	AS		-		99,19		96,46
-			VL		99,03		-		94,75
+		det%AS		-			99,19		96,46
+			VL		99,03		-			94,75
 			PT		98,95		99,19		-
 
-cub	11	r²	AS		-		0,997		.
-			VL		0,994		-		.
-		det%	AS		-		99,73		.
-			VL		99,41		-		.
-	4	r²	AS		-		1,000		.
-			VL		1,000		-		.
-		det%	AS		-		100,00		.
-			VL		100,00		-		.
-	8	r²	AS		-		0,998		0,988
-			VL		0,994		-		0,987
+cub	11	r²	AS		-			0,997		.
+			VL		0,994		-			.
+		det%AS		-			99,73		.
+			VL		99,41		-			.
+	4	r²	AS		-			1,000		.
+			VL		1,000		-			.
+		det%AS		-			100,00		.
+			VL		100,00		-			.
+	8	r²	AS		-			0,998		0,988
+			VL		0,994		-			0,987
 			PT		0,991		0,999		-
-		det%	AS		-		99,77		98,75
-			VL		99,36		-		98,71
+		det%AS		-			99,77		98,75
+			VL		99,36		-			98,71
 			PT		99,07		99,87		-
 
-quart	11	r²	AS		-		0,997		.
-			VL		0,994		-		.
-		det%	AS		-		99,73		.
-			VL		99,41		-		.
-	8	r²	AS		-		0,998		0,996
-			VL		0,994		-		1,000
+quart11	r²	AS		-			0,997		.
+			VL		0,994		-			.
+		det%AS		-			99,73		.
+			VL		99,41		-			.
+	8	r²	AS		-			0,998		0,996
+			VL		0,994		-			1,000
 			PT		0,991		0,999		-
-		det%	AS		-		99,78		99,63
-			VL		99,38		-		99,97
+		det%AS		-			99,78		99,63
+			VL		99,38		-			99,97
 			PT		99,07		99,94		-
 
-trig	11		AS		-		*		.
-			VL		n.		-		.
-	4		AS		-		n.		.
-			VL		*|		-		.
-	8		AS		-		*		n.
-			VL		n.		-		n.
-			PT		*		*|		-
+trig11		AS		-			*			.
+			VL		n.			-			.
+	4		AS		-			n.			.
+			VL		*|			-			.
+	8		AS		-			*			n.
+			VL		n.			-			n.
+			PT		*			*|			-
 ~~~
 
-Table 3. Coefficients $a, b, r, r^2, det\\%$ for (a) regressions (1-6) with $r\ge0.99$, $r^2\ge0.98$, res. and coefficients $a, b, c, d$ for (b) accordant trigonometric regressions (10).
+**Table 3**. Coefficients $a, b, r, r^2, det\\%$ for (a) regressions (1-6) with $r\ge0.99$, $r^2\ge0.98$, res. and coefficients $a, b, c, d$ for (b) accordant trigonometric regressions (10).
 ~~~
 					n		
-reg	y	x	coef		11		8		4
+reg	y	x	coef	11			8			4
 
 lin	AS	VL	a		13,367		13,414		-
 			b		-12357,865	-19124,543	-
 			r		0,996		0,995		-
 			r²		0,991		0,990		-
-			det%		99,11		98,98		-
+			det%	99,11		98,98		-
 	VL	AS	a		7,414E-02	7,379E-02	-
 			b		1264,732	1958,852	-
 			r		0,996		0,995		-
 			r²		0,991		0,990		-
-			det%		99,11		98,98		-
-pow	PT	VL	a		-		0,994		-
-			b		-		0,953		-
-			r		-		0,996		-
-			r²		-		0,991		-
-			det%		-		99,14|		-
-	VL	PT	a		-		0,997		-
-			b		-		1,137		-
-			r		-		0,996		-
-			r²		-		0,991		-
-			det%		-		99,14|		-
-trig	AS	VL	a		1444443,139	1413470,906	-
+			det%	99,11		98,98		-
+pow	PT	VL	a		-			0,994		-
+			b		-			0,953		-
+			r		-			0,996		-
+			r²		-			0,991		-
+			det%	-			99,14|		-
+	VL	PT	a		-			0,997		-
+			b		-			1,137		-
+			r		-			0,996		-
+			r²		-			0,991		-
+			det%	-			99,14|		-
+trig	AS	VL	a	1444443,139	1413470,906	-
 			b		1,298E-05	1,364E-05	-
 			c		-1,363		-1,441		-
 			d		1443961,529	1461616,015	-
-	PT	VL	a		-		86528,469	-
-			b		-		1,312E-05	-
-			c		-		-0,669		-
-			d		-		53642,944	-
-	PT	AS	a		-		77215,288	-
-			b		-		-5,806E-06	-
-			c		-		17,341		-
-			d		-		68644,477	-
-	VL	AS	a		-		-		237,261
-			b		-		-		0,009
-			c		-		-		-0,961
-			d		-		-		193,137
+	PT	VL	a		-			86528,469	-
+			b		-			1,312E-05	-
+			c		-			-0,669		-
+			d		-			53642,944	-
+	PT	AS	a		-			77215,288	-
+			b		-			-5,806E-06	-
+			c		-			17,341		-
+			d		-			68644,477	-
+	VL	AS	a		-			-			237,261
+			b		-			-			0,009
+			c		-			-			-0,961
+			d		-			-			193,137
 ~~~
 
-Table 4. Predicted values $y'$, difference values $diff=y'-y$, ratio factors $rf=|\frac{y}{y'}|$ with $\overline{rf}$ *AM* and standard deviation *SD*.
+**Table 4**. Predicted values $y'$, difference values $diff=y'-y$, ratio factors $rf=|\frac{y}{y'}|$ with $\overline{rf}$ *AM* and standard deviation *SD*.
 ~~~
 n		x		y		y'		diff		rf
 
@@ -352,7 +352,7 @@ $b=8.87917×10^{-3}$,
 $c=-0.96118$,  
 displacement $d=193.13683$.
 
-Figure 1. Regressions, $y=VL$, $x=AS$.
+**Figure 1**. Regressions, $y=VL$, $x=AS$.
 ![figure.\label{reg1}](reg1.jpg)
 
 For $y=VL$, $x=PT$ with $n=8$ resulted a power regression function (4)
@@ -364,7 +364,7 @@ with $r=0.996$, $det=99.14\\%$ and $\overline{rf}=1.02$, where
 $a=1.13708$,  
 $b=0.99729$.
 
-Figure 2. 	Power (trigonometric) regression, $y=VL$, $x=PT$.
+**Figure 2**. Power (trigonometric) regression, $y=VL$, $x=PT$.
 ![figure.\label{reg2}](reg2.jpg)
 
 For $y=PT$, $x=VL$ with $n=8$ resulted a trigonometric regression function (10) in angle $\pi$ with $\overline{rf}=1.01$, where period $T=479072.68628s$, frequency $f=T^{-1}=2.08737×10^{-6}Hz$ and phase shift $\theta=50984.39628$,  
@@ -379,10 +379,8 @@ as well as a power regression function (4) with $r=0.996$, $det=99.14\\%$ and $\
 $a=0.95313$,  
 $b=0.99414$.
 
-Figure 3. Regressions, $y=PT$, $x=VL$.
+**Figure 3**. Regressions, $y=PT$, $x=VL$.
 ![figure.\label{reg3}](reg3.jpg)
-
-
 
 Further regressions (1-6, 10) revealed only insufficient accordance; regressions 7, 8 and 9 showed overall good fits with $r^2\ge0.99$.
 
